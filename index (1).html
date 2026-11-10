@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>কলকাতা কথা – শহরের খবর এক জায়গায়</title>
+<meta name="description" content="কলকাতার খবরের হেডলাইন, আবহাওয়া ও বাতাসের মান। মূল খবর পড়তে সংশ্লিষ্ট সংবাদমাধ্যমের লিংকে যান।">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#f7c600">
+<link rel="icon" href="icon.svg">
+<link href="https://fonts.googleapis.com/css2?family=Tiro+Bangla&family=Hind+Siliguri:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f6efe0;--card:#fffaf0;--ink:#1b1b1b;--mute:#6a6250;--taxi:#f7c600;--red:#c2261f;--line:#e2d4b4;--link:#0c4a6e}
+@media (prefers-color-scheme:dark){:root{--bg:#14171c;--card:#1d222a;--ink:#f6efe0;--mute:#a9a393;--red:#ff7a70;--line:#2c333d;--link:#7dd3fc}}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--ink);font-family:'Hind Siliguri',system-ui,sans-serif;line-height:1.55}
+.stripe{height:14px;background:repeating-conic-gradient(var(--ink) 0 25%,var(--taxi) 0 50%) 0 0/14px 14px}
+.wrap{max-width:1000px;margin:0 auto;padding:0 16px 60px}
+.top{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding:22px 0 14px;flex-wrap:wrap;border-bottom:2px solid var(--ink)}
+h1{font-family:'Tiro Bangla',serif;font-weight:400;font-size:clamp(40px,10vw,70px);line-height:1}
+h1 span{background:var(--taxi);color:#1b1b1b;padding:0 10px;border-radius:6px}
+.env{display:flex;gap:18px;font-size:14px;color:var(--mute)}
+.env b{display:block;font-size:30px;line-height:1.1;color:var(--ink);font-weight:600}
+.brief{margin:18px 0;padding:14px 18px;background:var(--card);border-left:6px solid var(--taxi);border-radius:4px 16px 4px 16px;white-space:pre-line}
+.brief h2{font-size:15px;color:var(--red);margin-bottom:4px}
+.brief small{display:block;margin-top:8px;color:var(--mute);font-size:12px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:14px 0}
+.chip{background:transparent;border:1.5px solid var(--ink);color:var(--ink);padding:5px 14px;border-radius:99px;font:inherit;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+input,select{padding:8px 14px;border-radius:99px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);font:inherit}
+input{flex:1;min-width:160px}
+.chip:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,.save:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+.list{display:grid;gap:12px}
+.item{display:grid;grid-template-columns:1fr auto;gap:12px;background:var(--card);border:1px solid var(--line);border-radius:4px 16px 4px 16px;padding:14px 16px}
+.item a{color:var(--ink);text-decoration:none;font-weight:600;font-size:18px;line-height:1.4}
+.item a:hover{color:var(--link);text-decoration:underline}
+.meta{font-size:13px;color:var(--mute);margin-top:4px}
+.meta i{font-style:normal;color:var(--red);font-weight:600}
+.save{background:none;border:0;font-size:22px;cursor:pointer;color:var(--red);align-self:start}
+.empty{padding:50px 10px;text-align:center;color:var(--mute)}
+footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);text-align:center;font-size:13px;color:var(--mute)}
+footer a{color:var(--link)}
+</style>
+</head>
+<body>
+<div class="stripe"></div>
+<div class="wrap">
+  <div class="top">
+    <h1>কলকাতা <span>কথা</span></h1>
+    <div class="env" id="env"></div>
+  </div>
+  <div id="brief"></div>
+  <div class="bar" id="cats"></div>
+  <div class="bar">
+    <input id="q" type="search" placeholder="হেডলাইন খুঁজুন" aria-label="হেডলাইন খুঁজুন">
+    <select id="lang" aria-label="ভাষা"><option value="">সব ভাষা</option><option value="bn">বাংলা</option><option value="en">English</option></select>
+    <select id="src" aria-label="সোর্স"><option value="">সব সোর্স</option></select>
+  </div>
+  <main class="list" id="list"></main>
+  <footer id="foot"></footer>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const bn = n => String(n).replace(/\d/g, d => "০১২৩৪৫৬৭৮৯"[d]);
+let data = {items:[]}, cat = "সব", saved = [];
+try { saved = JSON.parse(localStorage.getItem("saved") || "[]"); } catch(e) {}
+
+const WX = c => c===0?"পরিষ্কার":c<4?"আংশিক মেঘলা":c<50?"কুয়াশা":c<70?"বৃষ্টি":c<80?"বৃষ্টি":c<90?"ঝড়ো বৃষ্টি":"বজ্রঝড়";
+const AQI = a => a<=50?"ভালো":a<=100?"মাঝারি":a<=150?"সংবেদনশীলদের জন্য খারাপ":a<=200?"খারাপ":"অত্যন্ত খারাপ";
+function ago(iso){
+  const m = Math.max(1, Math.round((Date.now() - new Date(iso)) / 60000));
+  return m < 60 ? bn(m) + " মিনিট আগে" : m < 1440 ? bn(Math.round(m/60)) + " ঘণ্টা আগে" : bn(Math.round(m/1440)) + " দিন আগে";
+}
+function chips(){
+  const names = ["সব", ...new Set(data.items.map(i => i.cat)), "★ সেভ করা"];
+  $("#cats").innerHTML = names.map(n => `<button class="chip" aria-pressed="${n===cat}" data-c="${esc(n)}">${esc(n)}</button>`).join("");
+  document.querySelectorAll("[data-c]").forEach(b => b.onclick = () => { cat = b.dataset.c; chips(); render(); });
+}
+function render(){
+  const q = $("#q").value.trim().toLowerCase(), lg = $("#lang").value, sr = $("#src").value;
+  const items = data.items.filter(i =>
+    (cat === "সব" || (cat === "★ সেভ করা" ? saved.includes(i.link) : i.cat === cat)) &&
+    (!lg || i.lang === lg) && (!sr || i.source === sr) &&
+    (!q || (i.title + i.source).toLowerCase().includes(q)));
+  $("#list").innerHTML = items.length ? items.map(i => `
+    <article class="item">
+      <div><a href="${esc(i.link)}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a>
+      <div class="meta"><i>${esc(i.source)}</i> · ${ago(i.time)} · ${esc(i.cat)}</div></div>
+      <button class="save" data-l="${esc(i.link)}" aria-label="সেভ করুন">${saved.includes(i.link) ? "★" : "☆"}</button>
+    </article>`).join("")
+    : `<div class="empty">${data.updated ? "কোনো হেডলাইন মেলেনি।" : "এখনও ডেটা নেই। Actions ট্যাবে “Update Kolkata news” একবার চালান।"}</div>`;
+  document.querySelectorAll(".save").forEach(b => b.onclick = () => {
+    const l = b.dataset.l;
+    saved = saved.includes(l) ? saved.filter(x => x !== l) : [...saved, l];
+    try { localStorage.setItem("saved", JSON.stringify(saved)); } catch(e) {}
+    render();
+  });
+}
+async function init(){
+  try { data = await (await fetch("news.json?t=" + Date.now())).json(); } catch(e) {}
+  const e = data.env;
+  if (e) $("#env").innerHTML = `<div>কলকাতা এখন<b>${bn(e.temp)}°C</b>${WX(e.code)} · অনুভূত ${bn(e.feels)}° · আর্দ্রতা ${bn(e.hum)}%</div>` +
+    (e.aqi != null ? `<div>বাতাসের মান (AQI)<b>${bn(e.aqi)}</b>${AQI(e.aqi)}</div>` : "");
+  if (data.brief) $("#brief").innerHTML = `<div class="brief"><h2>আজকের সংক্ষেপ</h2>${esc(data.brief)}<small>এটি AI দিয়ে হেডলাইন থেকে তৈরি। নির্ভুলতার জন্য মূল খবর দেখুন।</small></div>`;
+  const srcs = [...new Set(data.items.map(i => i.source))].sort();
+  $("#src").innerHTML = '<option value="">সব সোর্স</option>' + srcs.map(s => `<option>${esc(s)}</option>`).join("");
+  $("#foot").innerHTML = (data.updated ? "আপডেট: " + ago(data.updated) + "। " : "") +
+    `এখানে শুধু হেডলাইন ও মূল সংবাদমাধ্যমের লিংক দেওয়া হয়। সব খবরের স্বত্ব সংশ্লিষ্ট প্রকাশকের। <a href="legal.html">আইনি তথ্য ও গোপনীয়তা</a>`;
+  chips(); render();
+}
+$("#q").oninput = $("#lang").onchange = $("#src").onchange = render;
+init();
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>
