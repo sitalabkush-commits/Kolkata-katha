@@ -1,14 +1,22 @@
 {
- "updated": "2026-11-10T23:10:18.279824+00:00",
+ "updated": "2026-11-11T00:02:23.376403+00:00",
  "env": {
-  "temp": 23,
-  "feels": 28,
+  "temp": 22,
+  "feels": 27,
   "hum": 100,
   "code": 45,
-  "aqi": 154
+  "aqi": 153
  },
  "brief": "",
  "items": [
+  {
+   "title": "সমুদ্রের উষ্ণতায় উধাও শীত, শনি থেকে সাময়িক পারদপতন",
+   "source": "Ei Samay",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ29LQWxHdmFjeW54SDU2OGFXOVpuS0lUTElVZHA4dEhtQ1VMT1Q1ajZZRkR2RHkxZE9NUklMVnJhbjhHcW1GZDBndUNMRVViVDUtbHJ3ZVI0RERMUWVxV0lmV1dYc2YwNVdhTnhLVDJXVGd3OUYzZjZ5TjctRDAtN3VoVm5wV20tYUhGR1N3RjhJTlRiY0VtMWZNR01LZHpyc2Q1SllRcXpTejFPUG9FWW84SWlhOXloTHZLZk1pSDR4SXZnNG54WnRva2ZZOEVoSjR0RmZBONIB5AFBVV95cUxPLUxCSU5SVHJmRnJnMHNyY05jSWFwRGcxREgxejA4OERiTHY5NHlXQTJSalVZanBTV3FUVjBoQXVibzVENmhjWXdjaGRWa01xU1pJaWl6N0tGY3BvX2tEQXhXM2I2Z1NZdGowc09fMTgxZGw5cHo4XzVtclRDNS1Rd2tUa0QtWGl5VE15UG13ZTg1b0ZSOC04dHBGbG9lUEFkQ0FJdkxlRWY4QlB3Vndnck0tLWNkbk0yMXQyeWtkOV9xU0p5dTRjbV9wLWFjQ3YwYW9rVkEycmh5S1JRM3UtTmg3dTI?oc=5",
+   "time": "2026-11-10T23:32:26+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
   {
    "title": "Union Minister of State for Agriculture, Shri Ram Nath Thakur visits ICAR-CIFE Kolkata Centre",
    "source": "Odisha Diary",
@@ -16,6 +24,14 @@
    "time": "2026-11-10T22:49:13+00:00",
    "cat": "শীর্ষ",
    "lang": "en"
+  },
+  {
+   "title": "কলকাতা পুরসভা ভোটে স্থগিতাদেশ জারি থাকলে কো-অর্ডিনেটর নিয়োগ",
+   "source": "Bartaman Patrika",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMDhCQkRzUXU4U1BvSXNyM2JMdHJQYTlaQmVIbk14TC0wVGNQcjJMcV9iSFhqVU9JZTFuT3EzME9pYzhkcFJ6NDhNWFN5eml0UnNCak4ydEpXbUNtQkZITFlUSDMxOXNlM1BUR1c3d0REaXZ6Vy13Um5VWmU0M28zVFZNbXM4ZU9jSHNuMmhhM2dUaGRfSGhDVDM3NUlEUWFGcm5CYUpaUWpXX2JydDZRMkxQVGlIUXFXbjI0QzlHTGpNQlZYWm1hUXRnamxGdw?oc=5",
+   "time": "2026-11-10T22:30:05+00:00",
+   "cat": "ব্যবসা",
+   "lang": "bn"
   },
   {
    "title": "Kolkata Police Attacks Leave Four Officers Injured, Five Arrested",
@@ -98,14 +114,6 @@
    "lang": "en"
   },
   {
-   "title": "Kolkata: Rainfall Brings Wet Weather To The City #Gallery",
-   "source": "Social News XYZ",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQlo1Vlh1djBDQlUwQ1R2aHNoQzQxRlYwdjQ5NW9XYkU5aU85MFdteUNRcTNjenNzMFptZFlwNlM0T2tLVThzWHRWampYR0lhcmFERTM4cXhrbTBIRVg2b0NnaWtpVXBMRmZNaUpTNFNnWHBhSHY3c2U4OEVrZ2MyYjJjSlQzQXBMcTZVQW1fbV9neUR1aTdkZG5B0gGaAUFVX3lxTE5CWjVWWHV2MENCVTBDVHZoc2hDNDFGVjB2NDk1b1diRTlpTzkwV215Q1FxM2N6c3MwWm1kWXA2UzRPa0tVOHNYdFZqalhHSWFyYURFMzhxeGttMEhFWDZvQ2dpa2lVcExGZk1pSlM0U2dYcGFIdjdzZTg4RWtnYzJiMmNKVDNBcExxNlVBbV9tX2d5RHVpN2RkbkE?oc=5",
-   "time": "2026-11-10T19:07:17+00:00",
-   "cat": "আবহাওয়া",
-   "lang": "en"
-  },
-  {
    "title": "Kol Police detective department takes over Abhishek house violence probe, carries out reconstruction of c",
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOZFRWV3Y0bll0RVo2MmVaMzVJbGdKMlRCQWdQQUxicGF6VjRhTmhZbVdtNl8xamNGM2tta2NmTnNkcDZWakFsTEZrQUthS2NXdElicTlaLTVvN2VyUVYyTlJaMzkyWElvcGRKdUlMRWh5YU82RG1paVUtLV9hMjZPLTZoUUl1MjRtYzNNZjA5bEFaZFpURTc0RW9aUTJ4X0hkNFZLdmgzdlpIdktYbmY3cnBDWFNod2R2bkgzYTVuSC1uejQxamNvTDR3MlpyODRldzJVdFprUVVMXzRqVFc3aUExcHlqVkFGMnJXNWtCLXJfUVJmMHA2TlYzOTQ1OWNUNjExR1o3ajRCYWFwVjYzZEFxa0V1em42Tjh6dWVuLTlFa2R2UUkwcFUxM2h2MmdWVHlDRzdpVGNRUdIBvwJBVV95cUxNLUx0Ung1XzVNYmdkc29oWkFVaVdteDF5c2VuV0NHVVlzM0VJaGVpV0xtZFZGT3diazJkU0VILVJwZ29iYXJlWGlyTmp0Tk54eVRZVk4tMXM2d3c1bFJLbnNMaGR2YXBwUjQ4ZjlJYmVXTVJ4OXBoWmxuOGtjNTB1TmtDc3ZUenVfT3ZWa19Kb2ZfdlhnU011T1k4MkZMU1FVNV9qbkRkV3hRRlZZNHhlZjI2enZ0dkpITHdrQ0VMeUl5N29QQmV2QkgyaDJHa0Y2YndvR3ZqYWdxSnNYR3NERnBHWUNjYUlhc3o1anhDX2FJempuOTQwUWlzV1hoREJIbUZPMlNzRXFIdXFHT0VSOElIMGEwSVZxOUdrTG9YdERMazlVS3ZsdnZBRjhSTUd1TE16Z2h2dTJSWmhnT3lv?oc=5",
@@ -140,9 +148,9 @@
   {
    "title": "Breather for lakes: Min announces alternative arrangements for Chhath",
    "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYkM3VXl0T3dLWS1UeEFaYVFVSk9yLXMybVY2cXV4RmVHemRFUjdHUWlnMzlVMjY0VUVoSk9COE9GSWpleGMxazdBRER1bjBDeWRORzYxcUFVM1FzTENDSjFacDN1cjNCODUtbmNhQXZXdm0zbHM5QXN3V0k2X0M4TVJQSE5EQVVLSUJPZ1U3dUdTbHpxeUNhNHRVU0ljdmY2MzE2dUNSQzJuSUxnc0Z1eWZxN0hqaGs4eWNHZkdocEgyeTY5bTZWbWdKcWdna1FUTlYyUXhtMHhMWl94T3FTZ9IB4AFBVV95cUxOYkM3VXl0T3dLWS1UeEFaYVFVSk9yLXMybVY2cXV4RmVHemRFUjdHUWlnMzlVMjY0VUVoSk9COE9GSWpleGMxazdBRER1bjBDeWRORzYxcUFVM1FzTENDSjFacDN1cjNCODUtbmNhQXZXdm0zbHM5QXN3V0k2X0M4TVJQSE5EQVVLSUJPZ1U3dUdTbHpxeUNhNHRVU0ljdmY2MzE2dUNSQzJuSUxnc0Z1eWZxN0hqaGs4eWNHZkdocEgyeTY5bTZWbWdKcWdna1FUTlYyUXhtMHhMWl94T3FTZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYllzRDVyNHBqSzI1eFJSMEZnSXNqNVhsYzJrX1JOSDdJYTV2elB0WnozekxsdEh6aUFCcEFWYnkwS0VuUWNlbU8wcUJON3lkNU1lZU9hVkRVaWdWcWRzZDdQRDhteUFRRThhWjF1NEtYanM3Z3NZVFo3SUdGUWVmOGkzVVNsaXFJYkw5d2w0R0VJR1d5T0puVE9lWDdwRGtCSzR5S1lzUGpzZ3RBZmU3aW4yMzlZY1RCU3U2eWpFbldsdHNOa19iRDg5S2cxOHNILUE2TW5tUXhnTVnSAeABQVVfeXFMTmJDN1V5dE93S1ktVHhBWmFRVUpPci1zMm1WNnF1eEZlR3pkRVI3R1FpZzM5VTI2NFVFaEpPQjhPRklqZXhjMWs3QUREdW4wQ3lkTkc2MXFBVTNRc0xDQ0oxWnAzdXIzQjg1LW5jYUF2V3ZtM2xzOUFzd1dJNl9DOE1SUEhOREFVS0lCT2dVN3VHU2x6cXlDYTR0VVNJY3ZmNjMxNnVDUkMybklMZ3NGdXlmcTdIamhrOHljR2ZHaHBIMnk2OW02Vm1nSnFnZ2tRVE5WMlF4bTB4TFpfeE9xU2c?oc=5",
    "time": "2026-11-10T18:53:00+00:00",
-   "cat": "শহর",
+   "cat": "শীর্ষ",
    "lang": "en"
   },
   {
@@ -263,14 +271,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTFVRGc0aUpfUHF0emM1cEduNDdEV2FHNUpIc3daMk5iVzktbGFKeHhmMGFHZkJ6RUE0aEJNTzQxQndSWGtjcWVHZ0d6dVBPOGhTYjY4YmwyWTU0eTkzdDRXdjk3M2tjZUc3ZGRmLTZwRWFJXy12d2I3UTJSQlhXNjJtdzJzc0g0YU56WVNKaTZYQThwQXFiUnZtZ1Y5RXZOMmRfWnlYRkFrN1VQcGVnYlBhMnBFNWl2TDFWeGNINjhINmNoMWdkVmZ30gHPAUFVX3lxTE9jNEZCRHcyLUwxOXdvYXZwY0ZtOE51aUZpc3NrRjVNRGpVeW81MXVKX0dHdDBvb3Zhc0NxbjV2WWZWZVFQX0Z5SjdZLXpjU2hoMTE4UHQ1WTBNLUJiMXNXZGZmcFp2YU1Kd0hIVE1OeTZtRjlwUkhlSUxPczNHa1ozRVRCdDlFcXZrb1hIdFRKTnVqS3dOWmxYdk1GY1ZFV09ZZzdOQ01ZQ2liODlvWUJKYkRYaE83ZVpheWdfMHRiaElXc0Y2cHNicERUT0NSRQ?oc=5",
    "time": "2026-11-10T18:26:00+00:00",
    "cat": "শহর",
-   "lang": "en"
-  },
-  {
-   "title": "Buddha was good man in bad party, says Suvendu",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelZjRGpkVXdxSE92NFFTZkUzeEFyQ3R4YzZZUUNQMlp0U3J4UkNkUGtkMHNsb3FXQ0dnc0NVTjhEQXgxM2FTTGkwWHMtT1F6c013bnhrd3Y5VTg2SVBlbnBEYXFWMl9XM0hMZlNFalQ5RlZTVTAzYVFrSEVaR0R5Z29EQzQ4aEpyaWJhd1V6aVExNjZsRG9GRW80WjlzS0hUX3VjajczRHJBNWtlSnlTRU05REF1S2d4Y1NjStIBwgFBVV95cUxNbGFLTTlwZ0RkZEJTbi1rNl9DNF9uRWpMMU5SalRDd1RxcDhxaWVHM3RfekRXLS1kLTVJZkk5M1ZTNEJzRjZwdWNCUVAxa1ltREVVOUppaEtvRzAxbGpCcHZDZnd5YnpJVzJnQkl5eVBoZTRRN1hSaWxqbjMwbkh0dUVneGVNamxYZWdCNl80TU5fU2huTEtvdnR0bVhDZDVhSGk1bWd5LTJ5NDUwSTJ0VlAtVHdfaUllVkdZR01rT1RoUQ?oc=5",
-   "time": "2026-11-10T18:25:00+00:00",
-   "cat": "শীর্ষ",
    "lang": "en"
   },
   {
@@ -426,20 +426,12 @@
    "lang": "bn"
   },
   {
-   "title": "Kolkata Police Arrest 592, Seize 238 Kg Banned Fireworks On Kali Puja",
+   "title": "Kolkata Police Arrest 890, Seize Over 105 kg Of Prohibited Fireworks",
    "source": "Outlook India",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekhPTElPUG94VV9zSXVTamFoanlqNklqVDZmT0UxdUh6N0lIN2c0ZzNYeE5KQWU1MDFVZ1U0ZGEzYXNzVXFVRjJzeUNFQ3dHVHRlMlFzbUJYY0V3OURpQ01UemUzb01VOWVYVXpTMGRpQVBwUzZqeEpXY0l4aWFvbFU1NjFEMlZnU1YyZk1hMGY5VEVYQXFuUU94YWR1SkU2Tk41N21RRkE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekhPTElPUG94VV9zSXVTamFoanlqNklqVDZmT0UxdUh6N0lIN2c0ZzNYeE5KQWU1MDFVZ1U0ZGEzYXNzVXFVRjJzeUNFQ3dHVHRlMlFzbUJYY0V3OURpQ01UemUzb01VOWVYVXpTMGRpQVBwUzZqeEpXY0l4aWFvbFU1NjFEMlZnU1YyZk1hMGY5VEVYQXFuUU94YWR1SkU2Tk41N21RRkHSAbYBQVVfeXFMUDhRMG5iaktBenhUSDFvekQwX014Y1RDVXFNU1BJQy1wSm9CWTJoeHhzUHg1TVFKcXFPYjduaENXbDJxbXgwdlZiX3ZIbzVwY2k0NzVkV1JSMkVVNm5jN0hUcmxpQ0RTWk50RkRoMkdlak1BMld4QmV3QU1SU0dNUHRkRWFqRzdZcDhVbThxRXlxenZwaXdLTkFkazNudFJvMzM3TEpJNzJiRlNad1RIaWU1eHNCMFE?oc=5",
    "time": "2026-11-10T15:26:35+00:00",
    "cat": "শহর",
    "lang": "en"
-  },
-  {
-   "title": "Kolkata Crime: সঙ্গীর ওপর নজরদারি আর সন্দেহের কারণে গড়িয়ায় লিভ ইন পার্টনার খুন? সব জানাল পুলিশ",
-   "source": "Asianet News Bangla",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMXQ0T29mRlh1QkdEUU9iWHdfM1o1aGRCLUdHQS00cG1OX0piRGhVdEFjZUF0OTByT2hoaGxwOWg2Mjd6N2RLRWdvSlViR3l2RzZoOFktVkxZcXh1SDQ5eUpVZzE4NU5UelhEWmpKNlQwbWhtdUNiTnJNMmZrbjgtb0tGNHB2RklnZkVSU0h6aEtrUjZWZzR3anpjd2ktcEdsSmNQbzRMUldoUC1NcWl5SUVNUVdPUHduaXZQWDQwUGxYaUpUSG1vcXZHXzBLdmVuaFpvc2ZjQ0FwZF9rTVZ1aFdBbFRaalE4a0RR0gHwAUFVX3lxTE41NTgxVnY5V2dQN0tKY203V1p4VVp2UU84clJvZjA1MFE5ZjRfNXlkdjdxR0R3VjVIZ09CSi0wQnZzQnJ4cHVTTkpfdm1zaUJKMmR1RFlWdXp3Mk1nbmpfN3NSRDBMTFRDUldmaEs0ZG0yV1FMUU5fWm01TUF0cXlJd0RnOTRKVnlwSmVLRThmUE92WEQ2TXhjVnp3Z1IzUTdxTkU0QWw2RjFTblY5bmF2dTVpQ3hTclh4NmgycGJoZzJWNXBhWVR2ZDJXRnhKWWJ0Rmgzc2dJclQyRnM2ai1BeHE4dFlyVmMtaWJGNjVkSg?oc=5",
-   "time": "2026-11-10T15:12:14+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
   },
   {
    "title": "ভাইফোঁটায় রান্নার হ্যাপা নয়! দক্ষিণ কলকাতার এই ৭ ঠিকানায় জমুক চিনে-ভোজ, কত খরচে কী খাবেন?",
@@ -562,6 +554,14 @@
    "lang": "bn"
   },
   {
+   "title": "Rainfall Brings Wet Weather To The City",
+   "source": "Prokerala",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd084Y3JKV0RTNGx1SlZFWTVhcGlHeUN1X2pDdHd2QXl0c2dHblNDVnRQbzd1emFwRVBfbXJKbXh3d0FSRTZpZ0xudDJCTkQ2X1c1NnR3NlIwN1BBOHl4QzR4ei1OdjRuaEpJa0doVk04R09YZDY5akJ5aFpDQVVMUU1oTXhxaFV5Vmh6akE0OThhMENJ?oc=5",
+   "time": "2026-11-10T13:00:01+00:00",
+   "cat": "আবহাওয়া",
+   "lang": "en"
+  },
+  {
    "title": "ভাইফোঁটায় বৃষ্টি, জোড়া ঘূর্ণাবর্তের জেরে হলুদ সতর্কতা, আগামীকালের আবহাওয়া",
    "source": "India Hood Bangla",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWxGa0tndTZfYmRaOTJmdUhtSnJiaHR4cDRkbFdPMmI1RXBXUnJlbmVkNDl4Z2lvekNneHpEUGlzNHU2VDNTX3RoeENuYzFWQ2RrblMxcHZQZi11aHVmbXBPanQzY2RSN0NKRUdpNkZvTzY1SHVZYUNrX2paQ1pVZy1Bd1cwTVZreFVfeHg3MW5ZTHVJbjdITEpBZEt0VnZ5MjktbzBsNVRwTTJCellsMUhaTmNNU2VVSE4yaWd5Y09nSmFzaW5jcUpENkk2WFl3YWc?oc=5",
@@ -594,6 +594,14 @@
    "lang": "bn"
   },
   {
+   "title": "মার্চ-মে’র গরমে কেন, আইপিএলকে শীতে নিয়ে যাওয়ার পরামর্শ কলকাতার মালিকের",
+   "source": "Somoy News",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tYThDVzBNa3VjWVlwOGtObHZadm9RaFRiN3ZLU1ozQ25zUnRfczAxX21GQ2F0WkVnZTRTbktIYXE2QVpLbUZvMFVyek1hazhXUkg4NjhUN0JJeUNaNFE?oc=5",
+   "time": "2026-11-10T12:43:00+00:00",
+   "cat": "ব্যবসা",
+   "lang": "bn"
+  },
+  {
    "title": "Tala pipeline breach: Agnimitra assures water tankers, says replacement line will have larger diameter",
    "source": "The Statesman",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOEMzVlE4UGV4NWtXWG9ha3YtV0RpZFBjdEZUakdtVG1ta2g5Y2J0QUJyNUN1ZUQ3c3Bud1VOOVVJd3pURTZLcl90RUJWYVZRd3pGajE3eFBmTHl6c20wOEdhZzMtS1d1czRfV25La3dlZjhEMTRmTS1BRlkwTEZjWElMM0NRamtwMmJlRW0zaTVIeF9yZ2N0S0FucUtlTGVuY24tTlJTRExYRjRlU0ZLbEZ3bUpEVFNfVTY4bC1YdXA2MnFrV2dLWU5rRFFVNDdlSGdvd2JVbE1uWEpqeDBDZ2ZyZkY2dGlCZDg4NWtzcjZLd9IB9wFBVV95cUxQVzl6d3RUc2pidV82V1VwOVVuaGVZQkFHb3NPOWdCaTRJZjIwb2FrNHZ5QmxfcVlid1VYRS1zQzE0TmxyaHN0dW8wbnpJUlQyMk5ta0pZS0szdktJV1dVVTBKZEpNaHNRQ01aMENqVEItcDM0a3pBVmhXTnRpSUpfSXhFUmdEdllTcmJROFR2d19QWmg0WTFSZDJsRHJzZmtyRWl5OFYyOGhVVG43R0Z3OXpOUmJ4TXRnMlgwMDYyd1pkWU9YbDNaeHh4NEQwajFnSjBXU2tkaXZHVldxZHV1SkJFUmJBYlpCZV9RZnVKckk4VWlXcEZJ?oc=5",
@@ -616,14 +624,6 @@
    "time": "2026-11-10T11:54:20+00:00",
    "cat": "ব্যবসা",
    "lang": "bn"
-  },
-  {
-   "title": "‘Man-made crisis’: Naveen Patnaik slams Odisha govt over Ganjam flood response",
-   "source": "The Hawk",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWhrSFpvQTBoc21LcFZEZDF2SWo4dm9RMTJ3S2FRdGY4dXhBbmU1eE8wbXBlZ3JDYjAtOWY5SnZEaC1nb3FTa3NtWE1Mam9OMVZKSjE2RnlaTzh4YmM3c0xlVXNKOF9oc0VQSXJ1c0pEOWF3Z0pOOTlkdUNKSXAwbGRsUG1HYWlWOUFTSHJUbm1fZkw2UWRjMmQxV1hFWmRyYWVZNUlOdFRFS1kzUWIxbk5IZFJVWWJxLUYyekNXV0hheTg?oc=5",
-   "time": "2026-11-10T11:52:34+00:00",
-   "cat": "আবহাওয়া",
-   "lang": "en"
   },
   {
    "title": "Tastes2Plate to launch ‘hot intercity’ food delivery pilot in Kolkata from Nov 11",
@@ -879,14 +879,6 @@
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVm1GSm1xTlVFekN2QzFER3EtcHFib3pfVDhJNDU5dngyRXphVURCQjhjYnZOT0FTUXVRT3JGTks4N3k2RExlNzBscVVlSHEzZTU2ZnVfRlcxQWZmUjJJZUFWUWJXLWpXNDZuQlZjRlc3WThUbjJySlo0LUxYX0U3bHUwbmd3amRlNEJOVWlrVk1sbVRfbHFEdWRXRm5PdHVET0l5VGIxSV9nUHZELTBickFCcUxiZ1p5X21tYVkyUDlRcy05TkFCaEEtVkFGUG9Lc2czTDIxUnRSbWtNYklfY2N5UmRKVElCTk5j?oc=5",
    "time": "2026-11-10T07:02:30+00:00",
    "cat": "সংস্কৃতি",
-   "lang": "en"
-  },
-  {
-   "title": "Kolkata Police arrest 890, seize over 105 kg of prohibited fireworks",
-   "source": "ThePrint",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHBmMlBuYnllOUtIMVphRjFqSmxWSVFscmczeXRzYU5YUHY4T3pzSVV1SE9tMVc1OHpmbk1yNHZSaWctV2xaOUNIY3NGamlwR3R4MjJ6V2FjbmR0TWhNWGlDSGU4eWo0SFgwX056MTFrOC1BZTdDWG5zak1HNkNEdEZkT1V0QTFBMmFMelRQZzRhTFB3ejl4U3R0OThWRmJ2WVFySdIBqgFBVV95cUxOOFl5R25rU1ZROEI0aFVRMEtGa1ROeE93THVWczkxdjBDSWIxMVMwNE5XVEs3UC1ZT2trZ2oxZEppTEctSjZMeWI2YUNTQ1hkNXVZWldDcFNubFR5YS1RdnExR1J2dlVYYzc1VTNpVTlRbDFJcWM2bUMxU3NhM29oa0RfZ0N5SUg2V3E3Tm5wY2ZtZkd4ZDl5bEMzWGJkWUlYVDFxUjVVbGVZZw?oc=5",
-   "time": "2026-11-10T06:47:14+00:00",
-   "cat": "ব্যবসা",
    "lang": "en"
   },
   {
@@ -1234,6 +1226,14 @@
    "lang": "en"
   },
   {
+   "title": "NFR’s RPF rescues eight children, assists two women during childbirth",
+   "source": "The Hawk",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT216U2tfbDRxTlRlTmZocmpTVHNNcnQtaHBhMHZpYll2WmZhTGtBb0Ywa2dvb1l1enQzRnhQeGFIWm1PSExWbXBWb2JYNlZSR28ybkZ4bkhuZGFrTjVHMm5xUm5zZk1LbkY4UkdEVGFnTHR0RTdFMHVsMzhzYmhYVlN6Qk5DTzZydTIxTFM5UWtGY01STTQ3UEZPOHB6VjRPb0Nub25Ba256NUJYRno4b3lZZE45Qk0?oc=5",
+   "time": "2026-11-09T18:17:31+00:00",
+   "cat": "আবহাওয়া",
+   "lang": "en"
+  },
+  {
    "title": "জল নেমেছে, বিদ্যুৎ ফিরলেও পাইপ মেরামতিতে সময় লাগবে! কলকাতার বড় অংশে জল সংকটের আশঙ্কা",
    "source": "TheWall",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWs2T2s0ZTVnZFdycFRRUkpqWFBsaWpWVjNtWi1ROFBaUDRfcXdtOU5mRlRHN2RBd0NINTV5R01zWUwzeVhscEtZaEFRSWJrbUlwdF9GeVhxQkZfZjF6bmlCSDRhNXdENjl5OFlPcjBEUXFvYTU3OWRGaTh0ckZNWmhFVXozU0UyWmxNemFMMWVWZzZWY2xhd1AyMDZOSHlRQlRnT2tlclZTQjdzVzNycXlKa2stWWVXTHpkWlFKbFAwU2hMYVpDc0JDdGjSAdIBQVVfeXFMTkhMU2JWVWRVTGppSlY5aXR4T2R3OVN5T2QxbE1pMlE1RTJEeFVWTll2eXJhWmlnd3p1MXc2dWhkY21tUWFmcmN1SkE5MmVCS3FpTVUxZlEwZEpmU0p1VzEwd190RjBPMTVMU2JRT05SNlYwVVhtMUFsUm80MWE0LUY4ODlWNWJHWlZ0aEF5TTFQMW12ZTZpR0ZEMHNTdjNMUGtWR3ZnRFk5bTY1cDlfUnFFS3ZuTzFMR2ZWRWlCVXRYMlZDbjNMSERSSUZPakZWTWR3?oc=5",
@@ -1255,14 +1255,6 @@
    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcHFZN0dmZ1FKOTk4UVByNVpSR1NGU0dqdm1kbnRPWnpTbGFtYjRydDFHMFczRzRULVVTcVpzSlowcHJQRjh6TGc0dDBGdzN4Szk2clhXWjVrT1dsaHREMDNFSDRSQjNocVBaQlZTalNxaEJSRGI3VzFiSm96cHV6VzkyNzNlYkhFNXk2S3ltVUp5NWZPM0dPbHB0WnJDNjB4ZzdLWnI2UnhpMUN5cGdPd0FqaEgxaHdMajhwVVVZR3Z0M3ZDbXprTVdKMG9FWlgwbkpIb2g0dFpwT0NNVmRNUjNhb0xyS2FjSVRhTy1TSlNNRFd1YXJQZmF2eGxIUVkyOHBvUWZBUTV4S2RINnVMWnVTSERjdVNkUWxnZkI2Vk1oZno4dFRReGMxa1lZUDgzV3lsbTdMa1BDRUVGeUFfRG5WREdEZVHSAcwCQVVfeXFMT1dycXptajJXbm95NWNval9SaUl1bmlJRVZQMW9DYUJCbDI4M09WTENOY1Bkbld3LTQwLUV6a1lOcDFWWmtVZ0RZOW9xSVpsQ19aeHp5RlZ2X3NzVFJfZzlCZ2pKMFRuWXpnX1hpTXk3ZGFGUzJZbUNuX29vdmxPT0ZNNHhzQWliRTJaZ0pSRFJpOHpQckFNeHlLdUxDSUR3blJMeThpc1NBMU0zaG5GOWlhMDg3S3NkLS12SzhNUXhFREFsNXk5N1F5ZjFKaC1ZOE1vUmwyMkFlMklPSTNWbGhydmJUdkYwMEg2ZXRTbHA5OURCc2NtcGZVU2tISEcwUlhqdFlYX2VKdzN4b0ZMc0FpcTN0ckFUcjYxNTNoQV9wVUxfd3MyMjhYOTNFRlhDVFFQQmpiY3puWkdrcFRIcC1INUVpbnI0cUNNQ1g?oc=5",
    "time": "2026-11-09T17:25:25+00:00",
    "cat": "শহর",
-   "lang": "bn"
-  },
-  {
-   "title": "Anandabazar Patrika. . শব্দবাজির দৌরাত্ম্য থেকে আদৌ মুক্তি পাবে কলকাতা? #kolkata #firecrackerban #noisepollution #diwalipollution #WestBengalPolitics #suvenduadhikari #agnimitrapaul",
-   "source": "Facebook",
-   "link": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPLXpUVGsyb0c0dG9Od3JtOTNlamRIb0ZjSWxURjFTalZpSkdrUk1JbkhIUE8zZHQ4V29rWC05Nlpnam43ME9TNkpua0Ewa1oyRGpGZTRNd0dOSlhtRWh3ckJHV2ZPcDg5REhac3NDU0VfTFFlUFlXNnNLaHhaYzZnUmIxNjNob3k0WFBtcFduZTJic1dmNVg3cUEwanFrSjBzVFJYb3M2Ny1TMEF2ZWhrM3VjamhJMktzSVg0QmNrbkZ0QW9JZGg5WGw5WGQwSVp4ZzhRdjdKMmotQWdmWjR5Y1QybkZqVzVRa1llR21zdUVsOFV4NUhidlBnenJ4Z3RTZDllOWxUSkdqcGl3aU9ZX1JZZ0JxOHQ3eE1vZDZlSV9rT1otWkVvZ2xHZ0E5azYxa1ZidVlxdWR6Tk1pdUNtbDdDSEphdkZqdXNvVDJ3WVJQV3RKVFp4Ri1GRFk3UVFsNUhSQkZRajM0YVZZSm53NVFTYm5KTkRyTHdlUm5Oa1Zyd2FaZTF1Vm1tTDExZ2dEU1hxTWk2R1l4QU0yaHFTbFhZYWJaVlRwdmo2a1NxS3VlMk9JZlBfZTZqeDlBSTQyempKd1lISjFSTFJITnZQcmNTc3hueVNMNW5JTGVlTGZQYVh6ZE5GMVdONXdnOU1jd2N3R2t1Z0R3d3FiR29BT2ZKMEpfdnF6d3RBMlFURWE1VWRBalJPQktoQVhNLVI0M3BjUThLdGluU0s2Q0V5QWZZeW55ejd2dzk5eS1kWVJUcG5icFdXN0ExZEVpZlhLcWZaajZLbm42TUFiTk94M3V0aEk1eEd3OWhNbllHd1Z0MFVhQUNWUi0ybFl1aEhoOVhNOEN1TVVsWE9JUFd5ZjZ0Qmw1Snc?oc=5",
-   "time": "2026-11-09T17:12:39+00:00",
-   "cat": "ব্যবসা",
    "lang": "bn"
   },
   {
@@ -1682,14 +1674,6 @@
    "lang": "bn"
   },
   {
-   "title": "টালায় পাইপ ফেটে বিপত্তি, উত্তর কলকাতার একাধিক এলাকা জলে ভাসছে",
-   "source": "Ei Samay",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTdZc0dCYUdrWExJcW45YmVsbWdLMklMaHRybkJScE9VWG1yUHFJVE1VeVBtTkJYWDk5b01BY1l6VW81cGlXOURyUm8xd0VCbWRLR3UxYjRLSTZMdy1ZRnlrM2tZa296cmFPcTU3V1E2SXpUbXJvcGtEX2lVUjJSU1pFbWE4U0otQ1NHUm9PMXVnbUJJeGd5a21GNVI5WG1zSXROdUtLV3Ryb1l6NVdjZ1MtUFJzM2YxYXfSAccBQVVfeXFMTzhnTkxrWHlISEM5ZFdXTmsxTGhkcUxZMUdtLWxZcWtjSHk4OEdZcGpHcDdCTl9hVDN4RERJNzFLRzJrT2V4V0kweS1saGQzX2NUVkcwbGtGdDJjMUE2WDg5Qk4ya2lEdEUxbHlNQkNFLTNHXzVDUkQ0R2hOMVNLLU9SZndoS1RaZk9OWmZiaU83aDh2QlhNUmZrUGF3ekFpVmtrNWtsMk41QmJpT3Y4amE1OENjOGVtbDRGUnhBTWg4YzZrbGVBUQ?oc=5",
-   "time": "2026-11-09T06:35:07+00:00",
-   "cat": "ব্যবসা",
-   "lang": "bn"
-  },
-  {
    "title": "কালীপুজোর রাতে নিষিদ্ধ বাজির দাপট! কলকাতায় গ্রেপ্তার ৫৯২, বাজেয়াপ্ত ২৩৯ কেজি বাজি",
    "source": "Sangbad Pratidin",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEN0WFFuX0YxdE5yTzBvdUpmX0dtM0J0RzVYcF9Xdkp2OWJTSDNaUHdya2R6d21XZlplaThvTmMwc0dYamR1bUhORmlNM2Jxc24ydE1NbENySTFaaUZGOHNqbnFFYXRuS0RwMk16cGN6WEkwdVU0NFVHelFGaXRJbUNyVDV0eEVZOUdiUjJ4S19Nazl3VW13bzBZN2k4NUpUX3hCQjUxUF93cVFLdlZvY29lTkhYZy1HU25KbGhNWDFrWU5BdEdzNGF30gHKAUFVX3lxTE1QQ3RYUW5fRjF0TnJPMG91SmZfR20zQnRHNVhwX1d2SnY5YlNIM1pQd3JrZHp3bVdmWmVpOG9OYzBzR1hqZHVtSE5GaU0zYnFzbjJ0TU1sQ3JJMVppRkY4c2pucUVhdG5LRHAyTXpwY3pYSTB1VTQ0VUd6UUZpdEltQ3JUNXR4RVk5R2JSMnhLX01rOXdVbXdvMFk3aTg1SlRfeEJCNTFQX3dxUUt2Vm9jb2VOSFhnLUdTbkpsaE1YMWtZTkF0R3M0YXc?oc=5",
@@ -1698,18 +1682,10 @@
    "lang": "bn"
   },
   {
-   "title": "Gold and silver rates today (November 9, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and Tanishq",
+   "title": "Gold and silver rates today (November 9, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJ",
    "source": "The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWDBjNEJUbkZfSTRRYzhqSnZ5YmRMS0EtMWFERFVTdkkwQms3ZDVMTnNkNnZnNUtxcFRva2hpSWJvNEQ2Y2xIX3YxOUVPT0dBTUVYN3pmUWltaXlOQ1VHNHV1b1g0bkdXaFJ1R0czMm50Rk5leUZILTZFWE15Z0ZvWXQtTmxxYnN0UmxrNFBCSmMyR0dJYWZTOFB4Y1Q1ck41TEdvMlp1a2toZ1pjamV5emJyMnduQUZLdF9wbTBwdXhRaGdLM05sZzBlbl93MTF3UTRCTTJaWFJXYU5tVTVPQXVSZWtxcnNNcjU0NG1aRlFRanE4SHpWdUt6M1diTTdYMjk2VnB2NWNpODRQb3NzQVlqOER4bE9kTlRDQkw3b1loclBhakVYRVJEOXh4YkpGRWVVb2I2cHhKV05NaEtwN1otMjRBamtNRXRwZXp3SmQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWDBjNEJUbkZfSTRRYzhqSnZ5YmRMS0EtMWFERFVTdkkwQms3ZDVMTnNkNnZnNUtxcFRva2hpSWJvNEQ2Y2xIX3YxOUVPT0dBTUVYN3pmUWltaXlOQ1VHNHV1b1g0bkdXaFJ1R0czMm50Rk5leUZILTZFWE15Z0ZvWXQtTmxxYnN0UmxrNFBCSmMyR0dJYWZTOFB4Y1Q1ck41TEdvMlp1a2toZ1pjamV5emJyMnduQUZLdF9wbTBwdXhRaGdLM05sZzBlbl93MTF3UTRCTTJaWFJXYU5tVTVPQXVSZWtxcnNNcjU0NG1aRlFRanE4SHpWdUt6M1diTTdYMjk2VnB2NWNpODRQb3NzQVlqOER4bE9kTlRDQkw3b1loclBhakVYRVJEOXh4YkpGRWVVb2I2cHhKV05NaEtwN1otMjRBamtNRXRwZXp3SmTSAdYCQVVfeXFMUGwyam5uVkRWXzE1LXpNODJyZ2pScGZKaGMxazZCYlAxcks3M3g1VDYtZklrQ1RxZVhxUWd5OWIwVHhlRjVBUG91VHlxb0wzQ1FxeEZtcnB1UlVleUVNRm9Ld2c4ZzFWNGZNRkhLbkhEbF90dGRoVVJRVUpUSlZ1N25zOW5YLWNXdE45V2ItaERFQzNadnNubXZfMUtKeWxFdUloSjV3TllYSVo3SVlkSjMwZXVrOTNkc0NETzFIcFhjM2pHUXNGNTB3WnlPMUl5WVRpSmdIb2U5SG5hMnREVXY3alNpMU9jQ1NjdHlzNTh4bkdDendaU3g3SWMtZTJBX2RobTFGcVo5MllrZl9rODkwR2c3czBEREItaW5ZbTU5RklOWUgtR3psa3I4WFZDbm5VZmdCbmxlTjg0ZEwxSHB0U1NUSkcwMkpsR2F4b052YURRR2dn?oc=5",
    "time": "2026-11-09T06:08:47+00:00",
-   "cat": "ব্যবসা",
-   "lang": "en"
-  },
-  {
-   "title": "Murder Investigation: 25-Year-Old Stabbed in Kolkata Flat",
-   "source": "India News Network",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3NPaHJFdUtidUNHbk9OSzg4NWtFQ0dkMHc3NVlsLXlwNDdibGRWNmpyTS1iUGtEX0ZSR1dlbVBSb3lLV085bkYzOUlUdUVVb2RVR3c5TFBicmM1SURKdGIzWDZUcjFza3NCbC0ydDdNY19WYlJycWRWVFM0UVM4Q1hLckVtUTVpZl9IVS0tV3hqbXRPQTlvb0U3dWl5QkU?oc=5",
-   "time": "2026-11-09T05:46:09+00:00",
    "cat": "ব্যবসা",
    "lang": "en"
   },
@@ -1744,6 +1720,14 @@
    "time": "2026-11-09T05:16:51+00:00",
    "cat": "সংস্কৃতি",
    "lang": "bn"
+  },
+  {
+   "title": "ET Wealth Edition 15 November 2026",
+   "source": "The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QeDRMMWdqVW5CTmR6VElSa0FsN0g3MXBfRW9MSko2UEg2UmZSVWExU3MwNmNqaTBXSE55VEV3TlplZi1IYVlOS3M0eG1kd1lURjJfSjJkR3NqOGd5ZnFhRlln?oc=5",
+   "time": "2026-11-09T05:14:00+00:00",
+   "cat": "ব্যবসা",
+   "lang": "en"
   },
   {
    "title": "Over 590 Arrested, Firecrackers Seized In Kolkata During Kali Puja",
