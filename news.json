@@ -1,14 +1,358 @@
 {
- "updated": "2026-11-11T02:43:47.789415+00:00",
+ "updated": "2026-11-11T03:48:14.617293+00:00",
  "env": {
-  "temp": 24,
-  "feels": 28,
-  "hum": 85,
+  "temp": 26,
+  "feels": 31,
+  "hum": 78,
   "code": 0,
-  "aqi": 154
+  "aqi": 155
  },
  "brief": "",
  "items": [
+  {
+   "title": "Assam: 6 Coaches of Sairang-Kolkata Express Derails, Several Injured",
+   "source": "Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ3dnS2pLNS0tejRLUENEX0dxa3I3VnMwWDM4NG5LTldHUGJTYXNtZWhRQ25Nb2VLSzA2Ty00Q1Y3ODN0UGlHb1RnT3FTdXVEZldxVmdEc3dfTFpwRmttTGRNSzJLV3JJYnFsMHJSR1BYMWc5ZXRobllvQ0JsY3ZEcVY3c1NFRENMeVU5YWhNVmlQbHZ6SUg5RmNIOW1COGtYRno3T1VjM0xJaENDdGZkcWEtUFNUbmszSEhQTkszUEc3QW5jQ2fSAcsBQVVfeXFMUEFONFFvZFB6MjFqZklSZk4yNFFubVFuV05DTW9DUnRPRnlwek80N2hza0JvYlkxaXFJUW90ZTRaVVBxUTRkV1paMmwyQUNXWEJoR2dudG9GaDJGQ1BjRzNjWUlSWEc1cFZGRnBxekcxSEtZbU8zb1RvdDA4cjNaZDR3ZmU5al9FMDl5MVUzYjl4LVl5VENqNldxQmVlc1BwS3doR25UYlRKT0FLQVBfR2ppZzdHOUxVeTlIQ2pqQ3llaHFfZEtZYkMzMGM?oc=5",
+   "time": "2026-11-11T03:43:47+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Several coaches of Sairang-Kolkata Express train derails at Digaru in Assam",
+   "source": "The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdFBaLWtMTWp3ZUFCMzhGNnlXbmJINXRvVUxVaHlLTXYtT1hjZTBkNmdLQmdlXzdFUVp5WE1FUmp0b3ROZU94R3RqRVFMcl9ObXJZZUtCNDNDVTJSVGdtOGdhSko5RGNVam55SkZlQ2ZTUDR0VmRIa0JkNmFTN18zX05XZUZEQWhkMUFUVURGdlJ0MUhDbDBneXFZWC0wbUF1WlNkQ29qWDNzZm9yVUplR0l1LW5yb2ZXMWRJTmwtYmF1a1JmX2VjTmxFZFRWaUlhZVgxeDFMMDhlUHRIb2ZmYzJ3ZGhCeW_SAe4BQVVfeXFMTVRtbDJwa09BdXdWU3hQSnF4YXhwWjNqam5BdlZFV2FRMWZfQzZaUXdkVVhzMWNxVWRTVkgzX1k2T3VqR1ZfR1VSazQ1OEpZYVZVZUZIUl81VmFac0xPQXlrY2U2VF84YVRXVzI0cF9sNDVNSjdLbDRGMXBKUi1UNkxxdmVRRUpJR2lYUkYxVFpleHJBNFFfa21hcU9GWlNVTFZRQ2pWdXZxUjlPQkRrQ1V4MENlUEwwdWlBSGY1SUJvZnZqVHRfR1c5YVRtVWNmSnZKMlpVR2FTX0dmUzI1bm5PUEt1bGl6SG1VZGw3UQ?oc=5",
+   "time": "2026-11-11T03:38:56+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Kolkata Weather LATEST Update: More Rain Likely As Fresh Low-Pressure System Brews Over Bay Of Bengal",
+   "source": "Asianet Newsable",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc0xXLXBBd0YwLW93UHM4WDBqS2VVNTl0eWxZYTdHR29Yd1BVeDVqeDB4ZXdXS29nb1BrS0FYX1dKSnBGLTdnX2RJclVvS3VuTW43S3JSdGNxOWd2YnhCbUdidXVpZVktSl9wV3NkeXhXaG80NVdfRHg1d3NsaUFidFRiZy1XV0dOZm9mXzhpaVFFQklzeFo5VWMzXzB1dXZHSVJUN1NrUEtVR0RIOFdyektNeThjOWV2dUJwRGJnclFQbXVrMjNrNXlXcGdCYW9MVEswTWVHNnA3SGFPU2N0cFphY1dYVm9sdVHSAe8BQVVfeXFMTjQwSWVERVQ4c1VSRWNrcm5Mci1oRk01TnAzWklpRmV1UzRiTzBuZ1E2ZWdad2hNQWNUMGFVNHVHUmdibmYzY2VsblVfVUlHSmZSY2lQcTh1YnJ4NmctSk1od0FTY29JZmd6NXhXemxZdVczOVQwdzNIVFZGLVNMaG9QYnl1MzNqQmxxZUZTanI1cHd2M3BFN3Z1YjZ4Y0djMl92TDJTTWlDcEdPcTRSdm5hb3dWU2Q4XzhQNHN6QldzcGM0SFdmQk90dm9yYXFCSW9Uc1ZWb1duZDZrUHRoRG5TSG5BbWNuRkhWb09mM3c?oc=5",
+   "time": "2026-11-11T03:38:48+00:00",
+   "cat": "আবহাওয়া",
+   "lang": "en"
+  },
+  {
+   "title": "সাতসকালে লাইনচ্যুত কলকাতা-সাইরাং এক্সপ্রেস, আহত একাধিক",
+   "source": "BiswaBangla Sangbad",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56c1hRNEswQ2Z4ZVZIblFGZTZPMEhMS1Y4MFVCOGlYSEo2Z3pNU29vNkVMQWppR1dnc1I1cjJpMVNnMXRDN3RibGpVX25JWU43emppNzA2N2tCMk80TE5tTXBzeXlsaWJ0UEEtMWYzd3V2c1pzNXc?oc=5",
+   "time": "2026-11-11T03:36:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "মেঘলা আকাশ, ভাইফোঁটায় ‘দোসর’ বৃষ্টি, ঘূর্ণাবর্তের জেরে বাড়ল তাপমাত্রাও, কবে ফিরবে শীতের আমেজ?",
+   "source": "Ei Samay",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHZWQ2VHb0FsZFgwM3NsbHBncWl2azZfZy1tQnptQTR4MndEOFhmS3UwYVVxY3hob0xnellYWnV3elZtN2h3N1ZNTG1JMWJLdmlhc3IyeFhrOVN6RF9ld3ZBWFZPV0lPZTJ5eUpEanYwb09LWjI1Y0EzbmNQbUFURG9CS0xRa1MtZHR4aHZ6Y3R2QVJaRGtEajRJdkh4NUE5MVI5dG1SODU4NW9uSTBoZVdNdEJHUWFwaFNRS3lJLUtjR2ZyWVZDXzdBa0J0TFda0gHeAUFVX3lxTE1GWE5EekgxNFppc0NBYlJxa2p3UUFmM25vZDNZVjBTc1FSSUt1Y0xoN3YtaDJick9PWXdubmJnT3ZhN21CQnZzSW1GZUI2X1pySl9uYm1uQVM5aEdYaU9neFFIanlNNkJtMEQtTmk2YklFOHd0cFJ2S2VmeVZfeTN5T0sxTW9sNG5LWmQ2Y1BlT1NDWmJWbUpFdWNROHdqTjFvVVhxdllnZUFldVdzNlRWNWlWNUtURGpwWmRFQ0ctUG1kcm1yeFVOLUc4Tnp1UVpLY3Azc0I3c1NjRG1QUQ?oc=5",
+   "time": "2026-11-11T03:35:53+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Kolkata-Sairang Express Derails In Assam, Several Passengers Injured",
+   "source": "News Mobile",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFVENUJ3bFA3R0FZY1Ayc3dzX3N3UnBxMVFxM0UwUnZuX1A2eTFMbkRLempkUzc4M1ZldU1xaVFRM3pQTUE1NGlxUGMtVENCTmdpcWdZQW9yemp2LTlqaTVwaTFoVVp6QTJVUWl0RmR2X2xmZEluQzZvdnExVzNOWVRwVHNEVWxZaXJ2QkswVFNHdXJralZCUWRMYnZaUWNYVTdR?oc=5",
+   "time": "2026-11-11T03:35:45+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Kolkata-Sairang Express derails in Assam, six coaches and locomotive jump tracks",
+   "source": "The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT3dycUROcFluQW8wdmdkRUd6SWQ3dTQ3TUNrQWo0SUhwZU9CeXRmdUVfRWswamRHb2QzU00ycUNTVjlRc2x4a2NDMHE0c3REb29MRE1JZU1CZVFyUnotQU5CODVycUNRbWR3TzFzTklOZTVObkU4UENOQTZpMFFEdjZtN21pQ3JVN2xwYThYTU5LdklfM2pXMGZ6cjNVcDJ1bmtBTllzWFdmc2tqWUdyRUF0QkR0TE5tQmZCQmlhR2lwNlF2OEp4LXJ2QnlBemVZSk5J0gHgAUFVX3lxTE9pYnNSZmlhZlY1UFAtWWNzVTdpcHB1NTljbjJmSE1pM1ZFVnFBU2NSbWE1ZTEtUUZsb080N2Rwc3Vfd1hsWUlzSzFXSGRvTDEtWThXMC1YaHh2YXFFTmhuV3NYeUt4bmkzM3NMQVVreWFxNUFNUFJQeVc5OEQ1azFCWnZkQ0k2YTIzT05MXzZVT05fSjZXRkwxTTZ1QlplWVNOWFAwQlJHYWJEMmZXSlZkaDdtVEMxZkVNcmVURmlpRk9ZSUxjMHpVMDZTbTBQNlNDbmtXM2R1R0RrQzNER2p3?oc=5",
+   "time": "2026-11-11T03:35:43+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Kolkata-Sairang Express Derailment Injures Passengers in Assam",
+   "source": "Urban Acres",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbk5RNXNQNTBKeHRpclFKbVFuQkZQQ2o0SzdpcWNNdzhmUDdMV3RuN01FR0djTDluV0RfOEk3SExOajVmQS1ZejBsM2RhMk9rcnVSdk9VaEVTeWdJVVlONXhwTzNSV1F6aW45dzRXdF9jSEtpaXdWN2lYWklwMUNMUnJtZnpfYnZabmhqSFVn?oc=5",
+   "time": "2026-11-11T03:34:47+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Six coaches of Kolkata-Sairang Express derail at Digaru station, no casualties reported",
+   "source": "The News Mill",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHRDd2pyajR4dGlfZDJwUzRaNXUyVzlJbUNIMmFSTmpXWG5ialh6NEgxY1oxQ3A4VVQ0bHB0bjBDZjZ0YW1VLTFlMHkyd0JYelc4VWlKbEd3dDJpTmtuTTR6M0YzcVUxbzJRRTgxUmxlVThNWkEtWm5HcEhtdkMyV0ljRlVrMVdGWnJMWEpZaFQ2ZXlNdHZYcnNGZjh6b3hVU0ZIOTllRTNiYVhzZ0V4T1dTWVRtNlBRWEpF?oc=5",
+   "time": "2026-11-11T03:32:42+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Train accident in Assam: Six coaches of Kolkata-Sairang Express derail near Guwahati, several passengers injured",
+   "source": "The Statesman",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYklnYzl2MUlGeUk0UXl0MGxpN1NEZ2NvMEZGZ192dHplUkl5TjRMTzFMMEQxZHBrb2xUcEZTNmFoVnBqNzVVVkVfT1Y3R3ZLVm1XUzFtWlhrMHV5TTJVVU1YaDdRV2Q3WVZoR0FUOVdaQ1BITXZlWkpZeEtoUDNjcHFwT3RweFNTOGN0cm1XdmNIQTNtcWZua0l2b3NzREhsZjhFS3B3Ymo4NTJXZkVKc1daVnFjeXNIZG96ZE1xN242SUJjRXJWZUlnWDFrNzZ4b2V6R3Z6UGt0VVR3VWN4MUxYdkRGR3hLWVpzRVpsNVF2bmfSAfgBQVVfeXFMUHFMc0M4NWs2VGE0RUR6SkN2M2JRb2RRemtmMFlueFFITlFVODgyUWRTYmxUNjZpMW81cXRhdEx2NDMyckhrbjFrdjR2SV9fSTV1bnBETnZqYjVLemdfUjI3OTVKRzRqZ2dDYnJsOWI3SUlVYXFTRXYyWWVqd2ZLSmtmNUZlN3drZzZtT3c3TTc3Rzg0cGJ2cDN2LTBVTElaNTk5U3NOakZFVzlraUdiMVhSZ2dJMnYxUWVzVWp2MDlpMm92ZTdkcV8yZFNOeVNBY1ZDSkJwM2FNbTVudTdnRVZESEJDb1YzTDFZYU91alBidWRsNHRIWlk?oc=5",
+   "time": "2026-11-11T03:31:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Kolkata food scene: This new Burmese menu serves everything from sattu coolers to guava chaat",
+   "source": "t2ONLINE",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS3FQWF9QdjFPQVRaWXlaS0JtZnB1Vl81RW5pOW5xQnlYaEhzR2t2QXphYjg4ei1uNzJ6aEhqRS0xN1hseXR0c1lSVnlPeFN4SmlMZk9BUW80bV9wVHVDWXR4SW5FWVpYRjlVa043R1NMUHh5OXAwZmFYUmFWSGdUQTloZjRQYnNTY1JYTi1kY3Y4b3l4bjdnLTdzTVc5eW1xR1NDMG4tajIzWm1EQlJ3UGR0Tm1iMloyUW5mYWpPSHJiYkQxRUJ4amVHeHFQcDlWV1plQVZqUjFhVG1B?oc=5",
+   "time": "2026-11-11T03:26:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Train Accident News: সাতসকালে ফের ট্রেন দুর্ঘটনা, অসমের গুয়াহাটির কাছে লাইনচ্যুত কলকাতা-সাইরাং এক্সপ্রেস",
+   "source": "Asianet News Bangla",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNR3dLaUt3Sm5kSXlJS080OG5OaTJ6eFFvWFEwU1VQdkVGWXNJcnlKUmdGQVhyS3RiWkF4ajFvb3hKcHp3cGU1Q0ZsVGdVOVpiVnJIZjcxdGtVMy1US2hxWXhicWdZLVVnb1cyaVhzdmszSTZrb3JhY3E5SWM4VjFud2hUU3FjLVRENERnYUo0ZlU2ZVlFMW5RNXJNSVRlZXFPUzJ6TjdKVjVneExvSEs2OW1udUFzbmZtaDlrWnRNX2pGVkN3QmJyWkdfNXpNT2YwN3J4eHNldENTanJTaHVSS2hpSzRpMEMwT0J2czdEbkJuTnlzdkdTUzhJRUtmRmh2SU5MWlVR0gGLAkFVX3lxTE8ycjJLWnhzeUxCN2tGb3BoMFY0cjB6bFp6V3hoaHJnYTRHUDhueDMwT3pEU2QtcHhyTHNaYkdKZEhhVGs5bmo4NG41eVNBTzBlbm51RVZsV2lXY1E5bF9vUWdKQzJiTExaSGRGdU9JdnlndHdBeHVvUVJwLV9YNDhFUGNzSEhOYVNyQTIycDBFZjlrSjJlSUxjZXYySkxqTEtTc2xqTE4zVjQ0VzctblJWbmlVVWQ2SlV3X3BxNllaVW9ySXBzVlpxS1dHV3pRQk5JVnkxSkxUdFZWQW5JdWhUa2Mzc1V2WllnRDJYMlYyZTEyWktKSDg1ZHNMLTBzX1JUd08yRTVHN3gtVQ?oc=5",
+   "time": "2026-11-11T03:24:55+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "উল্টোডাঙা উড়ালপুলের হাইটবার ভেঙে পড়ল গাড়িতে! রাতের কলকাতায় দুর্ঘটনা",
+   "source": "BiswaBangla Sangbad",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HSi14V3Jlei1ETGpiNk41bV9DOVpMNjRhZDM3ZmViZE55V21LMWJ3ZFhGOVQzeW8tZDJWTm5aQnBuQlJNOUZYVzU2dkN1V2NGS1FCM0lPbnNNUlFILU1xQ1hfZEd2N01VSVJFeFFoYkdVbDJNZ1BSUDhn?oc=5",
+   "time": "2026-11-11T03:24:49+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Several injured after six coaches of Kolkata–Sairang Express derail in Assam's Digaru, no casualties reported",
+   "source": "WION",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVHozR3dIdUZHM3QwSS00aUVZSEttOW5yNzdoaC1iVHAtdldmS1ZYcVh4MWxVMzcxa0pmOHY2WHZjaFpUNEYzTVhoVjZRRlg1aGJBZTRzZmM4V1hlVUZoYzc2dW9RWE5YekFIQUdjV2Y4cmgzUXdFdkZ3QVNreWxvUUF1cURoWThSc0dqWlNFYl9mN1lIZlR1ZUp0WVNoR3ZFalZPbTZFNkFsRXBNMEs5X0RTSmpPdkxDSzNYX1lqUnE5cVhERVI5N3ktbGtha3ZfcW04b0J4SE5MUmZUOG9kMlVMbGdOTXBuclNINHlB0gHzAUFVX3lxTE5lSnBFZWxETVc5V3d2X0lJQUZDdmgtY1dSOTU1VjVjU25vZDJ6RTlvWTh0VnFMbGxBc01iR2h4TnZVSm44Mmc4YzQ5V2ctdzRyR0NJbENwZXRmTk1WS25pZGVyaHBYd1dqYk9aNEl2NktQaHNzQmcyNGJWUV9wT0dYbHRsSi1wT0s2ZlBiTUJxdW5KdEM5LTA2RHR5MXFnYzBxSjBSTG5NNW05SllTcFVGRUNHZVpFRUFQcVlaWFpLellkZXRTZGZTSmJXQWwxcDBhVVg2TTd0YjZ3RXJUeVhvYnRndmRCWXExcXhsZURzYUo2OA?oc=5",
+   "time": "2026-11-11T03:24:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Kolkata–Sairang Express derailed | অসমে লাইনচ্যুত কলকাতা-সাইরাং এক্সপ্রেস, বেলাইন ইঞ্জিন সহ ছ’টি কামরা, আহত একাধিক",
+   "source": "Uttarbanga Sambad",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0c2eXJRZ3ppT09kWldRMTFiSy1YNmtJamdVTndUSVhjOC0yZjdVRjcxMnhlZm5hRVRGNUFlYUlna1J1d2dRemQtaU8wd0NUWHFoWTc0LUVaU1g0Z3lOaFRUN0FZeVItcmNrX2l0X3YxdmwxOU1RMjBtRGY4M2FYcnZrdXBkc3VMczRKOWtBVnFGTEkteVhwR1lpSV8xZ0F6ZTlLTVdR?oc=5",
+   "time": "2026-11-11T03:22:07+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Kolkata-Sairang Express derails in Assam, six coaches go off tracks near Guwahati",
+   "source": "The Federal",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeGtGNkpkcS1VM0Qwa3JqR0FHM1hTRkNEbVFwa21wUkNVQVJUWTNjMllyV2p2UW1nUFVpblNjU1RrMUlEQU9Gb3lDb3oydzdjSXJ5NlJEZWExTTdvcDFGVGI0NUtweHlGVS1pckZOcnBYY2dxMUk0Q1ZvYXBPbmoxZ2RFN0pWNS1xQnNJUkpPbGFza1hFbG1nYW1YbzZ4WGNtLVNicTNDUzBXTkVwM2dXRDNCYWJWNmg2QTRMU0dJb29CRkZxSXljV0UwaEJRTUlVNUVkWGE5aVh0M1E?oc=5",
+   "time": "2026-11-11T03:22:03+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Kolkata-Sairang Express Accident: কলকাতা-সাইরাং এক্সপ্রেসের ৭টি কামরা লাইনচ্যুত! উত্তর-পূর্বের রেল যোগাযোগে বিপর্যয় | Hindustan Times Bangla",
+   "source": "Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTC1oMmFQX3loSDlTdWpXNjFjTGItWFR6cEFxTFBEWExWVFltVFp0Y3R3THNEcDBidks5bktBVXlDUWlVd1Fvd2tNR3VWbHlXVFZRUkZxQXRJd2RVQWg4cldVNHJMRi1rbVZ4bU91NEFEMTRmNnVDY0o1WmhvOUdscHBqMGwzMXQydjZYRWV0dVJMbTlkWFZQRElvRVJUT1lZMDFkTkgtXzNOb2QtaE1qMzY4cC1lUXFSR3NrZHFWSHJ4SnVUTWxuZnoyQi14Nzl4NjVMdnR4Mm5MTlVRN0JkX0lZRVFLbEE4QjRReHZHbHcySGlQYmlrb0dsOGcyR1ZrUElvUGE1M1lkRmhyMW0w0gGUAkFVX3lxTE5tMzBucW1nNy14ZHF5ZDVORTc0TWprU1JJUUVDUi1ZTU9CaFdvYnlyY2JGOHZXUnQ0WFVfZ2R1aUk5WjRLaU5HZ21qUThPNDVtbTFfVWJmWkM4ZEhvZE9jZ0cteFFndVlRR2VzcUVsTlZhNm9ZLVJKRlJPbW43NHJuTW1GRmx5c1B2ZWZ6aVVRLU9LREl1Rzc1QmFXcFU1NXJvTGNxa2NxTFR5QXlCMGc3ZUp5WnAxQmxKLWx4Ql9uQk5NQ3l3Y2l3ZXdXM19oaGw0bGFMUEJEa19sQjJHTnRRSzlPVmRMTmxfd1pkcU9YTXYyWC05SVJXaDFWODBqMWMtQzJvdV9aVjBwMDlJZXJ1WVFyQw?oc=5",
+   "time": "2026-11-11T03:19:20+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Train Accident News| বেলাইন কলকাতা-সাইরাং এক্সপ্রেস, আহত একাধিক | Zee 24 Ghanta #reelsvideo #TrainAccidentNews #kolkatasairangexpress #Zee24Ghanta",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxQQ2hwLXpnOWRDb1E3RkhBNUg4eGJfalVCbkpXUTNpQUdvc3NJYVR5MURLYWZFS1JOVFRTY1lLaXdTRnE1YkJYRVlkcnNCNmg4bjhQT2MtaUR5azJEUi00QlBlUlJtMVEweDhtTGIxZEMzQWxQUVk5bFo1bjZsd1Z6YVFZdG1IdmZpdXB1NFQ5QVVsSmk2Y1dnNFJUQ2lKYVNXTDJ6Q0NBVS16a3d2S1Z6VjVWb3JMNEtlYmVSaFdDWTgwblhuSV9qbUdMMVUwbWJMSXJwNm55X1ZfMDdoLVZjdk1qeWljTWQyMmtGX3pLZVhJZFFjYkZpWXNLNUVLZkdNZk4xTXFMTHRzTDVYaEcyUHFmWEFxY3NEd0VqLW85RVN2QjRxb1dEbGZYaC1pdzhpRngwbVYxWUZvZGxsUC1ac0hFWGVmbTBscEhBVDN2NThaQ0VNRm9hb2pjWFdoQ3hGQlYyWTROZXF1YkNfdkszajRfUkZmVThHSmNKMEdPbTlsQWtMWDFQaGsyN1hJM2xPTDRnY0hwc3NYV1BOcXBNX3pZU0JIdkxLR2wxYlh0SGhKN1BJekJlRGp6cnI0ZlVqcTRmRWJuUW15bllHOGZ6a2Z4a3NWZ1psdlVjamdKWGRzUHBMS1o5N2J0dUFwMVhYMVFMSnMxN1h3X0RYNzN5WFh2ZFRhRHBhbzR6cG5QRk5iUzV6Q080aDlGZ0o0aGJmb2tDeE5UM3NEbkRMN2JxT0w4aFlCSkZIeWJoRHlqbDdpVkVsUHItNVFKZWRTM1lxS2ZmM2pFelc?oc=5",
+   "time": "2026-11-11T03:17:15+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "5 Coaches Of Kolkata-Sairang Express Derail In Assam; Railways Says All Passengers Safe",
+   "source": "ETV Bharat",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnFFU0hhMXA3dzlibm9DV0ViX0dlald2QTRlT1RRN0FHYnZLRkRxcTNpd1VWb0kySFpzNm9ncnV1QVlLd2szeEhZd3N5VjhPYUl4Qzk5aUt3ek5lbnNYVkVncDRFckdibkUwOEZlYXhFV1MzdGxzRVlYUXk1NmU3b3BFdnR4bWozQUxUTFNjU0J3WjlfS2gyU1hDZEZBTl8yQ0Rz0gGoAUFVX3lxTE9DRExXT1phRnZ5dkFZSzlSejYwVjVqd1VTRThUeVNEbXZUOWgtQlN5NFkzTkdIRnBvc1M5RGhwQnRmbHZEbExfMDJWbkFCSWFJNjR5dFZHN0ExQl8xU29HNThDMnU4NTh0OGZZbkpRaERsWnpDZGlENFo5Y2toV0ZxR3l6di12ZGZac0NOZnVOMENlRW5uYkhuYXZtS3FRb3lIM0VaRjI4Sw?oc=5",
+   "time": "2026-11-11T03:16:28+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "আসামে কলকাতা-সাইরাং এক্সপ্রেস লাইনচ্যুত, আহত অনেক যাত্রী",
+   "source": "Bangla Tribune",
+   "link": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxNdk5FU1k3akhreEpTcFVCckRDS0lBNlJQNG1Qd0kwdnZZdThfR0RuU2h2YkJwYlpSZ3BXMHBIV2hqbUJXdFBra1ZjRkd6ZlZ3T3BrXzZqN1hhYUpMVzZSQ2poTllqV2FmeWdEMHZ3MkN6d2lkYmN4UGNrR0ZwTURBQ052WkFQT1ZEZmFuZkNtLXNSRVUxYU9JbUVMa3FpTW5talppSFNId05LTGlrN1NhczJBalJMM0d1Si1lLW5iSHBCS3I5SXZVUmJGZU9kSEh2VVVLZTdJWDlYUW1lSnlZMmJpaWRPLTlJdTBURGtoeXlBMzJpODl4Wl9Sdm5yUzF4bnVaSzBocHYwUnljYkt6NUtYZ2VMUEpKSnNZdW1tdk9iZFpjYk5YNEdoRERmVnVNR1JQSWZKc2doOU9NbkcyZ3V0MGZOeHdtXzBHNXhYbkFRVkJ0dnRvZFkxN1JaUVdIY0VwM3BoSWRsSjRyYl9GTDRGMTVzejg1OXV4UFJna2N4dVBPeFVEYklRcFJiUGRFWHozX0ZXQ09lR2c4QVBZd0ZXQThJU2ZaaDZweVdfMV9kU015alpuR09fQkxmbFlPbXJRQ1Z0aDJwYnhKM0d2UFZlY3FIUXgxaWg3Y0dkUTdudERwZkdhSDhTRUJVRDV6aWFRd2NuMjJGT1FKUTgtemVhUXVKY0EtYUNiRTFhZVhmdnRUS1hIa2xhQ3hRZ1laN3ZFSXMtUXhQd3c5LURKVExsN05MWXpHSEtSdzZENmFPcE05RlN3WWRLZERRaFoyakZNNUZKYWU3Wm5WZFVn0gHkBEFVX3lxTFBTWUlvZGFRNDRJaDRBSnB3OGNTb2kxVXNLZm9PNGxnNTQzVFB2c3A3dVZXWlhCUnduckZpMHp6djV1ZkUwNUo5dWlzWFR2aXdHVlgzaTVkMFdxTW5JbkVsNUlTUW5yWmNSdGpGdGNnam5tbnJzZUpVSTQ0cVZKWmtvNE1TQW1rVXFheFlMRHJyMlpWVTMwdnAzeVZ3QmtGVlZpXzN2Z0pZVHBNbTJiT0UyRUp3WWwtMUZybWhvR1RIYmNLMHpGazJ3NS1VREl2SmlsX1NjVEJkczlOR3pNWTZJMnhGOHBZS25xUjk0YVBGTXBybEg2eThmMW5MbHkxOUZ5SDIxYlVzV2tHRlZTeG5Nb2dpelM5eXhTSC1famlBZjZENTdlZlY4QUZXLWpSeVkycUd3eUNVYU11T2IwQUlEUEdDVVltcXVPUjd3ek5uNHVwZHpkN00zT19ORkFyR3V6OHZ6ZHdpYVlFRzA0UFJGSGlVN0R0cjZWczAyN2pabDkwM2VEZWQ2aTB4bUtUV055NVE4UU1nWl9qanJ4dXhEM1pqcktzU0tGMlFFcW1OX1hDRDB1dDN5anViRTJLbmdobGlUb1d5SmtfT1JBNFdyUkJfd1huWFpXZmxZNjZ3Wm5KbXB3THdORVNiTkVxNGJIdXhydnE2Y1M1LThqaDlLdjRJOTh6T0t5eTB4WUdRM194WVh6TjNLYzlyN3dLUGJub3EzeF9yaTVheWxJYjJubExqR21RNE9CUUxONGVQZi1FRG9jZ2dlQkZTNV92OFVuWTFsb2R1b1BicFczNzc3cDd5ag?oc=5",
+   "time": "2026-11-11T03:15:18+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Six coaches of Kolkata-Sairang express derails in Assam; several injured, rescue underway",
+   "source": "Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVnBrQnJja0JjVlFDLXl1RGxidHlmQno0UjVmNWhfbTFlYnRUaTZtNnRraXpNd1ZrQkZ6dnB5bVcxVFBrd3dyeW5iSW5XbnVVMjhCTzVtVC1mM1N5QjBXUDdKV1JOOWlpT0pidGoxbkV2UEplLTBtNTlhelZ0cU42dE5ZVzV0MVFiWUxzYWR6ZXNsN1RQNk9NNjFKS2RZWDNvT2hFbzUxbC1LekFZNGFGa0pmQXZscFE2SEp2MG44b0lBWlVuekVmS2VWZC1KUTEyazV2Z0NxcWR0QVXSAeABQVVfeXFMTm9DYUh0ZGtXaHlRRV9oZGp3dHJpWXducEV3bVNENGxrZFFBWWFHVnhJaWhpeXhld3A1RnZub1puRHJzZjFhQWFZTlpjUEdVWXE0MHJZc1NPNGxrR1ZfS2V6anJnbFVtWUJob1U3SFYzQy0xbkdkYjlxaEgxaUw4TWNXUXpiSHNpeXhGY2EyMU1iZ0VKNmlfakZkalFwY0twOHVBYkFxTzZkWEhkZ3hUQkh6amZIMV9FSlVLQ2xxSlI0MVFGNktKcUxYbHJTYVBxbm5MandSZ25UazdvNTdBeHM?oc=5",
+   "time": "2026-11-11T03:12:20+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Seven coaches of Kolkata–Sairang Express derail in Assam, several passengers injured",
+   "source": "Hub News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlYycEltSUI3NnZZaU0wY3hSOUlXcWpzNEFrR0V0NnBXRF9qUUNEQXJGcEJKU2tUaTFJeEZtZHZJSG9ZenAyMHFWeWp3NVVBTzliSTZtUUNSSTNOZ1JtYURBUlhna0l3anFiQm0wbldLV3VfaHhwY1hiRlZ1MldrUTBKXy0ydzQwdVluOThacEt5cE5kSDlzS0hsamp5T2FkYlBzdnBpc3IzQQ?oc=5",
+   "time": "2026-11-11T03:09:06+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Kolkata-Sairang Express derailment in Assam: Six coaches go off tracks at Digaru station, several passenge",
+   "source": "The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZ2VzeWdWSWVGb3RZbDlZUEVNdV9aWlFiTkpTNDV5dWt1RWNNemlEbHkzUlFkSDExc09KdlU4WkdzdnFkZHlUbU5nb1dzSGFNUXBMcnJFaURENDNSd3dfdk11NlVEb0VYcjRfa2VwOWFTZmVJVjBTTTVicmFYX0lXMnVNMGZDNDh0djUtV2FiQm1MeV9CN2tSQnhzOXM5THdRb0pNWEpncmtwanBxaTF6Z0lSMzlVbF9lSm5HaGx6X2xUUUdZWDlGbmJfVDllcjFEV0lKcXZoZDl4V3Zib3hCQl9qaXphWmJxSWpZUjR6dDAxZU1TWWFHdHZYdElQUWctamRYZDhsTzl0eEpjWWNHakpERGlldHpNRlE4T2JlclV6Nmh4VnJhOdIBrgJBVV95cUxOZU5KdmROa296YWY3V0E5cTBhRFFNNTZ3V1FVQXVQaDJkVlhJbkRsa3ZTTVMwd2xoSU1HRFIzZWthRkc5ODBwWV9HelEwWi1DLTBDQUlxak5JMHd5aGh0b0FIdGxOWjBTYldSNXdJRjFHcWZ2NnpEUlJZczVua0pzOFlNQmFiMGVVZldCTDh6UmJqbXlmVWZwZUNmUm1jNERDcUxTbXB3UHROR1RZdnJocVdxeFBuenlPVkMzTUZ1XzByNE1ZYmpxOGpMa0Z6NFF0UFNkMG1SdFlKVFRiaG1vZGV3RHJJWGRPWW03ai1vRWhUekdLVlpvR2czWk1lRVJNU0pnZWh4dV9vclFQMkRxQlFVeldrMGNSZzNWYXpySEFsVDJadnctSHFRVjVJUQ?oc=5",
+   "time": "2026-11-11T03:07:51+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Six coaches of Kolkata–Sairang Express derail in Assam; several injured",
+   "source": "The Hawk",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXVKMHR3WmJQSGc5NndmdnkwSTl6czN1Q2JnSTRNejBNMm9HdG5hS2FmN1VBUHd3cGxzbVdPNEtBWkYzM19LNDFDQ2FWN0FPWnJ5b053NGhOR01lbnVNNFFEcDRSakJTZlcxV3M1ZV9zaXZQdF9BUGtnVGJIc3Z3M1c3NFVaYnhodU82VGxKeXZZMF93OXNRU2wwTHRQejNJOEs0UEJaeGFEd1dZdVhCZ05kOXROSmxQVWc?oc=5",
+   "time": "2026-11-11T03:07:39+00:00",
+   "cat": "আবহাওয়া",
+   "lang": "en"
+  },
+  {
+   "title": "সকালে ভয়াবহ ট্রেন দুর্ঘটনা! গুয়াহাটির কাছে লাইনচ্যুত কলকাতা-সাইরাং এক্সপ্রেস, আহত একাধিক",
+   "source": "Aajkaal",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdWZiRzRMcGVtMkVFQnRvekg2QlZ6enVkVzMyZVVnVkppVEpzN1VHMC1XTmYyeUx1OEE0MUJfdzFPWnl6azI4ei1zX0xJVWRsX0kzMXZrSy1hdjNjTWg0VEhJTUNnckpDRGpXZFBsV2RrbWU4cUpoS29md0dTdXIyWENoVURnOHJ3V2dnRFBxYUZpRlpkLUdKYUh4ZW1kSTZOYWxWTU9uc1ZXaGFwNzVYYkUzRlZkVFVNVnFpRllhSmhxc1NY?oc=5",
+   "time": "2026-11-11T03:07:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Mizoram-bound Kolkata-Sairang Express train derails in Assam",
+   "source": "The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ19Oem1id0pjLWcxaG8wbFR0d3lzOWotVF9wb3BPdzdtR1NYc0RUUHRJSTBPQTFZZGZGa2JMY2VOS0xfeHI4WFRTVG04c3N6U3k1RmdEdEEtZnZxbVA5Z1owWjBIRTlKa2hMSGdHeVVPWHczT3dBdW5KSHBzUmNNV1RvOWE1TXFlcm83UFZqRGpiS0d5M0llc096OWc2MjNHQmU4eDBuWW9aM1djdHdpb9IBtwFBVV95cUxQVE53aDVQbEVKZjhTMHB2QTFQZHgxeHU0bjBwQUVpaWZOclJQbzZlNjlCUFVpdXhBa0NzNzJZU1JjbWNKbzdCYXhFYm9SakxMZ1FhMEF4QWVuTEdfREpYUDJaU054VTlVNzRrdmZ5QlZuLXFRWTdMTlZ6RzdoSTBMUUZ5ZEJjZ0RyYXVhMXNsWGRtWjh0UTljSlpEM3NQNlNkT0pmQUNUTkhhNldxTUJLZjh3OVZzTEE?oc=5",
+   "time": "2026-11-11T03:04:50+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "বৃষ্টি কি সাময়িক স্বস্তি? দূষণ–হার কমলেও প্রশ্ন",
+   "source": "Ei Samay",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWVyM0ZyanFZa0NFRFk5d21NRU1ZanRaY1dnTng5enZ0cEJXcjNRVGJLWTZNalQzM0lvX2ozcmkwZjlJWDMzaEM1bkNVbkRBQi1wNDFsVFlVbW9Gdkxqd0pWZGhwUnhFekRDTjZGQTJYaTQzRFJ4Y3dZWTI3bUFnNlpFODZTczhEdWpyc09YNjdiTTR6V0pPZE1OVGtPRVJpWEhCRHU2UUFIQU5JcXZGbUdGeEhtb19fckl5bEV0VdIBzAFBVV95cUxQbWZWYlFQeWxnNGliSnRQUkcxTGxoZVphRlR1Z3pGdnNybWEzS3hnaUZON1BSUEFkYm1EMkRrZC05Ti1QVVRLeDg1b1NiaGpKeHAwcXJIZEhOb0ZYSTdhY0JvZWo1V01iN1R2V3FGSkFpTmdiN3lPeG8zYU9VLWg3ckp3Y1hMNG9tNXB0SzJmNVREcTJEV0o1TVlfTzN6NGR0azlxSTIyT3ljajZZek5BbjdNOWMwcHZIV0tObmJvVDI1M1JnUVRjcEJDbWs?oc=5",
+   "time": "2026-11-11T03:03:41+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Train Accident: সাতসকালে বিকট শব্দ আর আর্তনাদ! অসমে ভয়াবহ ট্রেন দুর্ঘটনা! কলকাতামুখী ট্রেনের ৭টি কামরা লাইনচ্যুত",
+   "source": "Indian Express Bengali",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzBiZzFSTENxRE1Na29GcjV2TzdJSVRSZjNjcFRVM0NmYzh6dXh0NGpVNTlFN2xSZjFRaG9tUU1heWlIMmZKYzZRemU1TjQwbXdrdXN4OURXVVp0ZkJLWUhWSEV2T1VxRG9KR2ktUkwzTFFRNnpGbmtnVDd3SzVTYzQ1SnJ3VkJIOGFpQjJ5ekYwbTB4RVRMMU1QUjl0cm9heDYtZWJaYnNMUzV6eGlfOUVDcTBRdmRqVXfSAboBQVVfeXFMTzcwYmcxUkxDcURNTWtvRnI1dk83SUlUUmYzY3BUVTNDZmM4enV4dDRqVTU5RTdsUmYxUWhvbVFNYXlpSDJmSmM2UXplNU40MG13a3VzeDlEV1VadGZCS1lIVkhFdk9VcURvSkdpLVJMM0xRUTZ6Rm5rZ1Q3d0s1U2M0NUpyd1ZCSDhhaUIyeXpGMG0weEVUTDFNUFI5dHJvYXg2LWViWmJzTFM1enhpXzlFQ3EwUXZkalV3?oc=5",
+   "time": "2026-11-11T03:03:18+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Video | Assam Train Accident | Several Injured After 6 Coaches Of Kolkata-Sairang Express Derail In Assam",
+   "source": "NDTV",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMV82QUt3bDRqNFNLOVNuRjk5V1pFU0Y1UjAya1VfeGloZ0JOU1d0M2p5bmhNWFBCd0NDamRoYUdjemJlYzNiRU45U2d3dElJTU01azNDc2dfMVpTU3k5X25DbTZvRTlOUnpoUHdKWElQNXpGeFV5VExxYTNPTkQyV1NWNkFBOTFHTXBYY1ZzZ1VQbVFTNkVfTUFGRE85M1ROLXhhc1RoYlh5ZmhRMzlhN2c4cEtQR2tCdklnelBpeEVLdC1CQU1KVXJn?oc=5",
+   "time": "2026-11-11T02:58:21+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Six coaches of Kolkata-Sairang express derail at Digaru",
+   "source": "The News Mill",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUJGQW52R0ZQTW5XTjVxamZfX3BjazJldGpKSzZTWjJ4OUU5bjBhUWVLWldheGVJUDd5YTJHd1BiMlB2ZzlxYzdLZndlb3MtYkJVMzBiUFNyOXRTVzd6RGZsanoybFNrQ0VTb1V6YTlhUnppYzYzdTNjbTc4b0pNQ2JVc3BVWXdDMUpSR0NBWEc0Zw?oc=5",
+   "time": "2026-11-11T02:57:20+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Train derailed: অসমে লাইনচ্যুত কলকাতা-সাইরং এক্সপ্রেসের ৬টি বগি",
+   "source": "TV9 Bangla",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2ZJNUFZdE9MWWtuT3RJUU1qTTlUaHJMNWJSYzNDR1lKZnN0MXYyUXpzM19wTTlGZWd3Z3NaOTVtOUhuT2Q0UDNGT183ZzFSY0JuR09DUnRCaHl6MnkzVDRWMmVqcDJNcEc0VUF3TUNYY3duenU1RFFoYVZjWlFEVEpad2dMMVQ5R2RvZTJIOXZlZ21iX2hXWEZwRUpPbEQwa1ptem9sTnnSAa4BQVVfeXFMT0tvOVZNekRURV96TkpVeU1FZklpWHVkY1prOTdvdUxjajVHdFBybk15eFliTFFJWjBBUk9COU1HWGNfSkoyTUF0OGVOZ01XcktENjdwdjJPQXY1VVlzWl9Eb2pvMmVMZUhEM1VlTXE3MldLMDRGNEtuYjZTeU84OGhqYUJyWVV6RUhoWTZRMzNrYWxxUmdNRF9JdDhYaXJ4a1FiRlVZSWVIZ2VsUi1R?oc=5",
+   "time": "2026-11-11T02:57:05+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "India News Live Updates, 11 November 2026: Kolkata-Sairang Express derails in Assam, rescue ops underway",
+   "source": "The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLXBQdWVuRjhxZUZMV2QtaFdaTTVZTjZ2M1ZOY3R6NnMzcmRNWW5EMHJ4a0lvak9ka1JsbEFOTTB4bW8tUE1qRFJCR2F0NXFEdklVckI2d01WUzE4WHQ4MUhIemg2NGRXbUpmNE9KWVRMc21ZSXphVXM0b2lCX1NuYi1LLWtVeEJmaGJOSjlnUkxld1RETWJEXy11anFSa1A4VWRjejZ4M0MyM0xxNkxvaVM0WU9XNm9rNTBvMHZpMG1KT2NOWlItaU1ZcFRBMVBGZjFLNGNEM05LaHN4dXpwOEY2dVQxS185M09PaDNxR3pyc1g0dGVPdk8wNzFJd3pQbDhEYtIBiwJBVV95cUxPdzBnLU1lQVF5cERYZ3BFUnl0XzJnYVgyellzNVp6RU1IZkRfQnJ4MmZ4TDRpdEFnT3ZlMmxlMVUxSnNvbHhGckZ2ZlFPSkNrdmVRMUV6d0N2QW9sa2hPS25YVGU5azhfQ0dmSmtTNk1oRHJ5N3pJRk5VNENPQnp5aVFoR002Q2d0NkNGYlo3VkhvOFoycHpILWJxVC1GTlBLNXp0S0lsSVh3M2NiYmxkWF9jNzE4NGVZV01hQ0cyRTZscnFLejFhXzZXNlNJUzYzQnZXSmVnY2Y2aTdqQi1CZ2NMc0hUTi1BLWNBS0JITWMxWjRLZk4zOU1Ncml5eHp2akJ6YlYycHhCZEk?oc=5",
+   "time": "2026-11-11T02:56:38+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "অসমে ভয়াবহ দুর্ঘটনা, লাইনচ্যুত কলকাতা-সাইরাং এক্সপ্রেসের ৭ বগি, আহত বহু",
+   "source": "Sangbad Pratidin",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHFFQjh2cUNhUlp4Q21PTmE3akdVeC1Tb1FDaTRsWWZCY0ljQXhreUxtU2dsX0V3M19kZTBTLWlWOGVqUUJUTTg0MHlYWl9VaFFid3ZxSWRtbXgwR2QwSlNIVGZRUWl1QTJxUUliNW40SjVFazdjaS1iYmo5UGZheU9qWmVUcGowdHBYa1lRQjVhMi1KbGE5N2psa0RSdGdN0gGoAUFVX3lxTE9mLThnTEtUREktMkQ3Y0JkUHZRY1E2X2p3cXdYQ2NqczFsNTFJcXpLV0R4d3V2M3NVbTlZLW9BZXgwbHZJbU4zZmx2Zkh0QS05R3FkX2lzMjVNSEZOTndIdDB3QmNVbzkwQlplZWZUVDhJeXhhR0NoVDR5bmtRaU90ZnZGWEI0eENYZ3RrN0x3WnZiUl9aM0NiYzR5X0dsRkdlWkFlTktvTg?oc=5",
+   "time": "2026-11-11T02:55:44+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "7 coaches of Kolkata-Sairang Express derail near Guwahati, several injured",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdjdnQjlRUlN4c0NFOE80V0ZRSmhxUXBVZ2lMTkFlSXdZcjNvaEVjc3M0dHVzVXJXUUdJdFREWkR1REprMm9vMTdOVmwyUlpOOFZJMGtmQU91ZUljN0N2ejNzSU56eVZBWFg2WkVHeWdaMjd0VnhOdHYzT1drYjVfa2lXU21iY3hrYUxyYUFyY2F4ZGRHSGhjSGdaOE8wU1lmemJpRXoyZFJEWTJsR3FTS2dRZ0Y4cEJ0RFhPX2x5TVdOZjNURm9WQkhrbFc5VlFYVWRiMmQ5Wm15UnV1WGd2ZTAtQzY0dkFI0gHuAUFVX3lxTE5La3J1ZTVCTHc4NGZDelVxTDhBX3prU2Y0WFpLaVE0d1M4aHREUmtkTWt3SFZzS01zM25lMXZzdEtUWEZ0ZXI0b1BWZzlSNk03b1l0bzNOOE5WUUdmLVhVdjlNNzF3NU5JQm8xTG05Nm1UY25memRaM2tNN1Q5UFJzNDRpdFZ4QmItLWw5OUNueDh3bDNKUWF3S0g0bGdpMy1CVWRacTViM3pwVHZyLWdsQmExdGRvZ2pZWGRuaGxtOEpXWERBbUR5dGhBTEFtbWVYYTExeXhXSXFkc1Nhd2JxeS1HSERzaGFRR0xDeHc?oc=5",
+   "time": "2026-11-11T02:55:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "7 coaches of passenger train derail near Guwahati, several injured",
+   "source": "India Today",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRkQ5QmpreGJFa3ZiemRZLVZSOFNYa2VJYTZuLUNFX0U2aGY5eEJzOGJ6dkp5LUZURzdQT0Q0anZfcThKSjBJMjlMcWI4OF9YTmJPYUotY1poN3c5dy1tblVlN1pzN0VJNy1uMWxpb21QWnZRZHFGWEFtS09jYUp0T29MRDNTWmo4WUg2d2lNcXpZLXBEekhGX0U5dmZQODM1blJjUmFZdUVtcldwN01Jc2FWOFM5ZmpFUjA4NURUemV1aEZHd3VoREYzOWVNanJNa1B1RWhXNDgxWWhkbWfSAeMBQVVfeXFMUFJ6V1NNZnR6Y0dUTUFjd0w3UnQ2Mlh3djEzT2FwWXlDb3p5OEV3U2Q1RGxvRmR1bHdwSEtqdmlMZnF5a3plZ3JDWGswNHdzakttcHk4b1ItNGRJUVgyRFo0VHlUOENYVVhpaE9tamRNUEpfMGJPaTJWSy1ZTTV3aHQ3dE9UX0xjRmhMVHZrVlJwbFNxN3ViempFa191dXNRNE1sbTBfVk0wNTM5bFViM3NpbVdrc0x6V2M5UUs4a1drem5XU09sWXB2ZWZheXppeEstRDJqR1lfbnNHXzVPME1fUDQ?oc=5",
+   "time": "2026-11-11T02:54:17+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Six Coaches Of Kolkata-Sairang Express Derails In Assam, Rescue Operations Underway",
+   "source": "NDTV Profit",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbW16N2pCZ2pMdkNRbXBLcEJnYmw4VVJrSmt3QTJWUnNiSkkta1JXcGo1TF9oQTFSNnFub05fSE1zSlh2cGFrZkFiQlNqWDB3cEk2VWd6Y09nU0oyMV8tMjEwT1RCc1ZOZEFyMmZhcFpmVnlYWDh6ZlhnLTVGdUprazlqQmo5MVdpWERxWVdoUFpKd1FyVEhteUVFV2ZfMkdlZVZ1YUo1Zzh4ZTYydkJQSW9kUVFkMjRkb2JrcXJCMUQwd9IBygFBVV95cUxNb0M4Y21wR0FKQ0RpTERUb3c3cnRhU01SMGtTSmpYbkU1VnNDcG5INjRzY0pHSFA5M2tGcVZydVc0Mnlza2xLbm0xRVFvRTBWbjlyTDZkeGptTFN1TkhqTzJoQmRTWHZlOWtWcGJtQW82aTZrdHN5ZXBLNjVpSzdJWDA2Y1pTaExWWklzLS1XSXU5ajdLNnVsTEVrTlljUDlhRHhuSTU4UWZPeUlWWkpYY0xlZGRyUHFsNWxvZ3ZZdVhEQUlmdUN1WTBn?oc=5",
+   "time": "2026-11-11T02:51:43+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Several Injured After 6 Coaches Of Kolkata-Sairang Express Derail In Assam",
+   "source": "NDTV",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDQ5MllaZnZDV19QVUFyN0s1cEwxUzZBRjZ4MS01X1l2Zkt2WTgwaGt6eEQ1MWtTSzFhemlwNTViNUNXNUplOFVCX2ZTbFdZZElKRWI5cTNmMjlQTUJ0Y3ptaFRWQUI5QWdmMm11ZmMwR0ZFUlFJMVRlNGx4c3Y4Wl9wMmN4QzY1c2RFRzZhQkFsR1AybzlvSXp5UHY4cDUxbFVyRVp2YWFwSVJhMXFwOWRGX3ItUdIBvgFBVV95cUxNcFVCZXd6WHZHNmJ4S2ZPZURSNlVpMzFjUlUybXR3UThRNTZ3aVdjdDZ0YmppRGRleUJ5MUVmWEJnMlVXV2FER3VqUHd0Q0JPUXhtUnpkTW1lUnp4RFU2ZVpSazZxNUxKQnJMRXFtUkhZbkF5RUlBa0NoWGFLRERCdThLRUNDUkJfZXRRcUJFeUFiWGhBbEt1cFotY3hlQXE3WncyNDhiOE9NNDNpQWRWOTdXRHA4ZkJxUW51LVlR?oc=5",
+   "time": "2026-11-11T02:49:10+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "অসমে ভয়াবহ রেল দুর্ঘটনা, বেলাইন কলকাতামুখী সাইরং এক্সপ্রেস",
+   "source": "Ei Samay",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRW5Ra3gxNTRZbTBtTEI2LTlNY0tuUEx2d3VqQnRnenJIRzlvdHJqa1IxdzlRLVdQUXhHRll2T2dlNm5FdFJudEtZR3AzeF96NGVmQllZNGlCRWVNNGpIZDUtdUJjZGc2bEZSZ0JwbFA2dnViNmI4X1hVUlg4SG5pc3VJSUlYR2tWU2tub3lYV1hnMEEwMnZCbjZHRDHSAaoBQVVfeXFMTU5YS3dzYlZoZldCaEVpSGwxTFNlbTk2X3psQUt0M01xYnY2ekFsMm83X2RZWDFyWmxHa0xUOEZkckpoQzBnaTBqZk1iSjdjOHV0ODJBSzJHTzF2VGNRbThLTU1oOFFCbHBZWUZ5ODBXa2pDVjl5Z1BxS1RVSFJtb0tpNTN3TnpkcEhkNW5aRFlrU1NUS1JFNGJKeEhLVnNjUWpmRV9NdnNfblE?oc=5",
+   "time": "2026-11-11T02:47:58+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "কলকাতা-সাইরাং এক্সপ্রেস লাইনচ্যুত অসমে, লাইন পরিবর্তনের সময় ট্র্যাক থেকে ছিটকে গেল সাতটি কামরা",
+   "source": "TheWall",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUlRUXJ5MXA2SHZLUWpPbVlHWWhzWUdXMXdYbFVvZ0M5Mmd5R2NiQnd1NWg1dDAyeUtrX3BTMFo0bWtZRExLV1JUdERsMFJPdVdNLWEyQjhaTVp6bXNWS2g2QjJSOGNjd2ZtUGJHbzF2UVRvUzF6OGM3QmxvSklXb1FOQmVBTEFwRWNSTktNM1dKTjFJUlg00gHsAUFVX3lxTFBfSW04Tl8wSzBwSXU0U3NBdlgxbnM1UUZXbU9EU0xwckJtNUFFdzBDRlBxUXVzRlRQNVl3ck9tXy02Rmh5NThlS1dXdFFYc245SW9HSFFwM2tzOHFCRmhvRV9LVjBMT3hpUlhnNUZOQWlua1ozbjZNVTBDQ0RmV1dOaUNrQVltemZoN2xjTWFfS1NxNXhsUllDTkluYTZzbDVlbVFyeS1DUU4xUXZTaTVhSkY4S1NUMUswZG41YkdlZFdYTk5LdWtlVEhtT1NyUE5FU2lHdlQxMHlDODFVUmNkbElsUVlMekZVZ3At?oc=5",
+   "time": "2026-11-11T02:45:31+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Assam: Kolkata–Sairang Express derails near Guwahati; locomotive, five coaches derailed",
+   "source": "India Today NE",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNEN5cW9YTHo2THBQb3FORTV0NllXT2QtQ1FyUVhfNlh2LTByclRydE9RMmFPUC1JWEMxb21EM0dVTjJPV3JuS3lhU0dtU1FKVU90aTVUSGk4SEZIc01hNy1ld1FoR25Va2lzLThCUnQ0T0VpWFg1Wk9WZmRhT1B1LXRqVmZKSlNiZzFJTlpfSExzR2hWZGJCNmNybktyU2dtNkR0T215S0poSnBySjh0cmhyN3ZHWXZseURHTXFoSUJRWWlpdjJQNGZtYmxHSy1FYlBIZldDZUVhMHPSAeABQVVfeXFMTUpnaHhROFVvWkZ1T2lwVER5RmxkcnRhbTJzaVYtVk5iSkVjUnRCM2pGcUxNbUMxelZTd0hWSVpFajFwWlItLWJlTHVzQjJNRzZ1UEFZd0xMUEVhbXB2MFNZRG5zVDRlM3IteF8wTzZwVEZNYjUxOFVmdjFPSERVTmNzVzdDdVgybDE2OFc3eVhRa3ZrLTR0RUpxbU9KcjR5Y0VUTHBNZENZYko1ZmRIZ2VSVENEUHVhVFhiT1JQdnVGU2pqSG1xNXZVQ0xuNjRKVHo4N3oxOHhXeGh2UElsTkM?oc=5",
+   "time": "2026-11-11T02:42:32+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Train Accident: ভাইফোঁটার সকালে বড় রেল দুর্ঘটনা, বেলাইন কলকাতা-সাইরাং এক্সপ্রেস!",
+   "source": "ABP Ananda",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOUUxSkJVU18wdmdZbnZQLVBySGR0aHBTSmNWbmpmOXRtdmxFNndXUTFKd1NnVnRoTHpuLVlVbElMSFFsNEpfVVJ6OFpaVnhTN0hmdnMtaHZoUXlBeGwxSGMySHJfY201U0lKWHVTTEFBTk9INkNZUHNDMVRpREJxbldaNVhaY1J6YkliNWFZWVo0dGlOZU9taFl2UE0tVFp3V3ZrckczTC1sSVpXQ2FMdUkybXlld1E1T3ZCbEhCbTh0M0lkQlc1bHJFNFRlZFRJVzVEYUF1MllpelFhZUEwbzJVVm45c2PSAewBQVVfeXFMTzJhM1U5ak1FV2ZxVktGT1FUbTd6NDJlTWFEX1hSSVVqZTdVcU9NTG03LW96dDN3MkdwLTQ0NFljV3RMZXJMbEM4Y09IdDdIbldqclEyZmtSWW4zT2Y4eHBta3FCSFZvbTFSOWw3WTVRZ21RWUd6dEVlcnM5NXR6RkhhTjJNQXNYTGVvcndMdFlKWkJadndiR0VCRDY3VGU3Z2REWWRxaGJZWDFwQWMwcXFEcWlKemFJRFp3ZXQ4TkhJcWhiNFNaYUVjZV9nUGpZMVladnVZTUo2bGJxY3JRZXUtMUtEVmFjVVZ2Z2Q?oc=5",
+   "time": "2026-11-11T02:41:28+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "লাইনচ্যুত কলকাতা-সাইরাং এক্সপ্রেস! ইঞ্জিন ও পাঁচটি কামরা বেলাইন অসমে, আহত বেশ কয়েক জন, চলছে উদ্ধারকাজ",
+   "source": "Anandabazar Patrika",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmJCVFhYYzVNYVFtU0xyN0FZa3hUUnBIRWtxR0tzb2FQV0FFTEl2a2pZRlYwY3ZUbW9oZGNVUmVSN1ZuS1Z0YThTdWN1dGxMRU5qWGN5SDd5SWd5RmlzNzQwXzhWaEJqMVhocUhEN3hqc2VfMHRjQklBczJPSGhWRDZ3Qk9jZGU1LURlYmItRktqSHM0Z3fSAZsBQVVfeXFMT1A0WVRNVXpTLXFTZWgwdmd6VXFXbGRrQkVPcHNlaEVvck1kRm8tWEdFTFg4UWtvd3JZejN6cExqYW9UVnBKMmIyeW1wSE9TWUJXOUZsQ2N4N29wc1BydFJwbGJicmxaTXl4aFdIUzNtS2JId19GWTBEZE9QNEhNMFJyTGdSZ0hscjBpTWJwSXBIZ3lUbjdpZjlsbnM?oc=5",
+   "time": "2026-11-11T02:40:46+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "Calcutta High Court dismisses NGO's plea for enquiry into demolition of its book stall during Durga Puja",
+   "source": "Bar and Bench",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSVFkbk96ZG96OWtCNFFFRDRRU21VS3IwYi1JNmxELVB2Ni1kbG9IOTh0Y0Ffa0haa0Ztbm5ucWlNYWw4dldPZk1ULWt4M2ZSZVZIbnJ6V3U3dVhmcjhJVHg1eENvQmdxUmt5MmpXRW5ER3cyZzd5LWFjRG5WcmZlNTRYOF9odHQzbWgxUDFQZ1FDUUZud0d0T3VBVnAyNVRsZ2tyd1V5d1puNTB2Q1NjRWZia3QzZjFTaVpRbjRJRnF3ZTdOLUFUUTJ6NUhTeGhUVmh4Wm92YUlkcVdOeExUVzlTdlc2TnpUN1loVkt30gHuAUFVX3lxTE9JUWRuT3pkb3o5a0I0UUVENFFTbVVLcjBiLUk2bEQtUHY2LWRsb0g5OHRjQV9rSFprRm1ubm5xaU1hbDh2V09mTVQta3gzZlJlVkhucnpXdTd1WGZyOElUeDV4Q29CZ3FSa3kyaldFbkRHdzJnN3ktYWNEblZyZmU1NFg4X2h0dDNtaDFQMVBnUUNRRm53R3RPdUFWcDI1VGxna3J3VXl3Wm41MHZDU2NFZmJrdDNmMVNpWlFuNElGcXdlN04tQVRRMno1SFN4aFRWaHhab3ZhSWRxV054TFRXOVN2VzZOelQ3WWhWS3c?oc=5",
+   "time": "2026-11-11T02:40:33+00:00",
+   "cat": "সংস্কৃতি",
+   "lang": "en"
+  },
   {
    "title": "ছট হলে দূষণ বাড়ত রবীন্দ্র সরোবরে, মানলেন পুরমন্ত্রী",
    "source": "Anandabazar Patrika",
@@ -74,19 +418,11 @@
    "lang": "bn"
   },
   {
-   "title": "Train Cancel: টালা ট্যাঙ্কের পাইপ ফেটে বিপত্তি, বুধবারও বাতিল ৫ লোকাল, বদল একাধিক ট্রেনের রুট, লিস্ট রইল",
-   "source": "AajTak Bangla",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPb1NLc3VsaVd2LW42b2RHQ1puUm1pTnREUHowMkxtN2R2MHZxVGhybU11Sk1NTVk5bkkyYklfSDZiSm9BZTFnTndXNHZKWVZPNTJWc2tBZGF6S2hmNERCMVBDYkRnTTVTdFBDbS1OSW1ReE5NY1NuSWUyUnUzV3dlTDRKUTRUMFVXd1d0V0JOWUp3N0dCemotRXVycElXaVBKd0k3ZWtWR1JVYXhXSEVTaGhQSXM3d0phcy1HaWhpR1c2cmxkV2pSLWJNNktiYklmOWpBcGE4Y0pqd2hKMDVZXzE3NFZXUFg5dEhjSXhMQ0pGODJIQUx0aGhLUlE1M0Rwd2lxb3ZfSGhWYnVoTGp2UEtB0gGXAkFVX3lxTE54QXVnZ2VmOHljTzY2QWM1VEJibXB0Mi1rMnpDM2hSeTlNb01KNHpoY1QzTkRLSEpyTkx0cVphbEpXaUhBaEZ5MVNnM2pqRnY4QUhjWUE4RWFCZGdlTTJUZkhEcFIySnhVZVpVM3FZa1pHMlJKaFNreDd6S3FXb3NUNnN6Ty1aVXJhNUFaV19vdjRQcXRpR0FzNmlqaGVjRm0yNHltRUtsSkxMdEtLcFNxbjV5M1RkLXRkNFJoMDVJWC1JSkU4NlUxbFp1ZjdBdUV4VFRWWDRLNkdXejY2WHRsdVcxYWhUUkFBQzFMZklBRWhQbkItdWhKejBKY0JRaUtDMGtpR2FFMHZiLUlOMnNGek4wQWNUQQ?oc=5",
-   "time": "2026-11-11T01:52:25+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
-   "title": "Kolkata Police inspector suspended over 'derogatory remarks' on Suvendu Adhikari",
-   "source": "Telegraph India",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUUttZWpWa0lDcXgxVUxwS29JNjRxWEtKYmUtUEd2dEJjM3pqVTFONkxVd0lXUVZLMDBsN2pEb3VYeGZhUTcxM0hhWThjcjJvQWhYZXVzXzQ1NXMzUUJ3MnBzV3BNOHVVcEdiLVBSWUZSZFJMV0QzREpNTVhWUUh0dTVOZTVlNFFHSlVYeW1oVG93bjU1eGJLbmJOS0VpMFdnU0phTjI2eUUxdi1FTm9fZl9hamt5U3Z3N1Z1RURQazM5RnRVT0JyRHdMdElNZk5zZ25SX1pzQnpPRE5HdTE00gHkAUFVX3lxTE83MUpFRnRGZ01YRFpOVGx5ei1reFFPelNOZkFMTXIydWhWNHJXUkdYcWhsaHJMTjIweGJKUm5McjJITmV1dUhmTmU0RDByenRqWkJNYUJOUS1hbGsybVN1Z2hQWU1WN3NTREJnZGtIbmFmbTBZTVRtaXZVcDNWeDBtUU5hY0JmbndONk8yRDFIS2lzTHFNdjhYY3ZBUnpEQWtIOTQ0a2VWckQxVVhtR050b19TZGFJdUp4VVJxRU13cEhtcnl4emd1VlViVjZrSWJvQl9LUlh1V3N0bllNYmlrSURVYw?oc=5",
-   "time": "2026-11-11T01:52:10+00:00",
-   "cat": "শীর্ষ",
+   "title": "Bhai Dooj 2026 Puja Timing: Check City-Wise Tilak Muhurat, Shubh Time and Panchang for November 11, 2026",
+   "source": "The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOLWNtbkdJbGdkRTdIUjl3TUZoYzFTRC1icEVySHVQalJ3OWxpdkpXSERVLTdOQWNEcHlQS3hYMDFpMDEzVkU1Q2NxVTAyek01UWF5X3NIR1RhY2JRbUFGdzFLY2dpT3B3UVlaZDd1ZWUyV1dJUlByN0tsak95U1FqZl91MHhhN3E5cEFBRWo4ejc4Zk5qZXFKSjJVLWZxWlRmMUYxNFJ5Zmt0NzZxRjhRbHdhZ1MtTmRDYWpjWEllX0dpMDJpTks0RnhOSDdVV08tY2JCMGo4eE02Y3ZaenhRdEpNdU56dndUcFBkN1BBOGE4MklLUXlsUUx5Vjg5U3o4SEHSAYcCQVVfeXFMTXl5bEVjT2Nva1FLZkdva0dFTnFTX0oyVnZPT05qaDNUVlVPYWhxcTk2RVJnbFBobjE3VUUzbzdXVmVxTlpaNzh4THpVN25IbWhGZXNkV2J0SUM1bGsxMXA0Z2Z5UERUZWViMGRFRVc3YlFReFJGOUlMX1BrWXROaE5aMnJBWmUtMW00VGFneWZlazEwUF9VTjlQMmZ0ekwxaXlZU2p4NHhnZTlxNlVfZTRGbHh3SzdEZy1zV2NNWTU1bHN4NnVwUDIzamNBTmpvaHpqbTNHMkRWU2IxNXVad2ExLUM0WnpLbWxXbFlJQktCLWZfNFlCYmhhbVlsdmFIc2FuelNmNms?oc=5",
+   "time": "2026-11-11T01:49:31+00:00",
+   "cat": "ব্যবসা",
    "lang": "en"
   },
   {
@@ -102,23 +438,15 @@
    "source": "Telegraph India",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVHhLQjl5aUFnbnRSdlBJUVE2aldjblU4WU1QbVJ4aENWdFBybmFCT3ZkWlRNc05oZnU3dGIwS0VJOWEwRjZiYURoSnpTTHlMRER6Ym1tRUJPMmFjV1dReTdWbnNreDdpdW5NZERFUGZFUDdjbXNBd2pzNHRrX09MVE9mM2FLdGZQZmNGOExCYXR4YXd1UWlFamc3RG9OaFU0OC1UNjFFWk1NMlBWY3JYbDZIU3o4cDJDcUNpc0ljNFQxYXNpeXpaMERaeFB1Q29wYm9hQ2pvdFQ5bGRYdVdySdIB5gFBVV95cUxQb0pBYzhtRHdpM2Y3WklRVkZqSGNSZTVFNjl2QWhCMHpGM19SVnZmOF9UekQ5S0piZ3hpV1E0YVJ2LXBnRk1zNTVwZjREUU8xRjZyMTU3TS1xY00tdFV5cm8xRXd2Q1VmaVdyYlhOSm5HRHUwTlZjZjY5YzhRYTlpeGtsbnpXc25qcXJ4SkcwSGo4M3RNLVF5QXF2a01MZUtlMDI4VUZUMzN6ajlSZEJZN2dFVHNqU1FEZVpDcS1WSHpJLU10SnQzNlg3NG9sdzJ2cE9ueTZZY0ZsS0tZUDhabUg0SERSdw?oc=5",
    "time": "2026-11-11T01:39:55+00:00",
-   "cat": "শীর্ষ",
+   "cat": "আবহাওয়া",
    "lang": "en"
   },
   {
    "title": "Gold Rate Today: Check 24K, 22K Gold Prices in Mumbai, Delhi, Chennai, Kolkata, Bengaluru on November 11",
    "source": "NDTV Profit",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdUd6cDdUS2t1cjJhdTllWXo5anE3TTR1QXJka3A1Z1JvZUNxOS1CdWlyUHNSWFFveEY0SU91QlVuS0Z1b1I0bjZrRlBvTDMxUUVxdmU0SjdZS09FWTNwNFNZaGdsTEM5VFBncTYxcWQ3VnlaX2ZkcVZFR1dHd1JObXFBMno2dXpVSmFDNE02Vi1ubDBBR3FrMHhUT2c2TnJadjNvb3ZtcWlIcEZhNVV0aW9sMzBpY1VGWnRWLUxXM01IRE03TXM5X1AwV2NqR2sweERBN1NPVkpxQdIB4gFBVV95cUxNUFA0RVluTDdrb1AyT180RWxmY2plRzVZeFp4QlNfaWtsbjR1eWF5Z1VCTmF0SW9KeTZ6YWIyVUc2ZS1Pc0dWTU9Vb0l4U055c2s3S2V6TzhKalFkc1JDa3B3bVowbVVRaUhjV25uZjdudlo0d1NmalRYWWVjbXdkRm5oUGE5NVhqZTJ1Qm01YTF6ME11Vm8wU1VBN1l5My1oZkYwSHZ2cWV1SmFZN1BhM1ByMUw4cW5zaVFWMmJsOE83WFBRS28zV0VFbzVnUW5xTkNzajVkdE1NQjR3VDFuYnl3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUFA0RVluTDdrb1AyT180RWxmY2plRzVZeFp4QlNfaWtsbjR1eWF5Z1VCTmF0SW9KeTZ6YWIyVUc2ZS1Pc0dWTU9Vb0l4U055c2s3S2V6TzhKalFkc1JDa3B3bVowbVVRaUhjV25uZjdudlo0d1NmalRYWWVjbXdkRm5oUGE5NVhqZTJ1Qm01YTF6ME11Vm8wU1VBN1l5My1oZkYwSHZ2cWV1SmFZN1BhM1ByMUw4cW5zaVFWMmJsOE83WFBRS28zV0VFbzVnUW5xTkNzajVkdE1NQjR3VDFuYnl30gHiAUFVX3lxTE1QUDRFWW5MN2tvUDJPXzRFbGZjamVHNVl4WnhCU19pa2xuNHV5YXlnVUJOYXRJb0p5NnphYjJVRzZlLU9zR1ZNT1VvSXhTTnlzazdLZXpPOEpqUWRzUkNrcHdtWjBtVVFpSGNXbm5mN252WjR3U2ZqVFhZZWNtd2RGbmhQYTk1WGplMnVCbTVhMXowTXVWbzBTVUE3WXkzLWhmRjBIdnZxZXVKYVk3UGEzUHIxTDhxbnNpUVYyYmw4TzdYUFFLbzNXRUVvNWdRbnFOQ3NqNWR0TU1CNHdUMW5ieXc?oc=5",
    "time": "2026-11-11T01:37:18+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "People wait to collect ‘Prasadam’ on ‘Annakut’ festival, at Madan Mohan temple, in Kolkata, West Bengal, on Tuesday. (PTI)",
-   "source": "The Shillong Times",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUHBEUXlSWk55eWFBVXlNVEJuSHdnMndfVkpuZFY4VjNIUERyM1R6cGpJcmRCNktXMnFzUFMzYlJsQ0NaUmN5S0ozbFU5OGdmRWR2R3dJY0tfMkl5akh6S0hHTkx3TFN3VEFVUFQwMnRNV1dFdEpWSEYzQlMtNHpkRFJGVktTMk5JR2Z5UmppS3B3OGxNcEQ4amV0ajNtVXZtU3F0U3BiT295OVREU0pVV2NLd0Vaa3BwcWxxNy1oZjgxODFkZ0tZVHNZcnBhNU1DVnYtME9mYWpvWmJ0SzhUeEJpYjZWdW8?oc=5",
-   "time": "2026-11-11T01:02:48+00:00",
-   "cat": "শীর্ষ",
+   "cat": "ব্যবসা",
    "lang": "en"
   },
   {
@@ -126,35 +454,11 @@
    "source": "AajTak Bangla",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjFleUR3ZXg0cE9xeTdVY2ZHVS0wNExWbkU5YzJ2Q2o4NVVjb2pYUmQ2ZWF1T1lVcUpQd0YydmpRbWJjeGVKRXdfckpfdUh6ekVfS1dkQWhES1RVb05waEdjV3NPUHFXT0hZN1p2YUVobFZqbWtyajl0RlROX1ZCenlVVVhyQ3lxMUdQZG1TREk0dmRJaEVnSXF6YW5WZjlFX0xuclc2c3pUS3QwUlRiLVFudkxNRzFsTG5wNVlfc3YyRS1zVTZYbWF3X2RnRS1kbV9MSkVQYkR3QdIB3wFBVV95cUxOMnZPaVFzemhIb3hVeV9UYVF1OVVLUS1oYzdPamo1aVc2dTN3Z0I3N3VydGxhRVYtb0ZNNmpYQ0tOQ3BLSEpvUkJXaW0tUk5FdDhmaW9XbVpycjY1V3RqZ1Y5S0RLYVVoTHpFY0Ywa0NhX2VhSDlXT24wc3lUNFBvNjRkVFJYSzVBRVZaZGgzRUVTV0lIYzI1aFNvdnJlNEpNRGZrZmlIRkQ2a2lSRjE3ODFhSnpoWjRuZVFTYWlzR1NmajJJbDBCSmtGZm9aekJmM3dfYUtVWGZpRGlMcEYw?oc=5",
    "time": "2026-11-11T00:53:56+00:00",
-   "cat": "শীর্ষ",
+   "cat": "আবহাওয়া",
    "lang": "bn"
-  },
-  {
-   "title": "ভাইফোঁটার বাজারে দামের ছেঁকা এড়াতে ভিড় বাড়বে রেস্তোরাঁয়",
-   "source": "Ei Samay",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZEFLRF9BVE81LWxUcng2SlAwNzIwTnY2blpUTFRWeGVfekFrU0ZzSThEeGxYOTBmb1pJZXlxSjNKa3dHTUdhdGVWMk5aUXdIWklERmhWeXVNd0VvWGpSMzEyelBlczlPd0ZLQUhLajh4UWZqYmlLcmoxd3JmUnJwQ0ZSMm01ZnNtbXRqTXlSaU1Wel9kam0zcFJHVkd1RThZbDZsQlQzLWpXbzBoeVNFMl9Gb0phcXItUHRBZDJ1MUgwek55MlNoNktrMNIB2AFBVV95cUxNM0NDZm9PVnBfQ1B3Ymh2UUswZGdKTEVhbmdxNzYta1hMYXk2NEEwU1U5Sm5zNXFjVnd6eDFjT0sxNlpYUGpuT3MwSDJmNDhrY0dOUFlnRW1ueWs2VGhYWVUtOXdHckh1SVBvWlBLVjRCaDl6U0ZhY0x2UDNPZ0R5UmhYSEQzTmlWRUxRNlQyT1lvN3dtbW90U2pPREM2alNLQTlmS2djQWEyazNBVjhwWGp2ZmtSWUR4UXBSSUdPMzR4MjN5cXpoX1FudDBXX3ZhUDF0ckFfd2E?oc=5",
-   "time": "2026-11-11T00:52:20+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
-   "title": "Kolkata Air Pollution Drives Post-Diwali Hospital Surge",
-   "source": "Urban Acres",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTE5eU5YLVNnMUItbVFnTVJEZ2dralRaVWI5SVFxVDNDcVZpYjQweXBuLW5oWmQ1ekl6a2h4bXpaM1RGZ0ZkV2xGemtUSlhUQVVSTXhsRXQ3eXBYLWRKNUhUbTJwTFBpVk53ZHJSY2JjdUxJNkNPTk04N3BUcTJDTnZ4YTg?oc=5",
-   "time": "2026-11-11T00:37:45+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
   },
   {
    "title": "Kolkata Civic Polls Face Fresh Crisis as BJP Coordinators Threatened",
-   "source": "Urban Acres",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0FSTFVUSlMtU05UeHhab2JLcHBjYTI4dmMwLTMxbkdsQlpXSmhEem1GUHNlTjVNTlcxM0hST21Ya2JTc1k0X3duc1hRSm9UcjJEel9JX3FOLTVCVVZ1ZVRxZThoYnRMbkdyaDVldjdQOFFrdlZWZFFyVlNJSmlFWmszeWhoZzNJaE1EcEdoQUM5WUpZWVE?oc=5",
-   "time": "2026-11-11T00:36:44+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Kolkata Civic Polls Face Crisis Over BJP Coordinators",
    "source": "Urban Acres",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0FSTFVUSlMtU05UeHhab2JLcHBjYTI4dmMwLTMxbkdsQlpXSmhEem1GUHNlTjVNTlcxM0hST21Ya2JTc1k0X3duc1hRSm9UcjJEel9JX3FOLTVCVVZ1ZVRxZThoYnRMbkdyaDVldjdQOFFrdlZWZFFyVlNJSmlFWmszeWhoZzNJaE1EcEdoQUM5WUpZWVE?oc=5",
    "time": "2026-11-11T00:36:44+00:00",
@@ -162,35 +466,11 @@
    "lang": "en"
   },
   {
-   "title": "ক্যামাক স্ট্রিট: রিপোর্ট তলব",
-   "source": "Anandabazar Patrika",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRERwc0Z2WVdnVWdrUXVQcTVqVmQyTUJJMk5CLVZwOV8tOTdNMlJoQ0tkYmJxTktVdHpwSXB6c0dDSU1BVmxxQmVWVjh2NlNFT0FDZkkwVHJWTHdkXzc0ZEd3T01zN3dKV21RSEUzejEwU3ZYYjJTRkVHU0FsSkdYR2o2ZkpjZWdJcG1IVHpBbV94UFQ4aFBzRS0wZFJ6eFZmRkM1WFdNekRWY0VMQVVyVGdqUDY4bUEtdjFXa2JhQ2YzUEVKSU9aRE1wd2UtWlJkYUhDOHNQcl91VnRnWmk2TTVzMEExMUZRY0x2NXpFR19oZHdFUkx2clZzd0xqeEdYYndF?oc=5",
-   "time": "2026-11-11T00:30:33+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
-   "title": "কলকাতার বনেদি বাড়ির ভাইফোঁটা",
-   "source": "Aaro Ananda",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTdmMVkxc09DT2tiRmFudmQ3WUptcHB3eW5GWlZqbTNvRUdjbU01VXlsRWpobnJ6ajRncldONlJvT1k0TTc2VnNYdUhHUHFMWnJNREd1d2pGTTRtSUpzTW8waEFSTEZoaUZrbFBsV1J4NWF6V09ZTHhNMXcwbkpkcVhrXzZVOTdYSHBzRk9sNk1NaGtGZmxrdmwya0xNblA0eFJyN3JZQVZWSmNEY1BUUA?oc=5",
-   "time": "2026-11-11T00:30:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
-   "title": "প্রিয়রঞ্জনকে মনে রেখে শহরে ফের ‘বহুত্বে’র মঞ্চ",
-   "source": "Anandabazar Patrika",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzdjR19BNVRpZkx3c2p2eF9wU0JaZWVQLVE2c21BbkMzZVE2cmJYNS0zZ2ZlbmJjNlJFY3FRT1docWQwaEVUZGtrZ1A5b3RzR0Nkd1VxZmpseXpiSVM0NDFTYzNrX1BGblh5QkdJYzNZOTF1R2Q5QlBHUWRuTzhMN01ERDhweEZhTzRQRkY1blZrdUNCbC1BcEFtakJvSnlyT2FacVdLdHgwb0FEd0pXYmNQWFF3bEV1cVgtMVBYTTFJUXlGMHU3bWo1cVFOOGFMTFE?oc=5",
-   "time": "2026-11-11T00:24:24+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
    "title": "টালা: সমস্যা মিটতে আরও দিন দশেক? আজ রাশ চক্ররেলে",
    "source": "Ei Samay",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZlg1NEdPVVBOQXN0OHZ2RkdjLXJ5U1gwMkFGZXd2dTdPam5MUnUwSUxPdHYtVVVoUGZTLXdqSVJHb2xHTEhRYjVHY2I5RTBiaWotdW9mejYydFladFNNeV9ZWWlUdlpxbU4tdllST1lNYy03X0RJeTUxTnZ3eDBtaGVHTmlnYVhtVENwRkg3cmd6SkZjNXUwYW4yM0hBRVVCeDJPc2gxLVNib3RXa0dPLTU4S0l4VWlsRmxDRU9xc3pqbGp1VUhMLVVaald2SUE0YmxUQ09kc2tIbkdxbWdQVTlmYjN2cHp6Y2RIN9IB-gFBVV95cUxQZV9FcF9oZWlsbEp0S09mbUxPT0p6SUgyS1lBU282dTRnbkpndFI0bERfT2lXaV9mU1dlRUtHQjBaVHlDSGpHdXhaemw1OHJpU280X1YwZ3pRazRqUzR2UGRxTnRUSjg0QUpJSE9qVFBSUXVDRnRuNTdfU0lYVy1waFdnU2lFNzA0UU5kY0RxdFlPbjVWbGpYaUFMLUtLZGpFNFByQ20tM05WdVRVQVJLQzBNU2ZSSTNSZ0pBcVZ1Q0VPMkVMQU1XYmVoaXpYWWh5emJ4UzNjeFNwU0hNYzNyelJNRUFHY3dUWk1xLUJFRVJQRk9OR2tSSWRn?oc=5",
    "time": "2026-11-11T00:23:41+00:00",
-   "cat": "শীর্ষ",
+   "cat": "শহর",
    "lang": "bn"
   },
   {
@@ -198,32 +478,8 @@
    "source": "Ei Samay",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTXlUWFBnU1lMcVlsVG5mVkVFTXVCUFFaQ0Z1TXpyeG1jbnFCME82M3owcXNQdVRZbzMyZV9aYkUzZlNLUlVjWVBXWTQtbW50X3FuWkZWdGtmcC1TZGRBUGw0Z1ozekdCYmpXNWs4NjVNLXJvM2lxVlBJcGFCaTUxSGVoUU95aXBQdDRacXpwOWlMdnFMUjZyczhtR19pel9EUktTQjdBc2JZcG5kTnplcEpQYnFpSWdSdHpHTVphU3Z5MHYzVGNadUpEZHVGLWcxNFBaa1JVMnhLVUZ2VWZRcDBjZnDSAfIBQVVfeXFMUHRjOVZMVFZVUFFXSXpadURJaDctUWJqZTBLMFAzYmhHV2pJZWRTeVlfXzlpeXpleDRFVlFYd2paeHdfOU11OEFKY0ZXYW1MVW5pVmhjalFDTm8tMUZFQ3BvdnM3dDU3empzNjN4ZTNaYVdIblpWeTZyVXhMRFp0OFZXaEI0RjJsNVFrVnc2b2M4XzA5dnZHSUNDOGswVk9pZ3FzZzR1MXQ2YmRLS29OZGRSTGNreEFzcW84T1VuSURnczIzTkJtOVhvbFZDOW4xOExaYTE1MzhlZFQxaDlCbS01Qm5qb3ZBOEJJdWZzb3lqdmc?oc=5",
    "time": "2026-11-11T00:09:46+00:00",
-   "cat": "শীর্ষ",
+   "cat": "শহর",
    "lang": "bn"
-  },
-  {
-   "title": "Elderly & ailing pay Diwali price as pollution drives hospital admission surge in Kolkata",
-   "source": "Telegraph India",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY2czRVU4Y01VT3BrXzhiLXhTc2dzV0ZVOXFOSGY5dHlnVlQtck1vcTFDRUppZ1VVQWlWSmtrcDRZOHdZQTRrQ3BydU1nNDVqZXVQU3RkX3dKZlEtLUUxcGs3WjNqX3p1Rk5TdFc4cVJVYUkyampDXzcyVUlDZ0pIeDBCTmxRVU5NVXpPX0ViSnpnWlpCdkJxeTJoZzJZYmN3b0VfeXh5OUk5dE9UQVpQY2VQblFOSjlQa3JOMTZFOC1IMERSaU9qTW5GVTh2bDN6WTNLY1dNLTMxVkpmbExFNlV5djJKcmprejc00gHwAUFVX3lxTE1HTmw4WGh4WTVUR1VHWktkV0JhMl9iMFZmVWRyaEQxRWdaOTdJWTluOFlmTHFYZlg4U0VtUWRDVkdHYVFpaklqQ0NGd19EVXZoOVZxMllEa29DaVVSaGJOT3pKbFFYM1RoSzdhR1RsTFhDbTBFc3RXNUNSTXROZktJOHZXWXZJa05iX3JDNnViV3FyNEZiNDVQWXpyYzdIdVhiVHZjRG04eGJ6MnR3QzNZcUY1MlBGZ01xYlZTUFotZXlackpiRW9ueGtGU255b0RIMUhXaUdhQnd5eWNQSEpxMU1wRHg3dXBGamtTLWFEeA?oc=5",
-   "time": "2026-11-11T00:07:55+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "সমুদ্রের উষ্ণতায় উধাও শীত, শনি থেকে সাময়িক পারদপতন",
-   "source": "Ei Samay",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ29LQWxHdmFjeW54SDU2OGFXOVpuS0lUTElVZHA4dEhtQ1VMT1Q1ajZZRkR2RHkxZE9NUklMVnJhbjhHcW1GZDBndUNMRVViVDUtbHJ3ZVI0RERMUWVxV0lmV1dYc2YwNVdhTnhLVDJXVGd3OUYzZjZ5TjctRDAtN3VoVm5wV20tYUhGR1N3RjhJTlRiY0VtMWZNR01LZHpyc2Q1SllRcXpTejFPUG9FWW84SWlhOXloTHZLZk1pSDR4SXZnNG54WnRva2ZZOEVoSjR0RmZBONIB5AFBVV95cUxPLUxCSU5SVHJmRnJnMHNyY05jSWFwRGcxREgxejA4OERiTHY5NHlXQTJSalVZanBTV3FUVjBoQXVibzVENmhjWXdjaGRWa01xU1pJaWl6N0tGY3BvX2tEQXhXM2I2Z1NZdGowc09fMTgxZGw5cHo4XzVtclRDNS1Rd2tUa0QtWGl5VE15UG13ZTg1b0ZSOC04dHBGbG9lUEFkQ0FJdkxlRWY4QlB3Vndnck0tLWNkbk0yMXQyeWtkOV9xU0p5dTRjbV9wLWFjQ3YwYW9rVkEycmh5S1JRM3UtTmg3dTI?oc=5",
-   "time": "2026-11-10T23:32:26+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
-   "title": "Union Minister of State for Agriculture, Shri Ram Nath Thakur visits ICAR-CIFE Kolkata Centre",
-   "source": "Odisha Diary",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORERDaVJMY3VlX1BCXzdWUDd3NGRSRmdKSzVNb0EyaFR6dld2dDJ0OUNXUi1PczFtcVc1TmpESmdEQUt6UWFhR1c1UnNxd0xpdFdnZlloeG5xWWlTcEdWdUgtMFIxWmQ5ck04TjBnVmRNOWpzYUNadVQ2clJyR016VnNkMFk4WUZlRFNnZVlMc3c3NDk1YW5rTjRMV2x2RXRRTnduSWJ4UE1Ya1JFaGlxdVI1MVFzWllT?oc=5",
-   "time": "2026-11-10T22:49:13+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
   },
   {
    "title": "কলকাতা পুরসভা ভোটে স্থগিতাদেশ জারি থাকলে কো-অর্ডিনেটর নিয়োগ",
@@ -234,43 +490,11 @@
    "lang": "bn"
   },
   {
-   "title": "Kolkata Police Attacks Leave Four Officers Injured, Five Arrested",
-   "source": "Urban Acres",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVW1DSldTdTZQNjczaWNXck1RNHVMM0RsZk1XMGREM1lyMGk0NUJVaVNpamVJWmFBSVUxMnJxMjJWTHNCblpRUDFicGdhME1yR3JiMkpaZU5Id01TLWRaTjFHRlVQMm85c2NmNmVxUWw1RUxxUkt6Wk10S3BKc3ZkT2liMFRRQzVMbDlQSUoxRlg?oc=5",
-   "time": "2026-11-10T21:44:45+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Kolkata DJ Ban Holds Firm During Kali Puja Processions",
-   "source": "Urban Acres",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQODNxd2dwRW51d3dHZ3VXS19CV3Y2LWVtbGNnQXNncmtHNUMzVE1QVF9rQnlYclVxWU5QT1hqZ0ctSVFCOHpKaWFqVkc4YWN1V1AtdmNDWENrc3NZNVEydEFGYU5vVWxDeFkwZDV2RWs0bU9aTndCZDRPS0lYczlkUXAtelZ3cS1xczlpcTFHVQ?oc=5",
-   "time": "2026-11-10T21:43:52+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Kolkata Police Probe Raises Questions Over Urban Law and Order",
-   "source": "Urban Acres",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVhVNjFFQUFRbG9oWE1TYWVVQnNnb0ZDWTQyX1ZDeU16ZUFsbDNMN1NJWld4NG81eTkzTlJSUi1hQ1ZmbG5VNExpLUhoMzRLYnNOY2ZvVFdscXV4c01ZS203NHVnNGkxWjFYb3UtYUVjZGpmWktDbWlfdGphem1zOVVYRTdVdjhLck5OVGd3?oc=5",
-   "time": "2026-11-10T21:42:41+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Kolkata Firecracker Violations: 327 Arrested After Diwali",
-   "source": "urbanacres.in",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMVB0TTBqaXhoMzJEYjh4Q242SzdmLXhRRlF2NjdRaVY2RHFVRXNDanp1Q3drdlF6emFsVUlWeUtZYmlyN2hGMEplaUdZTUQzYUdWVUZyS3hmZmU0cFA2Z0JjQ3RObnMzcVRfZ3hoVXN2bWZoNzFVSnFuMkVxZmNPaE84azZ3YmdXTjNwWEtUOUpoR0RDQXFtUnJMRVM?oc=5",
-   "time": "2026-11-10T21:40:15+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
    "title": "327 arrested in Kolkata for violations on Diwali night; 105 kg banned firecrackers seized",
    "source": "The Statesman",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUVZhbldFcTB0Y292RDlJWWZWYW8xWDVySThIYXpZYjFRZlhXZGM4R09ZWWZmNTFPaHN2b3g5dXYxd1dsUUVORGpKTHlJdGxPSm01TjdlZ3lkRjB3MWZ0RFIyVVAzbGpLSlZhelN4REFPMDU5T253QUZKdDNfZEFXbmh6dXhuN2pwVDBaR0FLenlqdGUyVG15R1hYRUl3aEd3Y0ZuaTBvLXFhYWc1cE9vZktQYVRxeVBPcWNwMldxSUs5ME1aejVaRHhETHNWUkR6ZGtncW5IdnJOekVQWG45NTJ30gHnAUFVX3lxTE93TXp2VmJIVzhnblotTnhHWk9FWklYTjhkVFVxQUpHRU9aUVRWRHdxMU9CbjNpVDhTUnYxVk1sRXlrcG52V2trZjUxWVhiU2M4eXZjUTRlaGlTdDYydEhnOGRmODV0ME9ONk9TM21Rd2RQYlJkQ2t3Wmd6UHZLeV9kNDJFWVpxQ2NGd25kamJCY3h3X0ZMS2l2ZENhNGRiejlIWjNRRlBNNmZiSl81bi1YZi1WcFctZGFrS1lhVWxQcEVWX2xWNkFvLXJtdFdibXhCbmZZNnpsc3Zhbk1OZ2YzMVhyeWlONA?oc=5",
    "time": "2026-11-10T20:10:00+00:00",
-   "cat": "শীর্ষ",
+   "cat": "শহর",
    "lang": "en"
   },
   {
@@ -286,79 +510,23 @@
    "source": "TheWall",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmlCX1dlV1RVSVl5ekdYYmlyNFlRbktjRVFZb3BEOTZ3dV8tWWpFZUxnM3Q0QkVrUGphS0swM29oRGk3dUJVcmZUNjVLcXAzdXdhZUVwOXhPdTBjS3A5ODliOXctcTVUX1V0ajVwdFZZSmlaRGJ1czg1UnIzN0FkbXBfWHNGRW9WbnI0djRFSUkySHU5OVNlbUc2Z2ItV3lUWndtdmdQcWpUUmc3VXhDQ0ZZUG1xSVJDalHSAb8BQVVfeXFMTktzd0QxTmxwMFBkUXUyb0hONzRsd29fTXhhZWNJRjNYQ2E3NTlEa0kzYlJjV0c5T2NDanlrVV91OFZ4d3lYMmQ0c3V6VzlqSzBpaDBZRlRpR1lTLVJ3b2Q0YmFCc2lkcTJHZndJSlpuYzkwZDZ6YlgwSVZCQnFfNURscG4tQXZXemExMWRtdzhMYzR2NzBrVnZLWS1PM0hFbmE2Z3RNMnVTcTdCNzMwMWZzdldyeDRKRVZUMVgwT1U?oc=5",
    "time": "2026-11-10T19:56:32+00:00",
-   "cat": "শীর্ষ",
+   "cat": "শহর",
    "lang": "bn"
-  },
-  {
-   "title": "Kolkata Police suspend inspector over derogatory remarks against CM on WhatsApp",
-   "source": "The Statesman",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWU93ckFBeTlqb3RfU01VeDdMQTUwRzF4ajMzY3N3M1pDWlZkcVNBRXVzT2ZsSnJRSm05NUVtNWdtMmI2czlaVU1faExHS2NodmFsMWJPRk9iRTZSbHUxaVZNemVRNVp2YmowUnVZNnE2cExfUlRleDZldU9Xby1JTkpyYmNzNTMyWkdLcFZSVmljOEZOSVhobTYyTFRKM0N1cDFzSEdkbjBLYm1kU3NlQklPRmVwYTdCS3h4Z3c4T0RiNGE4dE5BSDdoX2NTODB1emM2SHVB0gHbAUFVX3lxTE1OREZCdTFrX0ZZcElxbTZTSWVnRWpFTVJ2clRtQlJZWTF4OGt5UTEtckdrOUN6S3Z3Z0hIX0FIaVExTWVSSzVadnBuVjNHTmVwb19JTUdMOWJNMk9ueHpEZS13ZC1jNDBJdmRqVkEtaUEtX1dZallSWURlSFZfb2ZlVlBxRDJzdjJmUDB0YUMwU3B1d0Q1LWtvQ2xPWkRnNnJfcVZjdGd2dVdMNkZjeFMyWkdrYmR2Zjg2UDBYNzh6dWFkaEo1VnR3T2hOTW9HSVV1Tk9aeFV2bEhGOA?oc=5",
-   "time": "2026-11-10T19:55:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
   },
   {
    "title": "After a noisy Monday night, Kolkata sees a quieter evening; 327 people arrested in the city the day after",
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTExERG41RThRUGtneVdoTXhpVDBWemFjaHlxZ2dHaFMyTW5UbnJTUE1pQWVqVmx1aGVkV0R0MW4xdUpGanVTYUNVamptcHBETWhNWDBWNFVubENtNE1SWUhMZ3VtazRjdEVRU0dhOGJfYW9vclFEWnNKY2ZERWFyRUNRMkVtaWRsel85X3ZRX09BSDlDU3k5VEk5RnpsWEJGSzhMLTMwaWtJOHRXaGY1NDVNNElsN1dyQjdzQkhZRkxyazNGX3VabEtDZjBFU2YzM0t0d2I4eDc0SVNZTWN5U3ZVRkpRMFR5cHRxeWh2VHd3NDkyVER5clhIY1hKRFpubXNsbjFmeVdWbjI1UEtXM2E2aG5RTkp1ZkpKNHQ3Y0FBcVRkLTZmV1VSUTBKalY5V3A3MFdUQ2RpVHVLbHdmNGhiZ2zSAcoCQVVfeXFMT0Jaanh4RGJwTXY5OGFPUHYza1pIbzJkTW5jSXNEenZBUEI3WlFtckRILXZTUXRuVTdnTFpiaEVYamlrTHB2MmROak5uaFlEU01VNEU2bG9xQXh0WFU0SHRZSTI2cUt2VG96d1FLd2FYWm1qbnlZTDYzeHE3anNNSnhFeHgxYzVOckRKSms4WDdSUnpvSkdFNm9rdTVjQng0NHNxQ2dxUkF5cDdEWjRvMkpwVkZhQlJQbDhGbW1rUGVDN0Z6QkdnLXFsclJBNktZTEFSbE9xNU9lYjNwV2ZHRnlXS3cxT0xzM19NQ3IxVVFTZjF1b2hFc0g0a25iLTFlYjdnN1pMOUNNSVFBbzM1Y0g3T0NiUnB0c0V1b2VRMlYzMk0wMGxYTkdaTFh3TnRjNUxkR3pXNDhxUmh1d0ZRVVJNZVhmZUpRdGVR?oc=5",
    "time": "2026-11-10T19:48:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Kolkata techie murder: Police reconstruct crime scene with accused girlfriend, her mother",
-   "source": "The Statesman",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaHZNX1N1SEQwN0xWOEQ4elMwdjBVQVpfWmlpenhBQWxGVG5pcFJMWk1xR1NHV3ZmVUxPSVk0alZ5SVVOSFEwVHdmT0tnSHJMMVRhYzdqZFZ6MEQ4UE4zTm1rWkpmUmxBNEp0ZlQ2MkttQjAxejg2VzlCQURSLXQyQXlNYy0tSmJTbWd4UC0tQmNjNlZKQWJkaFJRcU1UM1JtSU5aOGdKcDIwTVNpZC0yWkhkRkZnQUhNOWxEbXhwcW9xQTlzcndtczY1UEtkLWVZZmJVd2M5UEs0eGtFTE5IT2hJcDZxaktwQ2fSAe8BQVVfeXFMUE9LTnBDQ3JPVTlWT0pzVDFTXzk5NFBiRnhsTTJfV0hNUTNHdWU4QXBuekVfUGlLakF6MEsweVFBUVdWQlVwME9xa1JwbkVkeVgzNW14RG01bEtrR0NKaDM0SUtJQm1HakFpOVYwdkVSUVZWUXJxRHdjZzJzYmdsRjdESnBSTjZrdVIzdXBodW05dFJURG1sUHBXZnpXUEN2Z2FwUkJlaS1GbGJFbTJaRFdYdzNGYlV5dVB6TVRnczlzWEFINmYtM2VEMmctSC1IRkVES3lBUmpLRFUyd2FaQ0ctZmpzSS1SeUJoSUlBTnM?oc=5",
-   "time": "2026-11-10T19:22:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Kol Police detective department takes over Abhishek house violence probe, carries out reconstruction of c",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOZFRWV3Y0bll0RVo2MmVaMzVJbGdKMlRCQWdQQUxicGF6VjRhTmhZbVdtNl8xamNGM2tta2NmTnNkcDZWakFsTEZrQUthS2NXdElicTlaLTVvN2VyUVYyTlJaMzkyWElvcGRKdUlMRWh5YU82RG1paVUtLV9hMjZPLTZoUUl1MjRtYzNNZjA5bEFaZFpURTc0RW9aUTJ4X0hkNFZLdmgzdlpIdktYbmY3cnBDWFNod2R2bkgzYTVuSC1uejQxamNvTDR3MlpyODRldzJVdFprUVVMXzRqVFc3aUExcHlqVkFGMnJXNWtCLXJfUVJmMHA2TlYzOTQ1OWNUNjExR1o3ajRCYWFwVjYzZEFxa0V1em42Tjh6dWVuLTlFa2R2UUkwcFUxM2h2MmdWVHlDRzdpVGNRUdIBvwJBVV95cUxNLUx0Ung1XzVNYmdkc29oWkFVaVdteDF5c2VuV0NHVVlzM0VJaGVpV0xtZFZGT3diazJkU0VILVJwZ29iYXJlWGlyTmp0Tk54eVRZVk4tMXM2d3c1bFJLbnNMaGR2YXBwUjQ4ZjlJYmVXTVJ4OXBoWmxuOGtjNTB1TmtDc3ZUenVfT3ZWa19Kb2ZfdlhnU011T1k4MkZMU1FVNV9qbkRkV3hRRlZZNHhlZjI2enZ0dkpITHdrQ0VMeUl5N29QQmV2QkgyaDJHa0Y2YndvR3ZqYWdxSnNYR3NERnBHWUNjYUlhc3o1anhDX2FJempuOTQwUWlzV1hoREJIbUZPMlNzRXFIdXFHT0VSOElIMGEwSVZxOUdrTG9YdERMazlVS3ZsdnZBRjhSTUd1TE16Z2h2dTJSWmhnT3lv?oc=5",
-   "time": "2026-11-10T19:02:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Amid cracker blitz, absence of DJ music silver lining this year",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZExIY2o0QmJsbFpMZmpxUnRfM3h3UnNsQTdlX05DNkFqRlVWalEyeW1OR2hCTjh0XzNIS2ctX0FzNVA0Y1QzSnNZVW5aUzhxckN4U0hQZHlNRUJmTVZyYkxZNnRtUUs2ckszVnRzVGdVTlk2SjFYR013UnV0MU1Kb3hCTWtfcUNVYjFUTDQ4VDFrSENrbm1fSGxOX291Z1pnRUx0al9RYTRqTGpwN2xveFRkZmtjWnN6b051cmo3T3FyYTVpQUVaRmZ2eE9EbmZINTk40gHYAUFVX3lxTE9oTHVoWGg0bDVncEN5VVd2cU9hTEFJeVF0b2trZW9rSW9oTlR1UU5ES0FTSG9TblFDdENLcGMwT3JKX2Vhc1Jja205UDRxU0F2TFIyUjc3V2hDMVNTNExGTlFjV054T3BOcVZtUktKcWhOa0E3c0o1VHZoV0I2MHhmQU43QVR2MENUVWhNaUZsVjNKelI5cVdrbUZIN0hsZVBtWFIzV0dsNjZfdFFuWGwyc1haa0VrMzVpMGRzb3gyeFdwR2VwR0czZmIwdUF3VWVMdWN0NmQwSw?oc=5",
-   "time": "2026-11-10T18:58:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "West Bengal CM Suvendu Adhikari alleges Mamata Banerjee hid information in poll affidavit, warns of action",
-   "source": "The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTVoVDI1S2ZqUWhtSy1reFpYRTVQVHo0Z0NSUXV6U0FKRTh1dlM5U19aZFh6V1U3QjRWWkhjOGU3TUVNbklNdjVxR245b0h5cXBiU3ptSFlJSXhpQ0dnZko2M0pEVEhVZ3NILS1HSHQtcGlRV0R4a3VwVGJvR1VOMzBPaUg2UHA3MVgwcVU4dWtoVlE4QUthR2ZQN0ZyN1JsOHEwN2ZPOU03WWZJUDI3OTRlSE9QczdNejVCUVJFMHlfcU1uNk8ydVZ6bHZZbU15OGtscm5nREhrSE5fejN5aS1Hb0RtSHVEdi1xV1FFZy1RVUNZM2hFWWF4WDNkdDlGV3REQXlUQTk4YkF3akpjUlVzc0hId3fSAZcCQVVfeXFMTUU1aFQyNUtmalFobUsta3haWEU1UFR6NGdDUlF1elNBSkU4dXZTOVNfWmRYeldVN0I0VlpIYzhlN01FTW5JTXY1cUduOW9IeXFwYlN6bUhZSUl4aUNHZ2ZKNjNKRFRIVWdzSC0tR0h0LXBpUVdEeGt1cFRib0dVTjMwT2lINlBwNzFYMHFVOHVraFZROEFLYUdmUDdGcjdSbDhxMDdmTzlNN1lmSVAyNzk0ZUhPUHM3TXo1QlFSRTB5X3FNbjZPMnVWemx2WW1NeThrbHJuZ0RIa0hOX3ozeWktR29EbUh1RHYtcVdRRWctUVVDWTNoRVlheFgzZHQ5Rld0REF5VEE5OGJBd2pKY1JVc3NISHd3?oc=5",
-   "time": "2026-11-10T18:58:00+00:00",
-   "cat": "ব্যবসা",
-   "lang": "en"
-  },
-  {
-   "title": "Crack(er)pots thrash cops in Tolly & Tiljala; 5 arrested",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnJPWnNoWXpEblY3dmd2Wi15dlJtWE1yNDNZWDFoc1J3UTh1YXFUVUdKWkRwUkJwSDBQQmFOaUF6WnNFOEsydkNpNmRyU0Z3ckU1Mm5hVnpsUDF3MW1nVTlDMnBkUUpZSHB5SFBoMjdNTDNNRG5lVnF5ZGt4QlU1TmtvVTJhcDJ0XzQ3d3k0RnRrZjYyNjlSRlprVHlXSmhzdTB1bHA2UUdNd0JVMjNoYW5VU1d4aHA2OEZUZGtxNkFBOFl10gHKAUFVX3lxTE9sUVJnYjFNTTdXeDE1RlVJb1JrMWd1Z1BhaGQ3Rk1fdFpIY3lueUpBX0ptSThDQnFRZ1lSMjc2R1JLdmw1c3c1NjBhamZtZGRHblpXTGZ6aUZqZ3B5NG9Gd1NmSGFrdXJCaVJfVGpCZTNQOUhhZG84NWtwQ212UDkwMHlTZTJ0YV85Q00wUTBSUDdzRUpYMWxRZTdPQk9ONjhKUDNQdGJpZVNnN1FqMlcxVGNOU2pMbHZwRzJJU3VjSTVzYjhXRzNDNHc?oc=5",
-   "time": "2026-11-10T18:54:00+00:00",
-   "cat": "শীর্ষ",
+   "cat": "শহর",
    "lang": "en"
   },
   {
    "title": "Breather for lakes: Min announces alternative arrangements for Chhath",
    "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYllzRDVyNHBqSzI1eFJSMEZnSXNqNVhsYzJrX1JOSDdJYTV2elB0WnozekxsdEh6aUFCcEFWYnkwS0VuUWNlbU8wcUJON3lkNU1lZU9hVkRVaWdWcWRzZDdQRDhteUFRRThhWjF1NEtYanM3Z3NZVFo3SUdGUWVmOGkzVVNsaXFJYkw5d2w0R0VJR1d5T0puVE9lWDdwRGtCSzR5S1lzUGpzZ3RBZmU3aW4yMzlZY1RCU3U2eWpFbldsdHNOa19iRDg5S2cxOHNILUE2TW5tUXhnTVnSAeABQVVfeXFMTmJDN1V5dE93S1ktVHhBWmFRVUpPci1zMm1WNnF1eEZlR3pkRVI3R1FpZzM5VTI2NFVFaEpPQjhPRklqZXhjMWs3QUREdW4wQ3lkTkc2MXFBVTNRc0xDQ0oxWnAzdXIzQjg1LW5jYUF2V3ZtM2xzOUFzd1dJNl9DOE1SUEhOREFVS0lCT2dVN3VHU2x6cXlDYTR0VVNJY3ZmNjMxNnVDUkMybklMZ3NGdXlmcTdIamhrOHljR2ZHaHBIMnk2OW02Vm1nSnFnZ2tRVE5WMlF4bTB4TFpfeE9xU2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYkM3VXl0T3dLWS1UeEFaYVFVSk9yLXMybVY2cXV4RmVHemRFUjdHUWlnMzlVMjY0VUVoSk9COE9GSWpleGMxazdBRER1bjBDeWRORzYxcUFVM1FzTENDSjFacDN1cjNCODUtbmNhQXZXdm0zbHM5QXN3V0k2X0M4TVJQSE5EQVVLSUJPZ1U3dUdTbHpxeUNhNHRVU0ljdmY2MzE2dUNSQzJuSUxnc0Z1eWZxN0hqaGs4eWNHZkdocEgyeTY5bTZWbWdKcWdna1FUTlYyUXhtMHhMWl94T3FTZ9IB4AFBVV95cUxOYkM3VXl0T3dLWS1UeEFaYVFVSk9yLXMybVY2cXV4RmVHemRFUjdHUWlnMzlVMjY0VUVoSk9COE9GSWpleGMxazdBRER1bjBDeWRORzYxcUFVM1FzTENDSjFacDN1cjNCODUtbmNhQXZXdm0zbHM5QXN3V0k2X0M4TVJQSE5EQVVLSUJPZ1U3dUdTbHpxeUNhNHRVU0ljdmY2MzE2dUNSQzJuSUxnc0Z1eWZxN0hqaGs4eWNHZkdocEgyeTY5bTZWbWdKcWdna1FUTlYyUXhtMHhMWl94T3FTZw?oc=5",
    "time": "2026-11-10T18:53:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "The post-mortem: Why this Diwali was noisiest in city in recent memory",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0kzWGdLbGZOT1Y0NlJXaFhUc29TcjZDNTR6VFZMOFNFOGIxTldMMVFVcVc1bVpIdTJuakxYVjNEc213ZjJwZjNJYVdXYnJIRHZBSDJqaFpFUGpETUZGWWtlOWkwYmtqX25pZWVqV21DaVgyQm5wRzZJOVQ1MHRWRTkzLU1uU1VUbGNIdTNwWUxqNV9WcmpnYk1LN1c3UkQxSFlJdHNPXzNQY21mQ0JkNWQxYURLa1dQVmZiVHVyZmFPdExzUi1jdXB0cWtGY1BtbjJOX3FNTG5Ramg30gHiAUFVX3lxTFBGbUQxSmRJYkxPam92aEwtNl9UYmZoSU85bjdZSTRJZVc2TXI3SnIzTFFKRFA4WDVQNlRkQmUtSWpCbTFLVVprczZuSkZoNE42Vm5HYmFOQTFINHdhUzZHR3I2b19lcU9CbE9GUDJ5dlQ0aGc0ckpJQ1lPeUU2TUYwUDBpUUFPVGVVNDl6MXY0Ry1JS3lmenlEa3dzaDZqMXlPaDJOYkZFMU8ya19nbDJvMTlZaFVlOUxvcnhuNjRFRU8wLUVxRGs3VTdOdWVVSkMwYk8xbl9uQ3pDSzN1Z3hYWmc?oc=5",
-   "time": "2026-11-10T18:52:00+00:00",
-   "cat": "শীর্ষ",
+   "cat": "শহর",
    "lang": "en"
   },
   {
@@ -366,23 +534,7 @@
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzh0Vzk1TmpKdHpmUjhLZVpKVmVqVmJRRHRYSkl1aDd2YmZmSGRkcm9LVEpvWHBNc1lDNVplVFEzeHFlcXBhdUlubFR1SVZyOEdsWkZvcHRqSFc5cjMwME5nZmJzVEJQQzZlQzFYaTc2ODFaWEhRbk04V2hFcWJWYmtkU0xlYzZ1MGdNeFdlWWhicmJxejdER0ZaZHVRR2lyZ3lfQ1RKOEZ0VHpPX241bzNVTnI3MVhJMmVFSjRkZzZzaXh5Z0tr0gHMAUFVX3lxTE9UclJFa0RSbDhDU2dQdmtfUWQxTnp5cDQxUXBQbVNtZ19ia1I5YXR1MmJ2Z2RnMmFPeG9FVk5GZktqOUFLekNQendpNWk5dFdNampGZ3p6NThLUDI2dHlwbFlyNS16Q3R3bVlvU3l1TUhnYWk1Rm9MejQ3aTZwa21kdlFCWWR5cVI4OXNsR004YnA4Y0t3QkJVaGlta2w2MUhKRmVKdThqUkFsXzUyWDBFR2Fhc3VwLUJNRGh6cTBPbkVoOUhmZVg4Y0FZTg?oc=5",
    "time": "2026-11-10T18:51:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "From Taltala to College Street, Silpara to Taratala: Pets’ travails show Kolkata’s cruel side",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSmJ0YkRnekJpVEVMS0pXNy11VURJZDYzYkc0WmIzTEprRDFuSm1pNmZtSHRCMmFaNU1fUHpPNEZuVkZTRUM3WEVETjJqSXhuNEZCQy14dGxUVDctcGtlc3p0MDlkbjlnLUt6ZEpFaFhERlBLenlfUnhIdGsxT2NDeXVnMkE1T252a2dZVVlaREprVVNtZlBxQnczanlOZERNeDJPUTR0U0s4bHlxSVdyU2NGczFOcVR2ZEdTY3p4enNYMWI4SlI1ZGdHeDdxcXZGRmJ5MEsxTWVkWm9UZ3FjSy1GZDBaY0pwWnlqNDAyanFhYUoybzNn0gH8AUFVX3lxTE1vZElXa2JSYVJzb250OTdnRTZYS0hkU3Y3Uy16WjBkXy1KclZTbHdPVTR3WWd4MXlKWkExZXllT1hUbk9CZ28xWU0tT2V0Vk52cUtUeklxSzFVdXVTdl9RWUhYMzQwTDFsc3NsTkVPZF82Yk40VVFiS2lkdjJRUTBTZ09YM0JwYmxqZEhtdWZETldjeWVjMHVWOFQzX282TGc1MnZXZ2ZzR1E0aTFiVnp5R0hnSjl0akhseG4tVm1yUTdiQ21uQzNBTUlnTUJUa3lON3Q5MW1QNFFTaVZBODVGSEhvWUtJTmluUUZlVlFxd09zU1hBb2NWdGI1Mg?oc=5",
-   "time": "2026-11-10T18:49:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Where did RG Kar ex-head get bail from? They should protest there: CM",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYm9QdFhCenN4WXpZSjVfODFEZTVJWHVEX1VEb2VKUUxiMjlkcjI1OGJVY0tSdlFqd0o2TGp5WDc2cERBWGs4cXRMWDBYNDYtdDJ3T2dVcVdTWXZPSk1LUXl1OWZ6a210S1hLaTQ4TzVoVy03RVBFZV9zUHJ2amw2Yjk2dUxxVlVuNEo0allzdDFGbzJyQzF0ZTAtT3RhUHZIaGZpWHdqa2M3MDdvb25CX1dWaWttSTZJMHZPRnBnZHdYTE1sSzlMM3BKY0JWX1prbEw1ZGJUUVY3Z9IB3wFBVV95cUxPYlVTYTB6ekZtLVJ1TGVaT3FjN2c5U19WNzl6ZU5fcHg5TWVBVVdiR2lST21ieHBPNFV3T2JWaDNYdWFIczIyZWU2cXhVUDFaSlpMdzdkaVlsMllTMWlrYmM0V0xiMDNZVGhUZ3c1T3hreUJqN1pTbUpSM3FLS0pHTENYQzNRaEJueG9qVWFaOUJOc0lUbEk1TmppQUhrRXQ5SHU1bWNpbmFWeVgtNEFvYy1hUk1KamMzNnl4dmtsYlI2cW1fcUVEenZYTXo1VzB4enkwYVUxaGlPYmF5VUVv?oc=5",
-   "time": "2026-11-10T18:47:00+00:00",
-   "cat": "শীর্ষ",
+   "cat": "শহর",
    "lang": "en"
   },
   {
@@ -434,27 +586,11 @@
    "lang": "bn"
   },
   {
-   "title": "Kolkata: Rainfall Brings Wet Weather To The City #Gallery",
-   "source": "Social News XYZ",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQlo1Vlh1djBDQlUwQ1R2aHNoQzQxRlYwdjQ5NW9XYkU5aU85MFdteUNRcTNjenNzMFptZFlwNlM0T2tLVThzWHRWampYR0lhcmFERTM4cXhrbTBIRVg2b0NnaWtpVXBMRmZNaUpTNFNnWHBhSHY3c2U4OEVrZ2MyYjJjSlQzQXBMcTZVQW1fbV9neUR1aTdkZG5B0gGaAUFVX3lxTE5CWjVWWHV2MENCVTBDVHZoc2hDNDFGVjB2NDk1b1diRTlpTzkwV215Q1FxM2N6c3MwWm1kWXA2UzRPa0tVOHNYdFZqalhHSWFyYURFMzhxeGttMEhFWDZvQ2dpa2lVcExGZk1pSlM0U2dYcGFIdjdzZTg4RWtnYzJiMmNKVDNBcExxNlVBbV9tX2d5RHVpN2RkbkE?oc=5",
-   "time": "2026-11-10T18:07:45+00:00",
-   "cat": "আবহাওয়া",
-   "lang": "en"
-  },
-  {
-   "title": "Mamata Banerjee: কালীপুজোয় ফাঁকা ছিল বাড়ি, এবছর ভাইফোঁটা নিয়ে বড় সিদ্ধান্ত নিলেন মমতা বন্দ্যোপাধ্যায়",
-   "source": "TV9 Bangla",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzdkTjdzRUp1dEVrMFliZTl1UVlFV08zeDRJNVltaWdMUmQ1QlNNVXcwbG9taThMaDEwRl9hbm14M3gwN3JkbWpnejJXbGVocUNoeEliUmFYSWktNVdrVkxrRHhIWDV0ZlhfZ1ZZNm1saHZLQjRvaFNDQjZyaFprMlZOcU1SOUUzMGtGWkJjenFtZzFTS0owRFp5WdIBoAFBVV95cUxOc2s3Y2RvQnU5YTR0b3RqbXlRR3hXR2FxRW1OSnUxNW8zM1JSQkhnVlFTWmhuWC00WXJvRERnWWdISExTSlhuZmNEYlFLRW1lMmlTVkJ0alcxVnJYaTJwUFdaUk9vdFJVTTdWWUZacjdHSkxXWWt3ZVhRWFBRMVMwYmdEX0I0aEFNRlh4Q2oyMVdzOTM5MWNGYzd0YUtnM3pO?oc=5",
-   "time": "2026-11-10T17:56:04+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
    "title": "ভাইফোঁটার দিন আমি আর দাদা এখনও দিদিকে সাষ্টাঙ্গে প্রণাম করি, এটাও এখন আমাদের ভাইফোঁটার রীতি: উন্মেষ",
    "source": "Anandabazar Patrika",
    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOX09DeVh1S2hwYi14Ukh1eVZzTzF5c3gtU3N6N0RRd0R5eGt1WDVreVdiWGQ2V2lTWEVRNlBQTm1xN3JuSERTX3g3S1NfOGdJdTRCNURYQm52RGtuYmJxUlVIVW1Wa0h0clg0MUpsZEdEX1dYcGNGRkFqclZqSFlVLXlFOWFlZzhqcjhyR2M5XzdtNk9xck9xeWtIWGNNblk0RWN4NEg4ZnRieHBXaFdROERCLTVuTm9yWjd4aUJya29taS02X0c3eGFWSGxFUVZBaC1LS0pxSHV1NlhRb1ExNTd0eXhUd2VMdHZEQ0pYZE1uU2VOYmFxQzlreDZ2d1lUUGRxWHRTa2ZRODN6ZHBRdnNKdHZJQTVNNldBUE5LMDhuQTEtWEduRTBldmpySXhFSEFuUGNPaGNiemFjSWFBOFBkT3daci1a0gHIAkFVX3lxTE5fT0N5WHVLaHBiLXhSSHV5VnNPMXlzeC1Tc3o3RFF3RHl4a3VYNWt5V2JYZDZXaVNYRVE2UFBObXE3cm5IRFNfeDdLU184Z0l1NEI1RFhCbnZEa25iYnFSVUhVbVZrSHRyWDQxSmxkR0RfV1hwY0ZGQWpyVmpIWVUteUU5YWVnOGpyOHJHYzlfN202T3FyT3F5a0hYY01uWTRFY3g0SDhmdGJ4cFdoV1E4REItNW5Ob3JaN3hpQnJrb21pLTZfRzd4YVZIbEVRVkFoLUtLSnFIdXU2WFFvUTE1N3R5eFR3ZUx0dkRDSlhkTW5TZU5iYXFDOWt4NnZ3WVRQZHFYdFNrZlE4M3pkcFF2c0p0dklBNU02V0FQTkswOG5BMS1YR25FMGV2anJJeEVIQW5QY09oY2J6YWNJYUE4UGRPd1pyLVo?oc=5",
    "time": "2026-11-10T17:51:59+00:00",
-   "cat": "শীর্ষ",
+   "cat": "ব্যবসা",
    "lang": "bn"
   },
   {
@@ -466,19 +602,11 @@
    "lang": "bn"
   },
   {
-   "title": "ব্যস্ত সময়ে বিপত্তি! বাইপাস-উল্টোডাঙা উড়ালপুলে ভেঙে পড়ল ট্রাফিক বেরিয়ার",
-   "source": "Aajkaal",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHRyNVFqS2tRWjJpbHY2WkdmaWtTUDFtREVTcjJfNVBxellZeDF6TmVKQmg4NVdldEc0elZkMzQ1LVluRm9IUHJOcHRPV3Rac3dkTXdtVTZ0emZHZHNLSWNVMWNUWV9kSmtwSUNhTmdvVHE0T19TYnozdjZYT20taTJ3bG5zYThJRGFKV0tjcTBJZl8wM0Y2ZFExYTJxSXZYdGg5c0dTS2ZFbl9TZHNwTEs4RUxBNEtjTVBwYkdYN0hiME8tOGxZWWlsUQ?oc=5",
-   "time": "2026-11-10T16:54:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
    "title": "দুপুর গড়াতেই বৃষ্টিতে ভিজলো কলকাতা",
    "source": "Puber Kalom",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSm9hX29oQzkxdzFrWXRrN3ZXZUZFc3c3N1VCeTM5M19kRWE3YldqdWVOTWp2dGw5elAwWkVqWTFZaG5IRkpnTzVmWVVRck1QVnRPZkVadTA3NURwbk50LVl5SERfZTNwaHFja1laa00yMlpUcDdGX1Rmb2pHUVhCWmhVOA?oc=5",
    "time": "2026-11-10T16:49:07+00:00",
-   "cat": "শীর্ষ",
+   "cat": "আবহাওয়া",
    "lang": "bn"
   },
   {
@@ -506,27 +634,11 @@
    "lang": "en"
   },
   {
-   "title": "Kolkata News:ভেঙে পড়ল উল্টোডাঙা ফ্লাইওভারের হাইটবার, গাড়ি চলাচল পুরোপুরি বন্ধ এই অংশে ..",
-   "source": "ABP Ananda",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON3dGenU2LVZHNVlNZ05acG5BWElhVWg0SHM0dzZnUktkTktCZmhWc3hXVGZkZ3BwZDZqQ3hDVnRtUm94TXRMSlpLVHdWNlNaQ0RpcnVKVENhRnBFQmtSTjk4dld0SVZnckxDUTZ1aUl6NlA2YW05ZVV6dEtlQk9GUFlYSmd2TEtMZkVpRlJYc3FwVDRranRZRVRVMHF5V056UVZLSk9JSEFDQzRvb2haazRTd1BnV0E0VURDQ242QTZ2LVBYOFVpVWU2bHlGd9IB0wFBVV95cUxQakdrMm9uWmNtQkl2QUVhZE5FY1pzY3JOeFZLcHdJODFJNXhhR21jMTJGaGViaEY1WFlvLUxlZ2xfTGVjQlpkbGhQTFpFWjhmbDE1MXdGT3RzOEVIdDUtSFd2anVrT0dzV25lbUtDOTI4RFVCcmdVa2VzUGVwdkNDUXM4QVNWRkZON3VhQWlXS2FGWlRXVmpiY1NDeG9MLVFQclpUSldnOVd1cmFxbkZRUzVFeHo5TEE5Njc0bG04Ry1mMVZ3ZkFYOHFWa3pSYmxsS2VJ?oc=5",
-   "time": "2026-11-10T16:32:03+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
-   "title": "মুম্বাই হয়ে দুবাই পালিয়ে যাওয়ার পথে কলকাতা বিমানবন্দরে গ্রেপ্তার তৃণমূল বিধায়ক",
-   "source": "প্রথম আলো",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HUDBMeHdlVUEtQ0NoWHdPRDdXbXdrcHdBclZaam50TnlQMzdKNzdxa0FQSERMRkY1WlN4Wl9YeXEycEs5dkFNaG13WlUxSkVrdGRiWGN3MTRSZHNRUFHSAWtBVV95cUxNUUgyQlJzTXpFTmRWMk1JZERpUzNHTXVacHlKSkxPWUthc3REaWpSeE5QOHItUXU4eTRHWTBLZ2tkSGItUi1PdTV5WGNfMWd0RVNhcTl6ekFhUXRxT2gzUGpEak9ySGYyWTJoWQ?oc=5",
-   "time": "2026-11-10T16:24:39+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
    "title": "Weather Update: ভাইফোঁটার পরেই পারদ পতন ? দুর্যোগ কাটবে কবে ? কী বলছে IMD",
    "source": "ABP Ananda",
    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPdjV1Y1JWa25VNWRjRXhjeVJXcTc2XzNvWmdiR0JjSmJZUFdfSkpEd3V5dzJObDlNZWw5UW9VRi1ybENJQm1YNDJnYkpmM2hHckNvN011cjRHRnN3cnA1UlRTZ1d5NTY5V0lWUXlzUUdhNmhxNy1ZeUpuNDlzNUx0Mmp3VlZ6dEF1dG9sM3FMd0pzWldEczRiUy1oeUdSLW1ZT2hCLWR4LXZ0V0VSZFNwelc4dlN2WVRVNGpza3RmNjBPaTJBamtsQmRQaHRlQ3lFekhsdjNFakpya0xLanJMVVVWNjJUZHNJU2dqeWpSNTJhVlVwRkFVQ2l4UkpONWZfczJzMml6N3Q3eDlOSnlyczF3a2xlVDBocTZLbGJpQi1wTzAwaTlB0gGsAkFVX3lxTE0tekFISmxQd0RmZDIwZTVzNTNTcEJXNVFMNG1QWms1N1I5OE5TLWt0QXNIWlNWejc0UnE3QkR0SEYtYUlUeDlKMGtnZnF4SmVYbUR4RHpLa3FzSVl2TzJtRkFHSXhjY2FiekRZTkljV1dBcFZ6QlpILU00QWdWSDhWekNTSlhIeWdnb3J2Qy1SemYtSnRsV0poQlFkNjJMRmxBTWdRbGkyUnNNbWtySGZadmFyQVlmdnByV2dlY0R4MHFDREhTYmZBbEtTMEZQUms0NHp3OXF0Vm9VWlVRRUNGc1laLXRKd1FIdWhjZlRTeW80NkFSMU1vSFdwYmtlY3k2Y2FwRmtRYjB1VnFNSHl3QkpVUzhPWnItYW84Zjl2MzdrNVFuZFhONWUxdg?oc=5",
    "time": "2026-11-10T16:07:50+00:00",
-   "cat": "শীর্ষ",
+   "cat": "আবহাওয়া",
    "lang": "bn"
   },
   {
@@ -578,14 +690,6 @@
    "lang": "en"
   },
   {
-   "title": "দশম বর্ষে ‘দশ এ দশ’! শ্যামাপুজোয় কলকাতার সেরার পুজোগুলি কী কী? ঘুরে দেখল দেবী প্রণাম মহামুকুট মহা সম্মান",
-   "source": "Anandabazar Patrika",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPenpPdWZlTlhld18wWGVBOUFWN3hwSDFCNVI0a2VPWVpRQnF1eEJCREQtNVR0eUlzMjdWRVNjd1hLMThreHRURGFtazZTbXN4WW5ONFp5NERwVFo0SWVYQXRWMzFxSktwRC13R1kzUkN5WGtZdDIyY1JHY2xndUxOY0syNDJZLUtLYUVQb0V6SER1SkV6cHg4S0daS3UtQzJodHIwbU9LcXhsSmVMRkdMWFF4SkpoemhQdldBUm5VWjEwY3A5N0lkQUdTd0hQYlI5N1ZlcG83Tmd2d2stNWNPbDdvUHJWdGdmLURrNnhwZkI4OS0tRnlFWlRTRzFhTjRRLWfSAYcCQVVfeXFMTVlONm5pNWltLUYzZ1lCSXY1Y1FrZmpjSXdDUjc3NXRseFc0cDhkMzB3T1NPeTQyYzBMcE9WOFhHZDU1cnM5aEo1dy0wNWc1cjFiV3UybEpRQnp2RS1HcVhyU2FMSVp1RFBQM1FBaDJnLVJ0Umx3WUFCeEgxNjJCVVBGZE9yckpRSThpaENfQzJkVXE0Zm14RlFZcnFrSHczR1J2TmNKYlU4VzNVM1VnWHRIaERiWlBDRUxqSjRXaFF1dG1TUWdkMlNLUllQcmRFS09qY3JuQzZmaENHTTAzTE9xNXY5YktMSEFXeTBVd09QOGROQWZfWEo4RFVHaW1qblZOWmZKYms?oc=5",
-   "time": "2026-11-10T14:44:43+00:00",
-   "cat": "ব্যবসা",
-   "lang": "bn"
-  },
-  {
    "title": "TMC MLA held with Rs 2 lakh, 6 phones at Kolkata airport; civic volunteer detained over leak of confident",
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQM0JvZmRZYVgzV2tnMXZRM0VuT2ViMnRubGh5bTd3azU4Z0lsbGVQMzVrOFFGNjZVVTZtT0NrT3NUQzQzcEVTRmV4aTZDSU8zZ1hvTnotYlVJLUtmdGV1TmxTdXlWRzlNeVFodUNiX0tuSzlIay02TVRHeF90WTZfalIwR0NjY3UtbEtHWkhHdmdXSjVmdWxvMXJyVmZ3MjFSU2NpdGpWS1AtcW42bVhqX19MTE0zejlobUxjQW1ZS1JCaVNJMThUNzhFRzhQR0lOS21mcFBTaHZ1R2t2MWI1NEVMMkdfenNILWU0OEdzd2E2di1GUU4xYnV1bnFodllKV05reHEtWU9Ta2RwRmpTMnFBNVFWUlNwaTI1TUZIOE1zNlXSAaMCQVVfeXFMUDNCb2ZkWWFYM1drZzF2UTNFbk9lYjJ0bmxoeW03d2s1OGdJbGxlUDM1azhRRjY2VVU2bU9Da09zVEM0M3BFU0ZleGk2Q0lPM2dYb056LWJVSS1LZnRldU5sU3V5Vkc5TXlRaHVDYl9Lbks5SGstNk1UR3hfdFk2X2pSMEdDY2N1LWxLR1pIR3ZnV0o1ZnVsbzFyclZmdzIxUlNjaXRqVktQLXFuNm1Yal9fTExNM3o5aG1MY0FtWUtSQmlTSTE4VDc4RUc4UEdJTkttZnBQU2h2dUdrdjFiNTRFTDJHX3pzSC1lNDhHc3dhNnYtRlFOMWJ1dW5xaHZZSldOa3hxLVlPU2tkcEZqUzJxQTVRVlJTcGkyNU1GSDhNczZV?oc=5",
@@ -618,6 +722,14 @@
    "lang": "en"
   },
   {
+   "title": "Petrol Price in India | Check Latest Petrol Rates in India Today",
+   "source": "Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaXdUbGdvVVBKNjgyUUxweXN1RDNhUlBOelhDcHJHdGJXTTlVTk0tMFFpWUJXczhaNjlLOF9hX2JQT2xCVzdzczlNWFNKekVINExaNk93aS0yMFEyNm9fRDRtWDk1MEhoNFFpak9yYw?oc=5",
+   "time": "2026-11-10T13:49:15+00:00",
+   "cat": "শহর",
+   "lang": "en"
+  },
+  {
    "title": "Weather Update: বাংলাদেশে ঘূর্ণাবর্ত, বঙ্গোপসাগরে নিম্নচাপের প্রবল আশঙ্কা, ভাইফোঁটায়",
    "source": "ABP Ananda",
    "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTUZ4SkpoQ195Vl9lT1VZUnItd2pYS29WZUpxbXlnVjF0YVhaVGN3Yi1YVVh5MVpMLVlYSzF5QkVGeE00RkJjYllYTlEwcFAxeV9QaDlUWUxnU2pxNGh3eGxGREFkOUVwbUczYnE3WUcyVjNKZ1ZNcGs4VU00ZTUyN1l5dzI1LXlNUEpGblFOLTZSX0p2ckRueXJ1cndWdzRmbVhyLXBSNzBDdzlBYTl6cDNvczMxcUZsb3IzNTFpQUdTVTJUREVOYVRXU0pseWlTSVA2eFF6aTE0NlY4TXk2UEc4TU82LWlQOHRYSTVrNndVVXlHWXpySC1xbklINnRaZWJqUU1lUXN4RjEzSGt1WnpMdEVVa3ZscnNnYi1hNDNvUTM5UXB3cV9KWXE0a2pxcjFHRk1FeDRra3RxQVctTGpHdVZFVURnV0lXbnJsN0hzeTMxY3NfZzJ2RHdkWWZBQTM5N0dxb9IB7AJBVV95cUxOdWF5NDJZWHF2OWZ1N3JQbHMwbWVKQy1iQVVVX2J6S09SSVdQaG1kaXdRN3ptZ2ZYN1JtSWI5MU82X05OZUlxQ1FaLUxiNGVuRXJCeXRoRUVaR0hrVE5ZYk14bjVFbUwzc0tydzk0UDR0cWhVNmxsN1ZYYjJtci1rRzJEZkpVNmFlbTlEbzhNaGRiSVdNeklSbmVVaEF3LXpuMlpZbVo2M0FmbE1fU1NyeWUwWHlvR1o5OWxLdzJyMExBRThUZXZmS0w1SWZpNUNBbG5lMC1kdjNKRERwTENnRkhJLS00NU9EUFl5WDdZcjQ5WVlZVkVGWlNFaFRlQmdESFJGOGpWUGMtSndic1JBOWxkODJ6YVZlZDA3al9lWVVRc1EwSk1rNVRISl9VbTA3RUl6US1feUM1S3dGVENRNktGOFBhS1c2WHRXS09aRHpENUxyM3I3VVBhY2FnMlNVYnRVWWdEcU9Ib29w?oc=5",
@@ -634,10 +746,10 @@
    "lang": "en"
   },
   {
-   "title": "Calcutta HC declines urgent hearing on plea by Abhishek Banerjee aide's wife alleging custodial torture",
-   "source": "The Hawk",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMHY0akt3dmExbmN3aHNaQ1hzRkp3MFc5dEFESnJDbGlPelJQNWh2RUVIX3dYcHJjQnU4d2ZKTzZBQTRjcmpzb1ZQeUF0VUp0QnM1RUVXYk1nZ3Y1TDlncl81aU1YVGlzb0FhSmI2M3NuMmFDVWEzUXV1U09mMDc5LWpWNzAySGg4dDIydHlyWXhGdUdfM3ZXWFJYWl8xMTZYTVRmWWNSeXlpVmlobXFwRDJEYzRQU0hteVNlTmpVSVI4T2JyV01JOHQwYm1zYWpKbExjam9hRHZMQmNDMUNqRGN1LVFfeUNYVDlDb0F3?oc=5",
-   "time": "2026-11-10T13:17:33+00:00",
+   "title": "Rainfall Brings Wet Weather To The City",
+   "source": "Prokerala",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd084Y3JKV0RTNGx1SlZFWTVhcGlHeUN1X2pDdHd2QXl0c2dHblNDVnRQbzd1emFwRVBfbXJKbXh3d0FSRTZpZ0xudDJCTkQ2X1c1NnR3NlIwN1BBOHl4QzR4ei1OdjRuaEpJa0doVk04R09YZDY5akJ5aFpDQVVMUU1oTXhxaFV5Vmh6akE0OThhMENJ?oc=5",
+   "time": "2026-11-10T13:00:01+00:00",
    "cat": "আবহাওয়া",
    "lang": "en"
   },
@@ -687,6 +799,14 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOEMzVlE4UGV4NWtXWG9ha3YtV0RpZFBjdEZUakdtVG1ta2g5Y2J0QUJyNUN1ZUQ3c3Bud1VOOVVJd3pURTZLcl90RUJWYVZRd3pGajE3eFBmTHl6c20wOEdhZzMtS1d1czRfV25La3dlZjhEMTRmTS1BRlkwTEZjWElMM0NRamtwMmJlRW0zaTVIeF9yZ2N0S0FucUtlTGVuY24tTlJTRExYRjRlU0ZLbEZ3bUpEVFNfVTY4bC1YdXA2MnFrV2dLWU5rRFFVNDdlSGdvd2JVbE1uWEpqeDBDZ2ZyZkY2dGlCZDg4NWtzcjZLd9IB9wFBVV95cUxQVzl6d3RUc2pidV82V1VwOVVuaGVZQkFHb3NPOWdCaTRJZjIwb2FrNHZ5QmxfcVlid1VYRS1zQzE0TmxyaHN0dW8wbnpJUlQyMk5ta0pZS0szdktJV1dVVTBKZEpNaHNRQ01aMENqVEItcDM0a3pBVmhXTnRpSUpfSXhFUmdEdllTcmJROFR2d19QWmg0WTFSZDJsRHJzZmtyRWl5OFYyOGhVVG43R0Z3OXpOUmJ4TXRnMlgwMDYyd1pkWU9YbDNaeHh4NEQwajFnSjBXU2tkaXZHVldxZHV1SkJFUmJBYlpCZV9RZnVKckk4VWlXcEZJ?oc=5",
    "time": "2026-11-10T12:19:00+00:00",
    "cat": "শহর",
+   "lang": "en"
+  },
+  {
+   "title": "'Operation Suryodaya': CM Suvendu Adhikari vows to reopen Nandigram files, promises fresh FIRs against fo",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOOWIxbm92ckcxaGlGZWIwbWh6elNFc3FtaGJzV3NwNVNUc1JsME5ac0dtYXhDN2FDSUU5YXptSUVoLXZzYlpOWUgxSE9udE5ZR0Q3R2l5MkJMWkZoQy0zNkc5WFNsMkZoNVlOV0NlTmRNR2dHLUJ2eFFWVEJ5bTZIUXZVRUJQVlJGd3lmZzVGc3NrODM1VW1SMGdsWW8zMkZlaE9WdDlpaWNGX3NKTV9Zell5T0pwanZaajBOZGo4YjVLSkRtX3hsRHJrTEpNUTQ0VHp6REhGbjRSTm9IcndrM2d0Tnp2alQxRjB5QTFyRFdUQUp4YTY4WmpTcUViME14TzRFczlzRzhzVG5fZG44dHpEY0JBaDljSHJmN2xn0gGjAkFVX3lxTE5oUFUwdnFabTVhLUNlRlZvUV9GbmJSVFo5MjRrbG9fLUlCQUxkRE9JYlJCMnpiVGJOejV3YXdMY2lOQkUwdlBMUWtKY1JDek9iblRXbkJ1WG5YU0JobzRHcUdTNUJzaTZmbUt1S1JxVFRzdTNKZ3ZMOVVLSDBVdi00YjZQSHA4VkRmRzJaTzd5X2RIUjY4UTBuX2RvbXkyeU5tWm10a3BaQkRpNm1yOGdxdl9OZ0pib0EteTZCRXdJZkpBcUFMQzFiMzBuNTZ5ZUhTZ3FkNzMyMUlZWkYwZkdOdFFwUHIyM1JWUms3WnFpMTRydExyaEl3clpDd1ppTFYtVnRHQU5tcVJmQ1NVbnBZR2lkQkozSWF0MU1pdW1YU0Rjdw?oc=5",
+   "time": "2026-11-10T12:08:00+00:00",
+   "cat": "সংস্কৃতি",
    "lang": "en"
   },
   {
@@ -744,14 +864,6 @@
    "time": "2026-11-10T11:24:20+00:00",
    "cat": "সংস্কৃতি",
    "lang": "bn"
-  },
-  {
-   "title": "Video | Rajasthan News | Jaipur BMW Crash: Car Flips Four Times in High-Speed Collision",
-   "source": "NDTV",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNjB3Rm5GQ2ZMaXBIaVhlbDhfeTF4N3lkWHNlLUU3YnZJUUZOeEUzVlNINTQyWDZ4UlpDNlRpR1dfSjd2Y3JMNzh5T0RNV21NcmVBWTc3bVlYUnJjVl9aOWdxOWhKeTBnZXhFdGV6eFpmdUpETTZFN0hGeXJRamhOazBiUFd1XzBCajFEUXlRRkxlSHhWa25FYWgzaGlJbWFyT3Fic0tmaWM3STlyTTZ2Xw?oc=5",
-   "time": "2026-11-10T10:56:29+00:00",
-   "cat": "সংস্কৃতি",
-   "lang": "en"
   },
   {
    "title": "ফাটা পাইপ সারাতে আরও ৪৮ ঘণ্টা! উত্তর কলকাতার একাংশে জলসঙ্কট, ট্যাঙ্কার পাঠাতে টাকা চাইছে পুরসভা, দাবি স্থানীয়দের",
@@ -816,14 +928,6 @@
    "time": "2026-11-10T09:38:05+00:00",
    "cat": "আবহাওয়া",
    "lang": "bn"
-  },
-  {
-   "title": "How to shake off post-festive blues",
-   "source": "Livemint",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWwxZnNBbTJTT0p4V1NFVHlRVzk5V2xETjQ3OTZfUEJWLTZudU4zT21pRlhmaURYdDFmUjJiWHh3R3NTQXBzY0VYbkxyamM4X0tjUUdPd05OYTBXX3VINXpMYzBveGlOWWhHUnY1Q2NQMlZmU0tUc2I0aGFsWnFTYWtSaUFpNUxDbUxfWkNyMThialo1cnZfaWJNZDNIdFNDMFJPRHpIbnYzQdIBrwFBVV95cUxNa2VTMDVGdkdYdVVPb19EVVExVGZwLXpISWR6NktkRlpTQUVLNThqbVhCU0JTRDV6dWE4ZGRfTnhvVE1zWGUtVHB3LTZEaUN6UDR2MWx4OVpZQmlpYWtSdWtsQXh2NFEzU3FCUHNKdmMyMDAyaHo3czJpUXRpT1pGdk1rbHRXNDBfOFY5cHhYcWdfOU9POXpnRVJYWktOQ0tpcGJPcVV4SnozX0xPTENj?oc=5",
-   "time": "2026-11-10T09:30:15+00:00",
-   "cat": "সংস্কৃতি",
-   "lang": "en"
   },
   {
    "title": "RG Kar financial scam: Sandip Ghosh finally turns up at ED office",
@@ -1010,14 +1114,6 @@
    "lang": "bn"
   },
   {
-   "title": "Bhai Dooj 2026 Puja Timing City-Wise: Check Tilak Muhurat in Delhi, Mumbai, Kolkata, Bengaluru and Other C",
-   "source": "The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOLXFObEVMa0lPTXpIRUJhbTdhYVFFcG5wZU92c0U3aUFWc0RhTG1qV0FzeGNRbnRuMDFySzFJbE5lbUZzVy04MzA4TF9pSjRWZXpnN0hoaDlET2VuaTdxMVFkR2lUVUV4a1Q4djBVRXZ6eDFoQWhwVWtKa0FvTXFzWVdQT0FKNEEwUVhCVlFiOTZaNWgzbVJCWW53NUNZaFR1TXR2a1ZINlpVdVdSMFJFQk1tSzhxNkJRQ0dVeGk1czFEQ3B5eVVYUlI3Mm1yM2Z5VEFjR1BRalFjNDRISF82QUVKVGZkT1E5ejRlenREcjhyZ2tkSmg5N1RBYkJrOVpWMDNFVHVMVkFHQdIBjwJBVV95cUxPTUM2cmdYVkt3d0ppYnFsTFRmYmZuNUQ4T01lQ1RRNnlGZF9vSms2U1VkRXlhekFkVnUwYXhWcFJ3a1ROZVd2aWZGZWRWa3RTWi1ndFBEUFV1ek4tZkt2dVhyUElOTGI5RGlzc0N1V2JsVTNLUTJxV3NJN3FZNG50UmR3YVlHNGFldC0yUXg4NGJ0WFY5ejNaeDdoMkxfclhqTlFhdHZOYUhsclN3QS1udDFjZWJUb1FzTWo5NjlDZkhINDl2NXhJV2FmSWhDV1NtRG9rbU9IaWZTcXV5UnZsWU9QSmRneFVPc2UtaUs3RU96NFI1ZmJ2NktLNzBESXRYRjZTZmV0Q21OY3hsQ0tJ?oc=5",
-   "time": "2026-11-10T05:59:54+00:00",
-   "cat": "ব্যবসা",
-   "lang": "en"
-  },
-  {
    "title": "আজ বিকেল থেকেই শহরে বৃষ্টি, ভাইফোঁটায় দক্ষিণবঙ্গের পাঁচ জেলায় ভারী বর্ষণ, শীত নিয়েও বড় আপডেট দিল হাওয়া অফিস",
    "source": "Aajkaal",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZGNHVFktOVRKWHRROHNwTE5XNG9CLXN6ZGtueFRjZHJBaHU3SnM1aUFwelZ6UmxaOTJWQndTcF8ydGJsM20ySW9GWWpDRy1BWEE1SlM2QUJsRXFfYjVDemE3RGJZbWNYNEQ2c3lWR2s1aUFQeFY2NDVQenpjZU5sa2hTU1FwbzJPenR6dVB3dHhqRjNJYWtjWGExcUdNbTZzNV9YU0JRaFdMcFh4UFhFTGxqUXg5ZmczbUhQQVdGRWQ0VU5UQnIwQUczWHlVOHczMTFsaTlxSXdhUQ?oc=5",
@@ -1106,14 +1202,6 @@
    "lang": "bn"
   },
   {
-   "title": "দক্ষিণবঙ্গে ফের বৃষ্টির পূর্বাভাস, ১২ তারিখ থেকে বদলাবে আবহাওয়া",
-   "source": "हिन्दुस्थान समाचार",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlFiUmYzazdfSG83dzdLMGtCTmlEM1IyWExiV0ZVbkxoMVBRMFM2Z18zd1NLS1RDelB4c0Z3RjluNnMzTXVlZ2llYXRVQU1uTXpCMFh5d1pLOE9BaGNISVNNREIwR3Z0dXFHRmpwNjRzbUZHVERJRjVCV1hXVlV3Ty1uRDJTbW9kZHc?oc=5",
-   "time": "2026-11-10T03:32:53+00:00",
-   "cat": "আবহাওয়া",
-   "lang": "bn"
-  },
-  {
    "title": "পাইপ ফেটে টালায় জল-যন্ত্রণা অব্যাহত, কবে স্বাভাবিক হবে জল সরবরাহ?",
    "source": "Sangbad Pratidin",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc29TSkVWOXU5ZklqVDFIajJCWG5Wc1FTM0lDRDdMaTBGMUVtUmdLMkpyMHc2M3BxcUMzN1YwcGJqVmRyY1Zmd08wR1UyNW1YWDUyeFBLeE1qdUJJOEN3NkNrR1BGbU03d2F3SmFvXzNTMnc3MHdXZkhWaVJEQWMwYVBMTkI1c3ZnekZWbGpVV1c4cXhzZVdPN09xZ1lnQzJFbk1ERzJaNVhMUHJIeDJ3MGYzb9IBswFBVV95cUxNc29TSkVWOXU5ZklqVDFIajJCWG5Wc1FTM0lDRDdMaTBGMUVtUmdLMkpyMHc2M3BxcUMzN1YwcGJqVmRyY1Zmd08wR1UyNW1YWDUyeFBLeE1qdUJJOEN3NkNrR1BGbU03d2F3SmFvXzNTMnc3MHdXZkhWaVJEQWMwYVBMTkI1c3ZnekZWbGpVV1c4cXhzZVdPN09xZ1lnQzJFbk1ERzJaNVhMUHJIeDJ3MGYzbw?oc=5",
@@ -1140,7 +1228,7 @@
   {
    "title": "Petrol, Diesel Prices Today, November 10: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai",
    "source": "News18",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMnJZS091eHVTZWpOZ3NlcDFxTzY5T0lHSktYaTFjb09QZ1I2bEdTbi1odGtZb1ZPTDUyNHRNeVU5YzFHYWFlc2duQ21ObXV5YlhrQ0UydkpCOFdobndTbkxHdWtodFZWNlREUEwyUjlRdVczMndpZThGUjRDdGdSQmF2WmVvaHZYNHdjSGlLN0U0b2g1MTZzSXhsZ1hNTlVYQXlDMlZXZUlSX2dpNlhTNnRuWmMxOHJHSEg3TFRsUzhONjRBVlpPOEVIUEVFb2NpakM0QkpsZ1pnekktXzUwcVFpcUnSAeQBQVVfeXFMTTJyWUtPdXh1U2VqTmdzZXAxcU82OU9JR0pLWGkxY29PUGdSNmxHU24taHRrWW9WT0w1MjR0TXlVOWMxR2FhZXNnbkNtTm11eWJYa0NFMnZKQjhXaG53U25MR3VraHRWVjZURFBMMlI5UXVXMzJ3aWU4RlI0Q3RnUkJhdlplb2h2WDR3Y0hpSzdFNG9oNTE2c0l4bGdYTU5VWEF5QzJWV2VJUl9naTZYUzZ0blpjMThyR0hIN0xUbFM4TjY0QVZaTzhFSFBFRW9jaWpDNEJKbGdaZ3pJLV81MHFRaXFJ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRFJsT1o2X2xUblNfQm1aX3FGdV94RnRrdFdwcHVqTzNjVGtCQVB1ci1yR2FRZ2JtX2J5WnFJNFhiLW1VY0VTdGJ1M3dXc3BCOFkyWU44NTVPN2lGX3pRR0Rwbl9MU005dHVUTE5Rd3VHUVBfdmJXNzc0ajR4TklTbjgtaFV4NGppMzk2enhUZUIxNnZLZ21jOVlmME9ZRkNSdUY2WnQwRWpEWU9yY29BQmlERFAzcm55UFEyQWgtamFmVk5wTm4zOXhtZkdBVnJPRDBBdzBuUWI4em5HMnhz0gHkAUFVX3lxTE0ycllLT3V4dVNlak5nc2VwMXFPNjlPSUdKS1hpMWNvT1BnUjZsR1NuLWh0a1lvVk9MNTI0dE15VTljMUdhYWVzZ25DbU5tdXliWGtDRTJ2SkI4V2hud1NuTEd1a2h0VlY2VERQTDJSOVF1VzMyd2llOEZSNEN0Z1JCYXZaZW9odlg0d2NIaUs3RTRvaDUxNnNJeGxnWE1OVVhBeUMyVldlSVJfZ2k2WFM2dG5aYzE4ckdISDdMVGxTOE42NEFWWk84RUhQRUVvY2lqQzRCSmxnWmd6SS1fNTBxUWlxSQ?oc=5",
    "time": "2026-11-10T02:31:21+00:00",
    "cat": "ব্যবসা",
    "lang": "en"
@@ -1152,6 +1240,14 @@
    "time": "2026-11-10T02:19:35+00:00",
    "cat": "শহর",
    "lang": "bn"
+  },
+  {
+   "title": "A canvas of inclusion at Salt Lake Puja as children with autism paint their hearts out on a wall",
+   "source": "Telegraph India",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQU1DbDBsdkRxVDdQQjZsdjF1QjVMdnkwNVM2Tkpoa2NCdmJwOVMyR1h1amd0SXBrXzZKR1J2WXhHX1pvdmktVDE1akpNaHpfemQ3ZU5qek1FaFQ5WVktVjVwM0Y1bjJkdTUyMmJZSDhNQkxZYWRUdDN5dFFxWXdPSU9mZmVLRnBZZDJ0OW5BdzMzYlN3ZmhhMldwaU84bFFMdzduZUZtaGNSVnYtZEs4dkxIRGt1SGctZXNLMTNfQ2tCbjlSVnVkTlI3S1NTMEZKY1FhM2NPMUNrZWw1ZlkzZXBYeFVSYlN3VFE0U2hFSm5XV1XSAfgBQVVfeXFMTzh6b3R0R251SkVjU0lPdmF4ZXBmWk5aQWJuNm1aQU9kUzUyV3lCTGxLOWl4WVZ3cVVxTTdhdVAzUUF4b2NWWWhjZUZQOWJ4ckEyalZvUzh5NUFrSmRscHdnTnBWLVRZdmIzZUpjbnI5WWVpNFZaTjc1U0ZaSVFlT1ZmRHMzNm5DTXJVYWxjR29KMkhFOFNFQWdYbVpCeWZ2MmNwOXNXcEpjM19vOWRnM0trbHBFSENsSDZzTzNyVmxmaWN3cGZ2OXVERGEyeTQ2Tk1IdGRubDdBYUp5YjhqSUVFVFRxbDFsSHVfVWROWDVhcmFIc3RCVDM?oc=5",
+   "time": "2026-11-10T02:10:00+00:00",
+   "cat": "সংস্কৃতি",
+   "lang": "en"
   },
   {
    "title": "IND vs NZ 3rd ODI Weather Update: আজও বৃষ্টির চোখরাঙানি, ভেস্তে যেতে পারে ভারত-নিউজিল্যান্ড তৃতীয় ওয়ানডে?",
@@ -1167,14 +1263,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQQnp6QUhscFRMTXZOMHRMeHlZODJnNHVWNTc0RVlwWnY5aGJyVXZBaThvSU42TnA4SVUxZHNVUTZ4VW0xZmwtWkwzZVh5VGlVcjBka2JRTzlMUUMta3RBeEJtQ1RBS2J2aVlNUHNDRlB5d0xvNXhlMHFNZkthMkpQT041cXFHYWs4NFVMUGZZNFg2blJKLTJxSkFwaEhfUHFfUnVldkZtZ3RnQnN3TFZmTk9VM1FodnEzaTYtS001RzJjY3ZLalRoUlBtOFFEejdMczE1aVlqNkYybW96bFd4ZF9jNnFVUEJVSUxUa29mMW9yTEVXejhMekV3a0pLNlJBbnhueHRPVkU2N05uUHN6eFIwSGFuSFpWUnVDUC1DVFZoLWU0LUVhZU1IaVlFVXRsdVBfdmFVNzB4dzFfQnJrWXJfNUg3NlFHSVFBZ0dFZGVORWxPN1poUlN3dXTSAeICQVVfeXFMT0xRYVpPY09hMDV0VUpLWUttVG5saFJkZWpkYkVpUW45QTN1WE02YW1WOTdNT3hob1plYVhtWllTck83WUJIclhaa25YZlZ4VndTWVpTRTRJY29JbWVBZDB5c3FFU3czTkJJaHRmdHhjMXNIdWc4YnBseEFscEI4N1ZvRUR0eGZGSkl2QjY4Nm40VnBCdVhvdC1qRlUyRkVoZHdNUnBkc3VPVVVsQUV1bWU5UUs5RzBtZWJtOUNfUjdwaFhCQ2Mtazc2VWVfYnVHOXpaR29SNi1mU0w0MVQzR0xVQUdvT0lwMUV0ZzFCRldHRnd4cFFqNzQ4ZHZDbDJFR2prbUg5VGg0eUZnbHZiR1MyM05pQlRTTGVIdTNRMGpaVDNzRF9XaWVHZVpsWjVKUkNEUkZuU25zN01mMmdsWGtzcjRNWFVacVRycUc4U2g0eURWRWtrTTlYTGgyZzdtYldR?oc=5",
    "time": "2026-11-10T01:29:00+00:00",
    "cat": "সংস্কৃতি",
-   "lang": "en"
-  },
-  {
-   "title": "SMP KOLKATA STEPS UP PORT-LED URBAN TRANSFORMATION",
-   "source": "The Newsman of India",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdkVrcEo3X3hYYVpWSXJtMXU2ZUhfalc4VzVmRkk5eEdrSzAzX2otZld0YU8tTUxhY1FFS2w5RTg2TGYydDk1U3psdEEwOC1lTjF4b1p2TGdYSlJWQnFsSC03WTMzZHhmdkwzWnl1NUlISjVyNU5MZnE1QTF6YWh2T3dPNW5ZQ3ll?oc=5",
-   "time": "2026-11-10T01:26:48+00:00",
-   "cat": "ব্যবসা",
    "lang": "en"
   },
   {
@@ -1314,6 +1402,14 @@
    "lang": "bn"
   },
   {
+   "title": "Anandabazar Patrika. . শব্দবাজির দৌরাত্ম্য থেকে আদৌ মুক্তি পাবে কলকাতা? #kolkata #firecrackerban #noisepollution #diwalipollution #WestBengalPolitics #suvenduadhikari #agnimitrapaul",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPLXpUVGsyb0c0dG9Od3JtOTNlamRIb0ZjSWxURjFTalZpSkdrUk1JbkhIUE8zZHQ4V29rWC05Nlpnam43ME9TNkpua0Ewa1oyRGpGZTRNd0dOSlhtRWh3ckJHV2ZPcDg5REhac3NDU0VfTFFlUFlXNnNLaHhaYzZnUmIxNjNob3k0WFBtcFduZTJic1dmNVg3cUEwanFrSjBzVFJYb3M2Ny1TMEF2ZWhrM3VjamhJMktzSVg0QmNrbkZ0QW9JZGg5WGw5WGQwSVp4ZzhRdjdKMmotQWdmWjR5Y1QybkZqVzVRa1llR21zdUVsOFV4NUhidlBnenJ4Z3RTZDllOWxUSkdqcGl3aU9ZX1JZZ0JxOHQ3eE1vZDZlSV9rT1otWkVvZ2xHZ0E5azYxa1ZidVlxdWR6Tk1pdUNtbDdDSEphdkZqdXNvVDJ3WVJQV3RKVFp4Ri1GRFk3UVFsNUhSQkZRajM0YVZZSm53NVFTYm5KTkRyTHdlUm5Oa1Zyd2FaZTF1Vm1tTDExZ2dEU1hxTWk2R1l4QU0yaHFTbFhZYWJaVlRwdmo2a1NxS3VlMk9JZlBfZTZqeDlBSTQyempKd1lISjFSTFJITnZQcmNTc3hueVNMNW5JTGVlTGZQYVh6ZE5GMVdONXdnOU1jd2N3R2t1Z0R3d3FiR29BT2ZKMEpfdnF6d3RBMlFURWE1VWRBalJPQktoQVhNLVI0M3BjUThLdGluU0s2Q0V5QWZZeW55ejd2dzk5eS1kWVJUcG5icFdXN0ExZEVpZlhLcWZaajZLbm42TUFiTk94M3V0aEk1eEd3OWhNbllHd1Z0MFVhQUNWUi0ybFl1aEhoOVhNOEN1TVVsWE9JUFd5ZjZ0Qmw1Snc?oc=5",
+   "time": "2026-11-09T17:12:39+00:00",
+   "cat": "ব্যবসা",
+   "lang": "bn"
+  },
+  {
    "title": "ব্রিটিশ আমলের ৭২ ইঞ্চি পাইপ ফেটে বিপর্যস্ত উত্তর কলকাতা, জলমগ্ন একাধিক এলাকা, রাতেও চলছে মেরামত",
    "source": "Aajkaal",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUNGOG9oLUdZeENPSTJ5YzZ5NUw3U1owc0JuLWpCZDBpOV9kQkJsMEJYZFdWMHNaeUNlWGExTlJVWW5RMVNISFBrY1ZWaUNuZkt2ZXJ1R093VFZPVy1QOTlPVl9UTjFMUDBlMGZKbEt5VXk0T1loSENlQ2s4VWNDT2I5N205emtTei1ydTR5eHNNeDM0YWxSWDZXRHAyVU9oVXFwYzZKTkUtUGRBMTlQRVB3VDg?oc=5",
@@ -1334,6 +1430,14 @@
    "source": "The Hawk",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZk5qT0VjSXdUYmltRFdnMGFtRXpXTi0yLVc1ZXNYeGgzeVQ2Q0JWaWU4bjczZ0dHbEt3bE1pRllvaHBpMnBUZWE0Y3dHNnVKd3JIdnJHX19PTnVhVDlLdTdXNG9Id001QnpuTmRiRnp0Y051Q3VJbW1DTWV0T19kR1lOX3ZTaVFlaXdsTk0tV1BnTlZBNjVrc1pLVzFyMlctc29IQTBWVjZEaW1UMk01a3RzV0thUmgyVWVn?oc=5",
    "time": "2026-11-09T16:19:35+00:00",
+   "cat": "আবহাওয়া",
+   "lang": "en"
+  },
+  {
+   "title": "Kerala CPI-M's Kannur lobby suffers setback as K.K. Jayachandran gets key CITU post",
+   "source": "The Hawk",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTE1MV19vSVlGMnNaVk9Ra0Q1LXJIRVVLdDlrak5hMlVqUVQ2YU11UE5ENnNqYUxFOFJad1ZzbktjNnl2TXRkaGd4N205d2xqWVRmVE1XSnVLZ1hhQWxSaE40eXFXWi1NUGZ2OEpVSXVORnpzclFkd2p2ck05TUNXbl9NcklDLU5KSmcwZzJwMVVjc2VwTkJPZHNseUVtV2d0TnZpd2hUWGRBRUZhYmVOOHhwUHU4YlJDb2I0eHJzRVhQTXlOajM0Mlpn?oc=5",
+   "time": "2026-11-09T16:09:34+00:00",
    "cat": "আবহাওয়া",
    "lang": "en"
   },
@@ -1514,14 +1618,6 @@
    "lang": "bn"
   },
   {
-   "title": "Kolkata air pollution: Suvendu defends firecrackers, blames ‘communists’, invokes ‘Sanatan awakening’",
-   "source": "Telegraph India",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOS09Cb1Z3MVg0YURMTFcyWDhiQzhBUGV4Tm1tNzdtcWV6em1pbV84WURfMTNFM0dYd2FYLTlWbGtGSXBKN2E4S1RlZ2sxck9CRmczU1EybEpCcnRGQ0lXdzdaZGQtY01ra1dULW1xWldkejRJYWc1LXhjSkR4cXJoYWstelh1b2FUZGNuV3FJOGlrb0RxamM0YzNfYjhkZnVTeW9Uam9BQkNNTjF0cnhzbEdHSHM5UWxqWFY1YWR5akRzeG1vZThTYkJoTG5CNVhQcVUzRXBRcnFiQU5hZW5Jalo0ZUNBam5vQ3JxbV9vajI5T3JpS18zUHRn0gH_AUFVX3lxTE1IUU9GLWh5OGNvcnFGR0NVenVaVU50ckY1RlJLUnBweG9RdUtzdVkxSnltMF8wTmVwczhJZFRwRjV1WHpzQTNaS3dqZlBPZ0czZDFFaG9tcFlfNzhQc2Z3SVMyS2trVnc3Wjk1a1FDUW5pN05wQlRWT2xCQjZBa0JZS0x5bFdwNENxRzFkNWNSVW5KMjRlZUNTd2xUR0ZRVkxfQjB0c2hzbGd1X21EOEpPd3dvNXJ0a09oVXJtZUFIWTV2WmQ0T0FScGNoUG9ZbndTME9aMjJVc2hpdWVDdVJpdXk0S25vc2hIbUpGdDU1M1dSZHhaUnliTnREaE9Ldw?oc=5",
-   "time": "2026-11-09T11:25:17+00:00",
-   "cat": "সংস্কৃতি",
-   "lang": "en"
-  },
-  {
    "title": "আদালত অবমাননায় পিছু হটল এসএসসি! হাই কোর্টের নির্দেশে চাকরি ফিরল ৭৯ শিক্ষকের",
    "source": "Sangbad Pratidin",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2JFNk1PQWh5Uk4wRWVBYm03RmdpN3A1LW8yay1CdHV6QjgwZ0Z6QS1oSDJaNjgybVlWQm80UVBMX3FnY0hkRmh0c2tTUjg4SjVNWFJmNVRTTFlqRnpQZDZldjVsdENuNGQtb1lqWTRmRnhhMTJwTTlHdEItMlpPYV9WQnhYd0hsSVhBdzl2dVRROGlvZG5acFhvYXZlRFZOYjFXUm4yd0ZRQXloVlJXSjkxMEZUeDBHZ3g1VkZPNjh6cFRwX1BpY0E2VE5sX1NHRmFsVTA1RVYtd19Qa056U1VfQ3o0OGR6SnZpUF9UamxYZTDSAfMBQVVfeXFMTnNiRTZNT0FoeVJOMEVlQWJtN0ZnaTdwNS1vMmstQnR1ekI4MGdGekEtaEgyWjY4Mm1ZVkJvNFFQTF9xZ2NIZEZodHNrU1I4OEo1TVhSZjVUU0xZakZ6UGQ2ZXY1bHRDbjRkLW9Zalk0ZkZ4YTEycE05R3RCLTJaT2FfVkJ4WHdIbElYQXc5dnVUUThpb2RuWnBYb2F2ZURWTmIxV1JuMndGUUF5aFZSV0o5MTBGVHgwR2d4NVZGTzY4enBUcF9QaWNBNlRObF9TR0ZhbFUwNUVWLXdfUGtOelNVX0N6NDhkekp2aVBfVGpsWGUw?oc=5",
@@ -1632,14 +1728,6 @@
    "time": "2026-11-09T08:33:37+00:00",
    "cat": "ব্যবসা",
    "lang": "bn"
-  },
-  {
-   "title": "Gold, silver prices on November 9: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-   "source": "Business Today",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR0pJMEtIdThrZVV5aklaemtlcWR5T0hPc3ZnUFNoSTZQRHptWHFXellaa1VnQ0Z0YV9rUTQzTUhWRUlrdzQxcnJoTV9uc0YzT3hvaGxZVXpqSGRDMXE1c2gxdnJhZGtabmtMUG1xOXBCSm9wZXg3OWNYT2JqODVwdEhtMklVS3pHOWUyeW1nSnBaeXA5cGxoVXJqemxKM0g5MmlOZVh4YjE4b2c5bzFHdHhvODB4X2xXc0NPdUN1dWstZkZGVG90Y00yaGN4dk9ibG9ZRWpib0FZX3ZTVXNhV2xFNFY5cEZibUo1VDFlRdIB9AFBVV95cUxNbm4yMW52ck9oT0xaNVlSV05DZGVsa1ByM0g1aGxkeDg4dzdvVVFPNjl3MjE0V2xQUFlCLS0zVXRiNUlzTTFybEp2X1pSTkdkV2RnTnpFS2R4ekRVQy1JSnIxUVJjZUdaVEVFZU80eGNyZllVNVNUdTV1SzFIaXJ4dzNjY21hM1ViVUM5VXBveS1wb2NMSzYwX2VmdWtTZlQ1UWl6SE92elZyWTM1T0Y2VjZianJlTDN2LW9WbFZBWlF1NDRKa3hxd3pYZXYzalZKWVZPak5sUDRGeXk4YlBGdGp1LUdYVTgxWi1hTGRJNU93TWE3?oc=5",
-   "time": "2026-11-09T08:18:57+00:00",
-   "cat": "ব্যবসা",
-   "lang": "en"
   },
   {
    "title": "রঙিন আলো ও দীপমালায় সেজে উঠল অমৃতসরের স্বর্ণমন্দির",
@@ -1768,14 +1856,6 @@
    "time": "2026-11-09T04:30:58+00:00",
    "cat": "সংস্কৃতি",
    "lang": "bn"
-  },
-  {
-   "title": "Kolkata Weather LATEST Update: Rain To Return After Kali Puja? Check South Bengal Forecast",
-   "source": "Asianet Newsable",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdUVpZ1NuZERfWjFScHlPOWJLOWxZc1ZRV1I2RzdGaVNBYndwSUtvSTA0Sm80Y19icEJUNTlPN0pKM0dRdkRVZTluU05Ma0dzQTlSMTZLQkdUNHdna2hyMkIzMGUzMkJ5ZzNZRDZaZGVmcUp1TlBnT1pxUUh3aG9mYUVNREEyYWtfTm1nazFRSGpVSzVRazdWRGFDeWthX3EwQVBkMzN3Vlk3NTN2VTRMYmtGRGU4YjhRalJqeU1rTW9RYmpqcWhES1JmR21HTkxFS21PZHA4YW14a3p0Uzd4aFNicGxHd9IB5gFBVV95cUxPdUVpZ1NuZERfWjFScHlPOWJLOWxZc1ZRV1I2RzdGaVNBYndwSUtvSTA0Sm80Y19icEJUNTlPN0pKM0dRdkRVZTluU05Ma0dzQTlSMTZLQkdUNHdna2hyMkIzMGUzMkJ5ZzNZRDZaZGVmcUp1TlBnT1pxUUh3aG9mYUVNREEyYWtfTm1nazFRSGpVSzVRazdWRGFDeWthX3EwQVBkMzN3Vlk3NTN2VTRMYmtGRGU4YjhRalJqeU1rTW9RYmpqcWhES1JmR21HTkxFS21PZHA4YW14a3p0Uzd4aFNicGxHdw?oc=5",
-   "time": "2026-11-09T03:06:28+00:00",
-   "cat": "আবহাওয়া",
-   "lang": "en"
   }
  ]
 }
