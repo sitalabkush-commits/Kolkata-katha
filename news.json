@@ -1,14 +1,22 @@
 {
- "updated": "2026-11-12T20:22:06.094320+00:00",
+ "updated": "2026-11-12T21:18:28.975523+00:00",
  "env": {
   "temp": 23,
   "feels": 26,
   "hum": 86,
   "code": 0,
-  "aqi": 134
+  "aqi": 140
  },
  "brief": "",
  "items": [
+  {
+   "title": "ED attaches Rs 2.78 crore assets of former Kolkata cop in land-grab case",
+   "source": "India Today",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlM5VWNQOTExMEUwSGhPaWY2VmU3cFFDYzh6VVM1NTczVGNsbENJSUl2ZGJWdS1tSjlXM3EyMkRucC1xV1lXZHFQTDJxMHpTQTNmdzhHZHl1dzlDcGxiQTBIOTFXMDRNTEFWQ3NxajQzOV9UU1RDMG1Kcl9uUUlqU29rZldwRWhfMVRLRU5PRHU4akZjTHMwczlpYzRCejhscmZYemhVdUFmRVhYN09IeW1EU3RrRV9IRFo5TmZYeVFHRlA0U3hQaVZ1Sk_SAdIBQVVfeXFMTS1fRjFqLWpTU2lDREE2bDdEN0N5ZzJpMUQ2RUc0NkdsRUl5OWRxR2I4c2ZnOXd1cXdKUUp0VG42T1Z6STktUDRvVmwxaWhpSlQtNjFTS2tvUGtTZHNiS1UxWDlzdVlEWVJiOTZhSENxRkxlUzRsV1lrcW5rUktWNkVFbFFTR1M4V2pvd2V1QVlTdUx0M1FzZDUxTmZZZy01Rm8zakx1RkIwX1B6Nm1jcDM5S2JNM2JMNjRfU3MwUEVqUE10TVR6dDdKTzJ2aXllcWVB?oc=5",
+   "time": "2026-11-12T20:40:02+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
   {
    "title": "Tala pipeline burst: KMC restores water supply",
    "source": "MillenniumPost",
@@ -202,6 +210,14 @@
    "lang": "en"
   },
   {
+   "title": "কলকাতার বনেদি বাড়ির জগদ্ধাত্রী পুজোর ভোগের পদ এ বার আপনারও পাতে, রইল বানানোর সহজ পদ্ধতি",
+   "source": "Anandabazar Patrika",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdXNsX2NoNEgzYl9IS2V3WjV3bGk5ZFFKa1hHYVZuNWZWYW9GUDBnRl9WZG9pY083VnJNMHZwWHlUdkg5Yi1hWi1va0E1WHRoS3NTUVJ4N0JqbjNaRGJQTDFaRGhHX1NxLWhnZUt3UEJOZjM4aFNldFZMbFBReDdjVS1xaFZUT09qZW5RdFBfLURzSkpKY1BtQzZVMm02V1JhRk95bE5WMWZaWjJoVkJLeFNaSloxTkhtMktNVnJuSTQzSXVETktGclJyZENVd1U3M3gwVDZRWVdGMWRDdkExbEU1SGRUcFROSlItVUpWbGNBZ2t6bFJjVWRhV21uMDjSAYQCQVVfeXFMUHRQLTdTZTM4SVlTaEktbHVieWNDQVJpNzA0SHU0ckhhanpOUjRGd0RXaWx2Yld2YTh2RUV1aTUwWnlKMW5wN1RrTndkbnI1SVp0Zk9aSXRKQ3NNNmFxRUxmZlZCSWx0a0JrNXoyeFJlNzBUUk5HaHpfWHhERnZTTkRJak8yQlpJdEZyWnlNcGw3MHNrYk9vcURXR1VXZ2M4Y1BEV3VwSGNPUXB0ZWFSSktkNloxaU00cnl2bmxTMEZFeV9MMzVFTVBNTUxJUDlaWUlZQ0NZa2xrd1hxNXh1cXVVYUtjNWxSM1ZZTVFUZlhsQzIyRHF5Sng4V0pid1dmSWNBbHM?oc=5",
+   "time": "2026-11-12T17:04:49+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
    "title": "Anandapur murder accused re-arrested after molest plaint",
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZkE5NzdVbktxQzlhT0xJak5tb3hERVpRUTRvekxVNUgtbklmNnpMaFpTRTBHVUlvLVFEbHUxX0ZwSlF0YzdaVmZpRENWV0xwVHR2bmNkYnZWSDFudGlQRnZ5Y2xQcEQwUGUzS2ZqT1pLeDI1aWdiVmt6VDVqa0U1ZkFmSkpWUEZ3Z0x4czZhTUo4Z0xnUDB2M0dhdmFJQk9PZUpHY2FhUDlPeno3d3JJSDRfbWYybGRQSzR3Tk9uUFphMTJPV1VmMFlOQdIB0AFBVV95cUxOYW1jcnhnbXI0NW5EeXVoSTZ3anRCRnB4ejl5NGNzYkw1Y1B4OTN5OGREd0xwZ08tZ1BnYzV2RE5VYWtDLW1UNjFpTWZLRXVnb0xCclVOSXVwU21ydHNRdE5NNWRCZnB4bUJPSnZSZ19SRmoyWTlHcDBZVUlQWm55RWh3dTctOEl1R1VDbHJiOE9FVENyU09DcURRSDhNaHRPUmVIaFJkdjRoY25uLUlJNnJnQ05lWF9ua0FBM29QVXZLcWM4WXRaQ2g2enVVeUVm?oc=5",
@@ -226,19 +242,11 @@
    "lang": "en"
   },
   {
-   "title": "Prime suspect in yoga teacher’s murder arrested from Delhi hideout",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb01sYm1hUGRFUlRpYjdwanJFTmZjVVl4NklUTHJYYTVuMS13NGJtM3RtY2h5aW9rYWdKUmsyUHQ0ZlcyYkxOMDBzVzRhNWRZa3NIUjY3ZHlzSFR0R1UxalQyazMxZ25ST0NPYVhIMndVQmstRzNrNGJLSW9VSHVmelZ2Z1MzVkRLLWoyQ3dRTlZ0c01oZzNLWVJiekFJZXIyZ25wS2RIaFR5RVVwYlNhM3BSOEhjbUltLTN6ZEUxaFV1ams5UFJQc1diMzd0VVJwLTI5M0dmONIB3AFBVV95cUxPam9HbUV3YWFteXc1THNXZ2sycDNLd1lkbTFqcnZETTdKbG52amNMOEJZZG1HOVIyNTN5eDh3SldIS09XR00xaHJiWi11d2gzOEZGaHRlNk1RMDRBYnV0VlJCRmVldktUWTBKWkV4Um1GU2J1NEJjNzZBRTJBeW8xTEQtbjA5SlBmN0R6OW5uN0xfOE45cXlKTno3QXdHY0FqQi1MMGFWRFliSlB3V3JwVmNWbkVFZG9yMlRkWHRFcUpBQVducFRjak5Da1VwZXFtS2dHVFVIVG8wanU0?oc=5",
-   "time": "2026-11-12T17:01:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
    "title": "আস্ত দিঘি চুরি, বহরমপুরে বোজানো হয় বিরাট জলাশয়! হাই কোর্টের নির্দেশে পুনরুদ্ধার পুরসভার",
    "source": "Sangbad Pratidin",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVlpwdU15U2pRc1Q2V2pSWjkyaG9iLXdaNnB2VWlwVnNVVDhOb0tMckN6d1JhV1J0Y29fMWdJNGdNS052aGJiTndpT1pQclZ5dGc4NzRzSWFJZmdqMUhqWFFrZ0JYbk9JWHZILWNNTlRGZWF3NDRFUUM2Q3N5Y1ZmRy1EMC0wZXQyZDVYdHJ4Y0d3QmVaek9JMmVJUWpjalppNFlteFRJVHNiSzY0eVpMZlFfcW9wYURWX3BNVHlsOGhOdEpSVkJ6UlJKRkJWVm5X0gHQAUFVX3lxTFBWWnB1TXlTalFzVDZXalJaOTJob2Itd1o2cHZVaXBWc1VUOE5vS0xyQ3p3UmFXUnRjb18xZ0k0Z01LTnZoYmJOd2lPWlByVnl0Zzg3NHNJYUlmZ2oxSGpYUWtnQlhuT0lYdkgtY01OVEZlYXc0NEVRQzZDc3ljVmZHLUQwLTBldDJkNVh0cnhjR3dCZVp6T0kyZUlRamNqWmk0WW14VElUc2JLNjR5WkxmUV9xb3BhRFZfcE1UeWw4aE50SlJWQnpSUkpGQlZWblc?oc=5",
    "time": "2026-11-12T16:39:03+00:00",
-   "cat": "শহর",
+   "cat": "সংস্কৃতি",
    "lang": "bn"
   },
   {
@@ -322,19 +330,11 @@
    "lang": "bn"
   },
   {
-   "title": "বিকল্প লাইনে কিছুটা স্বস্তি শহরে! টালা-বিভ্রাট কাটিয়ে ফের শুরু জল সরবরাহ, তবে বেগ কমই",
-   "source": "BiswaBangla Sangbad",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoM0c1V3JzOUpTZXFFMy1rdTNqWlVtUXZaUW00Qjc5TlptTE9tMDVHTHo4Nk5yZnJsLVIybGVmRHhpUlc1OGlZZkZKdjRQc2NWU1VnT2Y2WjZERWhScTFROW5QcnM1alNaVEhLWTJmVHFabFV2ZnBV?oc=5",
-   "time": "2026-11-12T13:39:54+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
    "title": "‘সোনা পাপ্পু’ কাণ্ডে প্রাক্তন ডিসিপি শান্তনু সিংহের ২.৭৮ কোটির সম্পত্তি বাজেয়াপ্ত! ইডির তালিকায় শহরের ৩ ফ্ল্যাট, কান্দির জমি",
    "source": "Anandabazar Patrika",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNUGZoZWU0SGduSTNyUUJWakZVUVo3Q296WWMzanVScVpYS1ZkdVc0S3VLR3FZckR6VEZIVGFENGpVUjFSWk4tMjh5SUVYZXlsbWpyOUpubklrRkZPcGtaOHY5QU80MElvVnVHT1p6X0IyV1BvMHVzUDBRS1BsdzFUTjJkYk5hblRlZGJRcFdQc2xKQkxmbjEzYkFFYzhpNVBtUGhEXzctM3ZuVUhtVmFmRS1JVHp6N0ZDZE9rTndFbFhFQ0tMUUNocm5PVmE0MDV5UTY4RlM3SHRGMFZJY1lYM2ZsZ1pmOE9pNGZoYUVvcUlvX1FhTmM1ZkhpOHlJSUJYQ2lNX0lmaDNyWHlIMTJNU1RIbmhNOGM0T1hmVWJvZVpFZHdldkHSAasCQVVfeXFMUGNPVE9sdTUtRWkwTVBPX0VsNHo3OFlhLWhvOTN1eEhFV2g3eHN5MndDNm1vMGgxbGFPTFdleDZwOTdGSVdiQUZKeWo1MzdiN19UdWxJREVJNFJMUnZINklZWnVXM2tVbzNzN0dzYzUtQy1lOG9KSW9IckdUcC1FMnEwdUF1TTVOWkZ3bFYxZFk1ZGZoSV9rUEhsTXI5VFpqREk4Q0xnYnd6Nl81cVE3M1V3ZThBTWJYY0RrV3FCaVd4VkVYYkRVbnk5LVg4U3VrTmZHZ3F6eWswWF9KTktxbFRfVFVmMFBQdDhzVHBIN0pyS0tEYzBBTmhGNWtVbkI2YndqNTdudDByVjB3LUpHZ2hYVjV4MGhnSHN3a2Y0UFVNc1ZFOWoxN3ZNLVk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQY09UT2x1NS1FaTBNUE9fRWw0ejc4WWEtaG85M3V4SEVXaDd4c3kyd0M2bW8waDFsYU9MV2V4NnA5N0ZJV2JBRkp5ajUzN2I3X1R1bElERUk0UkxSdkg2SVladVcza1VvM3M3R3NjNS1DLWU4b0pJb0hyR1RwLUUycTB1QXVNNU5aRndsVjFkWTVkZmhJX2tQSGxNcjlUWmpESThDTGdid3o2XzVxUTczVXdlOEFNYlhjRGtXcUJpV3hWRVhiRFVueTktWDhTdWtOZkdncXp5azBYX0pOS3FsVF9UVWYwUFB0OHNUcEg3SnJLS0RjMEFOaEY1a1VuQjZid2o1N250MHJWMHctSkdnaFhWNXgwaGdIc3drZjRQVU1zVkU5ajE3dk0tWdIBqwJBVV95cUxQY09UT2x1NS1FaTBNUE9fRWw0ejc4WWEtaG85M3V4SEVXaDd4c3kyd0M2bW8waDFsYU9MV2V4NnA5N0ZJV2JBRkp5ajUzN2I3X1R1bElERUk0UkxSdkg2SVladVcza1VvM3M3R3NjNS1DLWU4b0pJb0hyR1RwLUUycTB1QXVNNU5aRndsVjFkWTVkZmhJX2tQSGxNcjlUWmpESThDTGdid3o2XzVxUTczVXdlOEFNYlhjRGtXcUJpV3hWRVhiRFVueTktWDhTdWtOZkdncXp5azBYX0pOS3FsVF9UVWYwUFB0OHNUcEg3SnJLS0RjMEFOaEY1a1VuQjZid2o1N250MHJWMHctSkdnaFhWNXgwaGdIc3drZjRQVU1zVkU5ajE3dk0tWQ?oc=5",
    "time": "2026-11-12T13:29:08+00:00",
-   "cat": "শীর্ষ",
+   "cat": "ব্যবসা",
    "lang": "bn"
   },
   {
@@ -602,9 +602,9 @@
    "lang": "bn"
   },
   {
-   "title": "WB Winter Update: সকাল থেকেই রৌদ্রঝলমল আবহাওয়া, মাঝ নভেম্বরে শীতের পথে কাঁটা ঘূর্ণিঝড়!",
+   "title": "WB Winter Update: সকাল থেকেই রৌদ্রঝলমল আবহাওয়া, মাঝ নভেম্বরে শীতের পথে কাঁটা ঘূর্ণিঝড়!",
    "source": "Asianet News Bangla",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPelFfcjNnbDROYVl2OFZOTGkyWjcyTUdUNWRJZEN1MmVrWW1GVjhudk95UnRQU2hCdDVuSmUwNzV1Z2h0UFNDSGdHdFI1U1ZQNThLcGFsZFQ5ZjlHc0luRzJZa05LcmhxSmUzSVdEclgzcDdCbDJmYWQxUTBmRlJQU2ZwWHZmRjV3dDF5aF9WenVnbTFjUHlQT0tNWjRQQWJJMnUyRG9jUmZXcXd0ZDM4d3hCSzVxQVJyc25pZ3NYY2lGWHdveUxVVk5Mcy1rN09VZFNISGdORmdzM3FjaXfSAeMBQVVfeXFMT2s3TmRHUUY0NWVVNThuMV84MmFGWTlVYUpzaDRQUkF4eUx5ajN1Mjd4dWxnYjNTV2N4V3VuRFYwYzVONnBPSkRjcWtKZVFvbG5hczV3ajlNalJLSTBzblQ3cDhnaG92bWM0UHUyZDNfX1oxdVZOTFhGYzFYV0FJLWRWRnQ4ZGlaWEI0VkVoNU85LUJpU3Zxc0E2WktnWXhLSXF0Y2NIaEJqOXZJQWw5d0F6cjMtSlZXb2lYREdaSDh2QXBKVzBuN3BQZ29OVjJuMTdfaEtodFBSVlFTdVlGd3lrcHM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPelFfcjNnbDROYVl2OFZOTGkyWjcyTUdUNWRJZEN1MmVrWW1GVjhudk95UnRQU2hCdDVuSmUwNzV1Z2h0UFNDSGdHdFI1U1ZQNThLcGFsZFQ5ZjlHc0luRzJZa05LcmhxSmUzSVdEclgzcDdCbDJmYWQxUTBmRlJQU2ZwWHZmRjV3dDF5aF9WenVnbTFjUHlQT0tNWjRQQWJJMnUyRG9jUmZXcXd0ZDM4d3hCSzVxQVJyc25pZ3NYY2lGWHdveUxVVk5Mcy1rN09VZFNISGdORmdzM3FjaXc?oc=5",
    "time": "2026-11-12T07:44:06+00:00",
    "cat": "আবহাওয়া",
    "lang": "bn"
@@ -663,6 +663,14 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTBxUkZjalltV0EwUEUyUDFXanlXZWxkeHlIUlZkRHpzbmd4QjM5ZUwtc3Y2bzhidUcyUkhzZ2d4bEszc2ZRTGc4Si1WYVFHTWpXcWtLQ3VVWXF6TU96S1JOZ3lqUElwa1N2eVlzdVZia0x3SHIxWXJrZWpzZHNsSzRVckxoN0ZRNWgza0VHQnh1QjdLNDNwZjNrUEpvRjV1bDNrUVVxa1cwSUtsd1RKTUxjdFNpRzFqUWFiRg?oc=5",
    "time": "2026-11-12T07:01:00+00:00",
    "cat": "আবহাওয়া",
+   "lang": "bn"
+  },
+  {
+   "title": "ফের অভিষেকের বাড়ির সামনে বুলডোজ়ার অভিযান, অস্থায়ী শেড, লোহার গেটের পর ভেঙে ফেলা হল তৃণমূলের শহিদবেদিও",
+   "source": "Anandabazar Patrika",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYzlzUzUtaGtqWEJmOGhNUUtBREZMSEhlb3VPeGRBdVF5clRZUWxnUTQ3MkdwUTRiR0xlVUpaeG5GVDJKQTNEb1RsMzhtM0lzaTBqd2ZDU2VvSU81eUsyaGYxUkZhRFZCdEMtYjlveHV4VEpKT3BDV21jN20xV0FoUDdfR1ZTa09aSUN6Uk5IeVBUdnA1SkJfVVJEbU1pZWlPNl9VV2wxZl9VVW1fZXJsYTBrNmgtb2VBSGNLMVhBUVlmYkRMQUp0WmFxUnFrSUxEUWdLVEthc3VUN2tSRUktWW9tYjB4OFdGVEJnUGNPX1hpWmoyM1ZsVmlLUDh5NUNuUHl1NjM1Wk1oSHBIWFl3OFRTU3YzY1pt0gGeAkFVX3lxTFBQTW5wSFM1YlRTQWFXb3RkS0VvRkctUU5mSEhtejJPYi1xZ0lwd2J1U2JrcUhaUlAwZWU4Tm1uLWpWaUlma3ZZYjR5cU85ZlpOZERRUUYwWmJLUEVyR3hjamw1dUNHS3RWMk1IT3l4RF9jMk5iN05PU0drZmhLVDJCR3lmU1ZZeVVKQUlUd2tXdVUzdXFOLWdZOE95cVI4WWR1dGtwSncwR0d3dVg2UEpMa1RqOWdxd3ctQzgwY1FKRElick1QNW1TUUREUGlNQldZQjdBMlJnOVYxNjItR2ZQcHNlaS1XeTZ5VW1JZGliRjhyTDJ1QV9uUGxsOHR1UmFPazhqcW5xNUtiZXBZdl9mWUMtdldxQmVUNm8ydXc?oc=5",
+   "time": "2026-11-12T06:56:14+00:00",
+   "cat": "শীর্ষ",
    "lang": "bn"
   },
   {
@@ -758,7 +766,7 @@
    "source": "Facebook",
    "link": "https://news.google.com/rss/articles/CBMirwdBVV95cUxNOVRCYno5ZGljdFhvSHlRTU1ac0xGR0pUV3BDWGZRaFNaNDJOOTB5NTZzM3o3SDFFaDhXTDczNERocmNxWk1fRlk3NFluN3FOdElTck03ZmJEWEZlV2FTLS1ZSjB1T1o1ZGdZSkFQYWJrS0JxdXBWcmQyR2dNd242cXhSTWtpa0NJTXd4OXVzMmdkazBTTWo5M21OQ0hidGdzQWhaOXNMNXhXT0d1UWU5ekRFWmJKa1Zmd1JjMkQ1NjNoSUZmeFBHVmxSRjhtZjg5U1p6NXRkbXFMZFdzSWMzbE9OSWJyTGw4MmJ1REFQcjRFR1FLckY2Sl9mMTlUb0R1VC1CaEtMbHJzLTVtdW9lYVlZMndKS1hmT2Y2SmxpVl9fYW40UWFJajdiWi15UlU3TlF5aXVLdl9zZDJGOExBOWVBdVlYZkYzdHNpdV9wZFR6bEF6R1VpeXVkWkgzdXBfbU4wUDRuZ2R5TlZnVVlWQUFDVVR0WlBfRGRTbTRwWGhOZlVDYXJGdnVnNTk0SkcyamRMS1FuaFJkQWpqM3dQRWJTMFNiZnZmMGlwaXZJZjg4SWo4b2lIR0JvZ1hHSDFLQ1pwU051a3ZrWHhMYlZ6ZUtWbFYxWThzanhfX1pzaDJVWmliWHpoT0JYSWQ5Tng5M0RiZmZxOUtEb0JrRWtfNHlDWWg4a0htWDZOUmd3UTVqd2E4QnRnU3V6N3VET0tPa0dZdnhCR09SaFlHUjZEMjlLd3VNY0xVdlJhWThYcGgzbXh4UnBKMWk2OXkwV2dFYlgtSTcxSzhYMnNlaFJMb3ByX1RTNlotN0Y5aUl5MjFSTk1UYVd3N2JBeV9WMUxfVWIyOGJqcC1SdjgwMmh6bjdrNmF4SXh1M1V3STlIQzg1SEIya1gwb0FMNGFMc1c5VkJJamhDdEtER1FVbWEwVkhSLXBJR2VCcGRhVlM2SVZCZFNvNWZfdF90UzhGekFxazJIYnlQQllaSFpMdFdPa2Q2UGQ2NzY4eGNRSEwwLVNTYjhLVkZ2NFUxS1JqOU05eE9tdnoteU9Sb0ZLZlRzUzJVdkZUQ0lCNE4tMk1MTzRwY3J3M1VBdkVyeUY2T3pmeWFIM1dkUUNRcWUwUmtwVXdJOHFkRDRFdlFxRzU4RENqY2NoR3FxbTQ0R2lXN3ZocmNmaHpxUUszcEpDcGIwc0dSSnZNZUdOSkJkcmdLeDdKcm5EVk1SX3NaWmh1U01HM3loYkQ4eU9oV2xaVktV?oc=5",
    "time": "2026-11-12T04:46:54+00:00",
-   "cat": "খেলা",
+   "cat": "শহর",
    "lang": "bn"
   },
   {
@@ -879,14 +887,6 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNG1OaWlOVTFuTllJcDRVbUlrTWtNdGZfcEFteFFRYW4zeVMwZFdnQWNrMEctRTltT3hSYW1nN01lZ0FleFo3ZGI0V29udDhqQ3pnNjBiTHZpaGpiRTE3VGFTcElGeElWeWFoRDh3Nm9tUHRmVjRTVmRnMUt5TkJSSHJFX0JXYkZCSEN3clVXczRTcW8xNWFkelFnMEcxbGZHS0RRS21MTURiMS16bGRSTlRyUW9UUVF1QmhwT21R0gHLAUFVX3lxTFBTQWtaRkNxdDlHUU16TEkyOG9INVFWUUdrN0Z4QlQ3Sjd2aDdvTno4bVJWUEtoTG94ZjMxUU1EWDBwY21teTFuRDFnMHRyRndFMktFc0o2RlVWNFJNeDVZcGJiQXJBeEVJTkhsSi16UTB3d3F5UTZHZkQ5d09iaF9wX2FuYkc2OUtxcGRIbmhSWVVJb0Flc3MzeGNpdkxMQmw4Ykd1WEI5VmNzdlNhdHZrVmVXRDBid0pGSlo1dTIxeDUwU1ZoZnR4OTJv?oc=5",
    "time": "2026-11-12T03:27:54+00:00",
    "cat": "আবহাওয়া",
-   "lang": "bn"
-  },
-  {
-   "title": "Abhishek Banerjee: জায়গা পুরো খালি, তুলে নেওয়া হল লোহার গেট, একদম সকালে অভিষেকের বাড়ির সামনে বুলডোজার",
-   "source": "TV9 Bangla",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVmFrbUs0TVR1QUNnVkttYjRlMTZyaWJ0bFdxc3V4WmFYTjVBbXhQSXJCWE91OUdTY3JRV3FqZ1JDc29qYTRBYXVvNTlza0RmTFROT3NhTFZuZ0hURlItR1gyclNnd21nYV9lQ0hGTUZsblhvLWZvQmQ2M2VwdkItX3hYZEh3bXhuQTVNME84N0dIVWhs0gGaAUFVX3lxTE5sQlJRVFhkQUIyVHZxbTBCRzR3blc0T2dfVGVpMWZFNEpFWlRKc1hURFVHcjBmSVYxOUdMdHdGN3B3YWpPU2tidXNxSlVsODJwMmloYzZKRUZhUUVtVVNvbklWVUN4VmdTX2xVeEZ5cV9MVHBsM2NVU09mcDNCZWVxZDFSdUdIVUFfRDE4QXpqbVVsdkZmSGZlYXc?oc=5",
-   "time": "2026-11-12T03:25:47+00:00",
-   "cat": "শহর",
    "lang": "bn"
   },
   {
@@ -1036,7 +1036,7 @@
   {
    "title": "Minister Agnimitra Paul push for butterfly garden at Rabindra Sarobar",
    "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb3lCQWhoSTFETnRJS0J2T1p1WTRCSk5JZGM3bjFUMzBZVjFoV1YzM0RKZWcxVHVBWGlFMHFjZWRNVWUycWUxa2VpNDNuZ25oMW96LTQ0c2dlTG9tT25ISjZFNmVTUFZpVllCUUZmNGl5NFhlbmJVUXk4b2ZqU1RZY19iSkdnVEtzYXVEcGRnNGstTGlHdmRQeDFXdEdYc3Jjd0ZOQnNOYmJpVG5FdVQzSndjcEkxeE5ZY3NXSGtsTWxwNk9oSmV1bE84OVpicnZrckRiYWRhV2VxQ1p10gHiAUFVX3lxTE1teHh1VjY0ZGpNSE5jQ0JYbFRoTURncXJNcjhUTXdfTHJNSjNYMDNNTndTOEZQUkIzWDhUZ0FBcDU1MkVKSjY1c1ZuREpmRV9mT0Z0UEk0S0Q3RXZnRkNla2pvS3lwazNIekhoU3ctQ00waEk2RjRMQUF4dmg3NkhfaUktZlZ1OWVHckV1VGhURmUtd3J5YThBZjdFaXFld2hyRDFDdWtESEFfV3JSM2EySTFCT1kzZkQwOUZYSV9xQ1pFdGgwREZiRHl5U3c3Y0xma2ozaEJYc0Y0RFhKam4xOFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbXh4dVY2NGRqTUhOY0NCWGxUaE1EZ3FyTXI4VE13X0xyTUozWDAzTU53UzhGUFJCM1g4VGdBQXA1NTJFSko2NXNWbkRKZkVfZk9GdFBJNEtEN0V2Z0ZDZWtqb0t5cGszSHpIaFN3LUNNMGhJNkY0TEFBeHZoNzZIX2lJLWZWdTllR3JFdVRoVEZlLXdyeWE4QWY3RWlxZXdockQxQ3VrREhBX1dyUjNhMkkxQk9ZM2ZEMDlGWElfcUNaRXRoMERGYkR5eVN3N2NMZmtqM2hCWHNGNERYSmpuMThR0gHiAUFVX3lxTE1teHh1VjY0ZGpNSE5jQ0JYbFRoTURncXJNcjhUTXdfTHJNSjNYMDNNTndTOEZQUkIzWDhUZ0FBcDU1MkVKSjY1c1ZuREpmRV9mT0Z0UEk0S0Q3RXZnRkNla2pvS3lwazNIekhoU3ctQ00waEk2RjRMQUF4dmg3NkhfaUktZlZ1OWVHckV1VGhURmUtd3J5YThBZjdFaXFld2hyRDFDdWtESEFfV3JSM2EySTFCT1kzZkQwOUZYSV9xQ1pFdGgwREZiRHl5U3c3Y0xma2ozaEJYc0Y0RFhKam4xOFE?oc=5",
    "time": "2026-11-11T18:27:00+00:00",
    "cat": "শহর",
    "lang": "en"
