@@ -1,14 +1,30 @@
 {
- "updated": "2026-11-12T21:18:28.975523+00:00",
+ "updated": "2026-11-12T22:16:25.741781+00:00",
  "env": {
-  "temp": 23,
+  "temp": 22,
   "feels": 26,
-  "hum": 86,
+  "hum": 87,
   "code": 0,
-  "aqi": 140
+  "aqi": 126
  },
  "brief": "",
  "items": [
+  {
+   "title": "Kolkata Airport: কলকাতার রানওয়েতে শেয়াল দেখে চেন্নাই থেকে আসা বিমান ‘পালাল’ দুর্গাপুরে!",
+   "source": "Kolkata24x7",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTC05QTJKSGdzTHJsa0w2V2ExMzZydWlmdW9tZEhkNzZKemxIZmotWXdPYzVQOXl4eVMwemIxdHdXNXNvNWdHNFRuUnBzcXUyZ1ZrM01pbjFGcFFWVGVBYlozZ1hFMnZqRFBXdDg1R3E5NVhSV1NwZkJOVHRKVHRPUjVIUy1kLXM5a0M3ZlJ6SUttVG1HeENNdkJKbW9YMUFwckE?oc=5",
+   "time": "2026-11-12T21:45:07+00:00",
+   "cat": "সংস্কৃতি",
+   "lang": "bn"
+  },
+  {
+   "title": "Kolkata No-Honking Campaign to Engage 30,000 Students",
+   "source": "Urban Acres",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFVZTUxhVXdWLWwwN2ZTdk9QWkR1d1p5dHRnMWNOYmlvUDQ4YkpsWGxyN21CWmxuWDNvXzJkMWlVWHFNWXROcmc5Y09MODJieXk5UUI4djlPN3NmWWdzOTlCQ3N1aWZkSWFnUmtCRGYtZW9jZFZIbll1S1FneEtZQVNKOGpNMG9XNkZfX3h3?oc=5",
+   "time": "2026-11-12T21:44:32+00:00",
+   "cat": "শহর",
+   "lang": "en"
+  },
   {
    "title": "ED attaches Rs 2.78 crore assets of former Kolkata cop in land-grab case",
    "source": "India Today",
@@ -246,7 +262,7 @@
    "source": "Sangbad Pratidin",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVlpwdU15U2pRc1Q2V2pSWjkyaG9iLXdaNnB2VWlwVnNVVDhOb0tMckN6d1JhV1J0Y29fMWdJNGdNS052aGJiTndpT1pQclZ5dGc4NzRzSWFJZmdqMUhqWFFrZ0JYbk9JWHZILWNNTlRGZWF3NDRFUUM2Q3N5Y1ZmRy1EMC0wZXQyZDVYdHJ4Y0d3QmVaek9JMmVJUWpjalppNFlteFRJVHNiSzY0eVpMZlFfcW9wYURWX3BNVHlsOGhOdEpSVkJ6UlJKRkJWVm5X0gHQAUFVX3lxTFBWWnB1TXlTalFzVDZXalJaOTJob2Itd1o2cHZVaXBWc1VUOE5vS0xyQ3p3UmFXUnRjb18xZ0k0Z01LTnZoYmJOd2lPWlByVnl0Zzg3NHNJYUlmZ2oxSGpYUWtnQlhuT0lYdkgtY01OVEZlYXc0NEVRQzZDc3ljVmZHLUQwLTBldDJkNVh0cnhjR3dCZVp6T0kyZUlRamNqWmk0WW14VElUc2JLNjR5WkxmUV9xb3BhRFZfcE1UeWw4aE50SlJWQnpSUkpGQlZWblc?oc=5",
    "time": "2026-11-12T16:39:03+00:00",
-   "cat": "সংস্কৃতি",
+   "cat": "শহর",
    "lang": "bn"
   },
   {
@@ -360,6 +376,14 @@
    "time": "2026-11-12T12:38:26+00:00",
    "cat": "শহর",
    "lang": "en"
+  },
+  {
+   "title": "Weather Forecast Coming 7 Days: সোমবারের মধ্যে ৪ ডিগ্রি পারদ পতন, নতুন সপ্তাহে ফের বৃষ্টি? ৭ দিনের আপডেট দিল হাওয়া অফিস",
+   "source": "AajTak Bangla",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOazlnUVlfTmVlVGlxdlRwX0d3NVljZ0lBMVY5U05BXzYzMlZOSlMtb2t0b3VndDAwaUI3NjdzQmdjOTJYdTN4Wm1ET0xDRVozd3hXR29HN0pvbkJMSzExcXFNaVVUX0Rra0hxQzNMUXVPbXRCcDNlRWhlbk1uVF9GQk02aFAzZmxrUTNwR2VrakdZdnY3X0lNaVdRVF9lOXllUThjdGQycjd6UEZOSjM4UTlHUmhYV3YzM1RYOFkwNmhwSmpoSFBxczh2c2lWRE5yQnVERHlvUE9xdW9NdVVYMS1SeklnWFlNNU9sdkVxdU9MbVpUd3ZsX3VTblJ4V2NTbHhmSGdMeExab3VnaWgxQS1PV1JiOEZfaE9URHNhby12UWpfa09naG5ZOThSUlJyX0HSAbcCQVVfeXFMTlNHakJyUmQyR2pUQVVxc3o0VE5EU0tWVTBaclI3SkZUR1dqWk44aVBzTVJjalVIbVhENjFWcVcxRzFULTZoaERKbHNidXQ3aXRZRG9NQWhQZG4xLUxlcU5pMzRSdjVkTnBuLWVHczhCd0JrM1htQ3pxNHp0VFdEWGFoY3BlSUQ4QWRRNTBQTlJhUjJsYzB4YmVTTVdqWUZSNEJZZFlMUHU4WXNTbzhIc2d2UzF3TmxYTW5yazV2Qm1SS1FhY1B6TTNsSjVOa0R1QnJqSGo4a3Z5cGd1ZFpUdjFnUW1yZnNuZ0U0ZHROSG15QXlXUnhIeWZrbklSdjdnRWpDTDVoTzlHOEkxSEw0UWFUb2hPcVlkdTU1dXpOWmp6elppbnRjVlo1eUlVLVV4M1hndXJDaDQ?oc=5",
+   "time": "2026-11-12T12:34:47+00:00",
+   "cat": "আবহাওয়া",
+   "lang": "bn"
   },
   {
    "title": "প্রাক্তন পুলিশকর্তার সম্পত্তি বাজেয়াপ্ত",
@@ -1554,14 +1578,6 @@
    "lang": "bn"
   },
   {
-   "title": "অসমে দুর্ঘটনার কবলে কলকাতা-মিজোরামগামী ট্রেন, শিয়ালদহে চালু হেল্প ডেস্ক",
-   "source": "Sangbad Pratidin",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWhQSTJ0T1ZSSjV6MEFSdlpZT2Nmc0hKZm44RGI0bmlrdUhuYWlpU1VpM0VCU0o1b3EwVkVBRDJaeHZremxDYkQ0c0lwTWhQTFdVX0s5Y1F2UVZ0aEFYMmkwZjlwcU45bE5pWHdlcEFoV0R4RzVfOEJpeVNCVEVVVEFpMFFSYU9rampnS25SZ2RMUWJPMXRSRFpuakZ2MkxjczljS2l30gGmAUFVX3lxTE8taFBJMnRPVlJKNXowQVJ2WllPY2ZzSEpmbjhEYjRuaWt1SG5haWlTVWkzRUJTSjVvcTBWRUFEMlp4dmt6bENiRDRzSXBNaFBMV1VfSzljUXZRVnRoQVgyaTBmOXBxTjlsTmlYd2VwQWhXRHhHNV84Qml5U0JURVVUQWkwUVJhT2tqamdLblJnZExRYk8xdFJEWm5qRnYyTGNzOWNLaXc?oc=5",
-   "time": "2026-11-11T05:31:21+00:00",
-   "cat": "সংস্কৃতি",
-   "lang": "bn"
-  },
-  {
    "title": "Emergency brakes applied but train not stopping: Video shot by Kolkata-Sairang express driver shot moments",
    "source": "The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUXVtT0tZb29ZSnJPSGxIb3BnTlJFelBDYVl5cHdEYk9kNWFxMTBjN2luZEdLUWNaZnBnUUxJWVJCcnUxRkRIeXdBeVZ0Yi1wVHl0SlA0MjlsekZVbXFxaXk3eEtxZ182VDhOY2p1TUN0SlZHQklhaHJOWDZ1c1U3eFh6aTgyZDg4a0lFeDUtYlRuZXJPZnpkdWdaeDJqQUdkT28wYk0yY0o5YWFDZWpFdDRodnk2dmZNQ01lb1A4dWkzbnlaRkItbTJjOVMwWF9zZUhpU093NExXck1GWGpQSW1vMGl6TXZYbmNaRTNpNzVNV0xyV3FnMmxuaDhwRzMwa2VUQi1RZEliWEJNVzJhX2NmbnZhZlh0dkJKRXd5YjhQNnRh0gGkAkFVX3lxTFBRdW1PS1lvb1lKck9IbEhvcGdOUkV6UENhWXlwd0RiT2Q1YXExMGM3aW5kR0tRY1pmcGdRTElZUkJydTFGREh5d0F5VnRiLXBUeXRKUDQyOWx6RlVtcXFpeTd4S3FnXzZUOE5janVNQ3RKVkdCSWFock5YNnVzVTd4WHppODJkODhrSUV4NS1iVG5lck9memR1Z1p4MmpBR2RPbzBiTTJjSjlhYUNlakV0NGh2eTZ2Zk1DTWVvUDh1aTNueVpGQi1tMmM5UzBYX3NlSGlTT3c0TFdyTUZYalBJbW8waXpNdlhuY1pFM2k3NU1XTHJXcWcybG5oOHBHMzBrZVRCLVFkSWJYQk1XMmFfY2ZudmFmWHR2QkpFd3liOFA2dGE?oc=5",
@@ -1584,6 +1600,14 @@
    "time": "2026-11-11T04:36:44+00:00",
    "cat": "ব্যবসা",
    "lang": "en"
+  },
+  {
+   "title": "কলকাতা সহ দক্ষিণবঙ্গের ৪ জেলায় বজ্রবিদ্যুৎ সহ বৃষ্টির সম্ভাবনা",
+   "source": "Bartaman Patrika",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFlqbmFDTHp1cUxzVTFRbDlQZGdtaUZIeV95cW5WazR2cXRINldPODRxUjJPb1BaQzR0VjNHcFJnSnFCX0cxelRfQXhVOWpXb25DbUcxeV9ERldjYURSZDBHSVFHUmFseW4tYzQxUUwxbFJSWTkwZjJiZnJBUDJ2ZXRpVVNpanJfUDdyLTBQMFhmdXpEUTJXdXlsV2VqbHdLbWFVaVdrak1LTEl5NGs0a2haano?oc=5",
+   "time": "2026-11-11T04:35:54+00:00",
+   "cat": "আবহাওয়া",
+   "lang": "bn"
   },
   {
    "title": "বাংলাদেশের উপর ঘূর্ণাবর্তের জেরে ফের রাজ্যে বৃষ্টি, শুক্রবার থেকে বদল আবহাওয়ার",
@@ -1666,28 +1690,12 @@
    "lang": "en"
   },
   {
-   "title": "ভাইফোঁটার দিনেও বৃষ্টির ভ্রুকুটি! জোড়া ঘূর্ণাবর্তের জেরে দক্ষিণবঙ্গের ৬ জেলায় হলুদ সতর্কতা, আজকের আবহাওয়া",
-   "source": "Bangla Hunt",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlVNbUJ1S2k2NDhIc05LdlU3T19SbUZ3a0M1LXh5QzJZazFwVThDYWdNZ3FrVEpRdzVBWktfcm1XTE52b09rTnd1LUlDXy1jbWUwN2pDVkltTXFoOTVoa2ZiWElMOTVYbm1RdXdTVFJ6STJ5YmNVT2Z3MTFzNUNXYXdocE9QMmFxRWJNa0N2MmZWU1RDc3c?oc=5",
-   "time": "2026-11-11T02:11:50+00:00",
-   "cat": "আবহাওয়া",
-   "lang": "bn"
-  },
-  {
    "title": "More rain likely in Calcutta as fresh weather system develops over Bay of Bengal",
    "source": "Telegraph India",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVHhLQjl5aUFnbnRSdlBJUVE2aldjblU4WU1QbVJ4aENWdFBybmFCT3ZkWlRNc05oZnU3dGIwS0VJOWEwRjZiYURoSnpTTHlMRER6Ym1tRUJPMmFjV1dReTdWbnNreDdpdW5NZERFUGZFUDdjbXNBd2pzNHRrX09MVE9mM2FLdGZQZmNGOExCYXR4YXd1UWlFamc3RG9OaFU0OC1UNjFFWk1NMlBWY3JYbDZIU3o4cDJDcUNpc0ljNFQxYXNpeXpaMERaeFB1Q29wYm9hQ2pvdFQ5bGRYdVdySdIB5gFBVV95cUxQb0pBYzhtRHdpM2Y3WklRVkZqSGNSZTVFNjl2QWhCMHpGM19SVnZmOF9UekQ5S0piZ3hpV1E0YVJ2LXBnRk1zNTVwZjREUU8xRjZyMTU3TS1xY00tdFV5cm8xRXd2Q1VmaVdyYlhOSm5HRHUwTlZjZjY5YzhRYTlpeGtsbnpXc25qcXJ4SkcwSGo4M3RNLVF5QXF2a01MZUtlMDI4VUZUMzN6ajlSZEJZN2dFVHNqU1FEZVpDcS1WSHpJLU10SnQzNlg3NG9sdzJ2cE9ueTZZY0ZsS0tZUDhabUg0SERSdw?oc=5",
    "time": "2026-11-11T01:39:55+00:00",
    "cat": "আবহাওয়া",
    "lang": "en"
-  },
-  {
-   "title": "সাগরে ফের নিম্নচাপের ভ্রুকুটি, দক্ষিণবঙ্গের ৯ জেলায় তুমুল বৃষ্টির সম্ভাবনা, আজকের আবহাওয়া",
-   "source": "India Hood Bangla",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTZWejZlXzBfa0NZRklvMllYTWN3UEluOWlIODQ2VTRSaTVidVVQZ05PSmtWNmJrX2k1b0JyWC1GT3VTckRWdElxZ25fTVRyUVNfVWoxMjFRcjBKVTZ6LURwdmpCTGlOY3AzZlYxd3JwaGlCU29KemFnU2RKd09hRlA4RkpmemNQY0ZMeThQNTVqVWg0RDhiajZRM3ZtVUE4a2pRNHBxeUVPLV9UMlRuU043Ni1rX2M?oc=5",
-   "time": "2026-11-11T01:30:44+00:00",
-   "cat": "আবহাওয়া",
-   "lang": "bn"
   },
   {
    "title": "Kolkata Civic Polls Face Crisis Over BJP Coordinators",
