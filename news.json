@@ -1,14 +1,102 @@
 {
- "updated": "2026-11-15T14:38:08.150402+00:00",
+ "updated": "2026-11-15T15:33:24.133398+00:00",
  "env": {
   "temp": 26,
-  "feels": 30,
-  "hum": 67,
-  "code": 0,
-  "aqi": 256
+  "feels": 29,
+  "hum": 68,
+  "code": 1,
+  "aqi": 259
  },
  "brief": "",
  "items": [
+  {
+   "title": "কলকাতা সহ দক্ষিণবঙ্গে টানা বৃষ্টির পূর্বাভাস, কবে থেকে শুরু তাও জানা গেল",
+   "source": "nilkantho.in",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1acVRFTWsyMTB6WG41SmVqVWNaY1BGWWpJWmF6enBpaVNBc2VoX3paNzRWVTBsSTlsb3lFeWhjQzEzMWotSGdXNWJSRXRvdw?oc=5",
+   "time": "2026-11-15T15:28:46+00:00",
+   "cat": "আবহাওয়া",
+   "lang": "bn"
+  },
+  {
+   "title": "BJP Worker, Beaten By Fellows, Dies In WB",
+   "source": "Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlY3MmRZamo2VFhvNlNGOFUwZXZ5c0QtRnFwU3FOOHZnR0NkR0lWaUZ0TUlRVE1NakpiUG9qU3N5VHFLb2FTYURTMlZYandwYjBEcUkxLS16TEE4dk1lbFl5SUdURno1ZHYtXzZrZVo2dmdXbVBjbEdDM0haSHJJVlFtZFZQS3NlZ0RmMnlMONIBlAFBVV95cUxOX3kzcjZBOFdBODc4R0ZhaG10RmVXT0F6VGxCdGcyMXA5dUZRU094ako3TTJLTVRTUE10NWZvcG9oeXNfeEFCSmZITXVLYm1wVDhydnJCZFg2VlJlZUp4b25mcHRwSGI2S29oZnNKb0JUa0lUaHBJZ2pmR2VkY0UyNGMtdUNvc2lUbTd4ZEVBR2lSQ0dG?oc=5",
+   "time": "2026-11-15T15:23:29+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Hyderabad–Karimnagar banned vape racket traced to Kolkata supplier",
+   "source": "Hyderabad Mail",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcV9NNUhoMkJOZVRGYmJ6TlpFVkozYjlPZjNqaWR4eERKdlRNVnBuTmtYbV9qbGRLU0hwcUVEQ1JqekM0cXRYUXBORlN2SmthQUtiQzNtMjhyclR6bk5PZmZyR0RlazR1YUlCcUgyM1VwNHVQZE5HM3dXYi1VYUtMN2lBOWNScFo2UUQ1VFZ0MXU?oc=5",
+   "time": "2026-11-15T15:05:04+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Chandernagore cops step up security as Jagaddhatri Puja count rises",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY0tnY1I0aGZXS3ZYOEdoUTBpVko2aU84cndDelVWQ0dWemNHVGMzNE8yZkFxQjRiR1BCNWh2dmpWQTBmWXdiNVRma2oyYy1VRmRuaUlpS0x4cUcyYXlJbkF5WEtkX3ZaUnJTdE03MW5jX0Z0S21jTTZvMm9nTGZuYm51eGpZNWFBaU1aZHlPcUxfTUh4b09UcWVpUlpOQ3BkSTRzOEt0bW9WZHUxLVBxMVh4bkhXY0w4RmJ1UHdyRUNBWW1idlNhN1VpMWhiRE5KRDJyU094Mm9ld9IB3wFBVV95cUxQS01BWkY4ZXFwNW1KMlJrR1ZFTGdrZW1JSlgzVmJKMlZVREtQdzdQcHY5OHlnRm5MSXYwX2kwMHFocGMtblVKYjZ1UmQta0FyU001azV1TmhkdjJBcGNHMlMzdTdsV0h2ZVFfQmtCNE8zLTZrbHIweGRWbHdEeDd0bF9DY09ESmlKUGhuV3pHV2Y3MnFOV3Y3QW1WVEpLMkVZNHltQnBuc3JfaFNtTnlMaHNTVjBLdUJyOEkzU0ZIcG5vTmg5dXN4REtFaElzT3MxWTBjTC1PV2NoVXNIaTlv?oc=5",
+   "time": "2026-11-15T15:05:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "SMAT 2026 Round 2: Full list of fixtures, groups, venues, streaming info",
+   "source": "Sportstar",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXE1YW5fRFFnclVGdkpHTnd4Ymd6UzFobG5PQzFBVXF4V3Q0N1praF9rRDZrb1NpM0VlckhXUU9ZU1JLc3dRbTZKXy1kblQxQ0hCYU15NkFrR21GR1NNUlU3aUFKN1F0ZzZVRnRoX3hwejdTbnlZUkF3ekpDeHEyS3Ewa3J0QmtXMGRyTER2QnFWRC10UXNKQ3p1YWppVi1XZlpPQmw5T20zQdIBsAFBVV95cUxQN2FmYnNod1hvNHZwa0hiOVZuUWZrUlBaOEZlWkg4UWhQYVFhOEt1Wm9iVEhMQ3ladHNVWmtoWjA4M1A0RlYyQ3doNnQwNmxNdHY5TjdjdHZKenBMM1phMzdMU0lYUklIYzFCdnJ6dkZYZlVpdk5JU0hjOEpQYzJnMEo1dnVhUG53SHRaRXRwUnFsd0RhaWgxWFcxNTZaMy1kREZOTW5hUFlydGV1NFVIbg?oc=5",
+   "time": "2026-11-15T15:03:33+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Barrackpore MLA Faces Protests Over Crackdown",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHFQNmRnT1N1UGl4bzF5LWNZNXdaNUo0YzJpRExPLUM4eWViYUpROHZraXFuQW5XcG5IYlFZNktjZ05UcWRCMWNvcE1sQndmZm9iR1o0WU5UbE85VUVNcHRob3hmWFFFZVItN0lsNDlwOWc3Z2M5MGJnZktfQ2hjdFNZX3A2cmlPazY0Z3RrczBkR09OQU9QX2VFR2R6ZXZHQmEzNGJ4eFZaY25sNFRFX0lQWldvUmlDTVdLcdIBwgFBVV95cUxOWGJVMnlsMzBlY3ZrbEl1ck40bVdWMWQtZU1IWnAyVm5aNE9kSjgyU0k1aFBwb0ZlLWN3WG1NUWFZaU5GNXZZLThRQmNxaGE2YURnckkxM3c0RFgxVVNUeUg5TnhBQ2J2VWxfcEpvTW1HQmE3bWJUeEI1bkItTE91STZDelVXLWpCUzk1c3hvOFRhbEctODlIeGlpNy1SLWlLbHRZNmt6TjlvWS0zSDJDeWpHazBVRUJQWk1HOTVfNUxyUQ?oc=5",
+   "time": "2026-11-15T14:57:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "Suvendu Adhikari attends Chhath Puja at Kolkata’s Outram Ghat",
+   "source": "The News Mill",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjNZNlBlWU56a2xlSW9yamU3TmZ1U3BWYmpQWklldUVEWUI1emd5dnhfcDZjeXJEbXZyOThFZFhuejI0d200RUZKWldKSW93MjVXaC1OTG81MHlxTmgtdTZ4cmdva3Y1RTRrcFJ5ZHJzV1pHMjBqRWg3d3MyUEZEQkozM0FxQk9TaVhRbWpGMGM4N1dXSG9fTQ?oc=5",
+   "time": "2026-11-15T14:52:41+00:00",
+   "cat": "সংস্কৃতি",
+   "lang": "en"
+  },
+  {
+   "title": "WB Weather Update: ফের দুর্যোগ পশ্চিমবঙ্গে ! নতুন সাইক্লোনের প্রভাবে বৃষ্টি শুরু এই দিন",
+   "source": "ABP Ananda",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSndlQjRUODZrZnpRRnE1bTRXRFJLX0NhRkhrYklMSWwwRVpCRTRLem1uXzVFTGZRWUZJUkpwQ0NaZ0NOZXZiRnRMcThhWjZBaTExdlMyVWZqRDI0ZWt3Zy1PeXBUcFN5cmJhQXc3YlJTS3VxX1NQbVBlTURtaTFLbDBrN3lNZGtGMHhkZnEyYVNhRWMyU0V6S0ZoUDBaN3ctbF9aNElueVlkbFFtUEt2YjBiQUcyX1c2N2I4LWMzSjBQeTUwbXFmaHBJREg0ZEF0bGFlak85ZFhpc1pEdkxSc3gtU1VBcXJ2TEJRR0RwLURkaW5BSFp5YlRob3M1Ym0wOVNyNWg1NEdYMjZmZHZlak1EQkttVkHSAZwCQVVfeXFMTzQybVRWSEVkYkJyUmNtbWxZYlV3RFNpLTdtNFZkUUpkUVJjTzhHRTc1clhJVXFBWmlBSmsxOVFTQmVpRXVWY2hQQ0liamR1SWNGTmVwNjRDTTFfSnlvc1EtZ0ptejRVSjh4UDhwOTR5a2o1SkNKMDlVZW41VnNHYU02eGF0OVhWQ3ZlNTlpZWkzRVFHekZYUHN2T0FBRmlYV3ZtSVcxUGo3M2tsekx0a1dOQmtPNWl4ZjZGZ1ZVNVNaa3pobjlGODNJdE1kRC1hVVJUVFpuTnZ1UmhfZnVHOWVBczdGQXdWeU50RXFFQmZsbkdlNW1RUjB3aDFTWWVLVnZMbW5qQVNQZV9ubnBHTWdFWHV5LVpLRUVUSEg?oc=5",
+   "time": "2026-11-15T14:50:18+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
+  {
+   "title": "India needs to develop economic model rooted in its strengths, capabilities: Swaminathan Gurumurthy",
+   "source": "ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcDVRM2M3V3RvMWxUSW1HY3BXMXlFMVVoNG1KUHVadWhQRmROeEFTSlVadnFobXlmMDMtUzBodFYxUF91cS1wT19hSlR2NU1sSTFJblV1SHQwczlmWTlheTdoSlFHQTkwNHF2RWpqOWRxYUMyRHl6MHQ4SEF1ekVMR3NNUGlmcUs0bjRwNFd6OFR1dEROdUlSYTB4NnJUT0R5YUs5bWxBVGh1TGZfcUtBa0ZQOURUWHc5S3hNX29yeDZsX3NYaW4yWWtYQkcwQXPSAdQBQVVfeXFMTkZwaGFrX1IxeVctWkRCelJfeUcwRUpGajFDeE5kbWJlZFFPTTN6YTV4WUUxcUEwbXp6NWhzSzVIdi0zZ3lhOFlrN0poTmEtT2Zwdkh2UXppODZxYi1hRlB5UW9NM2VjWEI1S2xuSTRjeEFKazQ4TGt4OFJ0SmxoSEItZ1UtbS1CN1BGS1BTd1huUmdPdW1OekhVN0t5MFJ1bGJ0eFhHRmlHY0cyN1g0Tm5fVjNBUEYtUXFuY2RaOFRHbFdBdmtkTVRSNVFJenBaLThidjM?oc=5",
+   "time": "2026-11-15T14:46:18+00:00",
+   "cat": "ব্যবসা",
+   "lang": "en"
+  },
+  {
+   "title": "Suvendu Adhikari visits Kolkata’s Outram Ghat, takes part in Chhath Puja celebrations",
+   "source": "ANI News",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNHZ6MENtMmVBUV8teEZqUC1CN0xDd1FIQmJyLWhwdkxyTFc2UTVJVjM5bm1UdHR3Q0tXZ1hLQlMtYkdEdVZveHNVRC1UekQxa1dLQlY2djhZVndRN1gtcEFUeHN4cEM3Wmt0Yy1BQnlSTnJHZEU5WE5DOHlJYmpYX0hveDJUMk5kb0dKcklxa3FRTURsbU1MaDVFNmJETTktTlpndWxBOUZYSHZKYUFVMHp2VkROa3BfWUFYLWZIRFNOYXNtT3QxX2Zubm9PZWQxQ1VIY1BmODB6YWQ2Njd2SUVZOXJQZw?oc=5",
+   "time": "2026-11-15T14:46:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "IIT Kharagpur, Bengal govt to hold workshop on implementing new solid waste management rules",
+   "source": "ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmV2dFduRWZwb1llQkFiVDRuWEV1d3pOT3lkdHlQbE1NdGFlanNsNC10NURCNjZQVk50emwxbzNxNzFodTEtUmVmNlZOWXZLQm0wV0FmcWNSa1JlWERFcDJqUS1yYVg3SEd2YlN4bS02aTdYN09IaExOS2lrc3Q4aEpmYlNkLVZtTlpnTTdGR2xWMzA3UE92VUlwVGM0Q3RvNXJudllWakFPT3VkdXNPa1FJWTRVNWMySmowVmVCejdJQWpQ0gHKAUFVX3lxTE9DQ2pza1VJdWFrdVZfQVhKU2xIelk1WmtaNHJ1UFVlREhaQTAya0g4U1pUXzl4WlJLV3NhckdUYzlZNDEzNWlkN3dMVkFuQVdkOGpSWm5lUkh5WFQwNzZDQ0xiVm1PWldLVDNzZWFGcGtES05FTldrU01zdlhUX1NnXzlVUERFQkl2c0g1Q1BySkxXVjlnUXBsNi1BVXlYWVF3a21uYS11eVBtUUdsLUVfQk02OERORXRIdEM3ck1ZN24xS0VGb1lWX0E?oc=5",
+   "time": "2026-11-15T14:45:58+00:00",
+   "cat": "ব্যবসা",
+   "lang": "en"
+  },
   {
    "title": "Rampurhat: Two meat shops on Chhath route ordered shut for 2 days",
    "source": "The Indian Express",
@@ -74,7 +162,7 @@
    "lang": "en"
   },
   {
-   "title": "‘Party men’ kill Bengal BJP leader’s husband, MLA questions administration",
+   "title": "‘Party men kill’ Bengal BJP leader’s husband, MLA questions administration",
    "source": "The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkhzclVwMEZxb290bnl0aURsR1czdmhsWUhWd3dZX05WYlFTSDdJc3R5d3FlaW9NSmZBdExoYmlwa1ZLMWhsazdTZ1lkZklIVHpvaWxUNjBsaVdqWnR1eklNaWZOVS1DSy1aOGRsVDRhNkhrbUFpV0pxM0FDRTRqdUE2WEc0QURkLVR2RnJxYlFlaHdRblJXLUoyQkhkbTlGeWowaVNObE1zTkHSAbIBQVVfeXFMT1VEWmhmLXk2UXNpcWNjS0EySnJYcmdKbjhQSTViRW9uajlKRnJtVkJUbXNCY21wdGcyM2tZd1RiOVBKUFZSVzVHTjdvQ3Q4S296UDE4dktxVEc1QWgxcmU4WnhUckh2cDhvWWREREdRR0RaSktxNTliWFUwOWdwaW1WWENUS0RQTU1GNHZjTGxMUUFkRHFEcnFzQ1dOWkFCWFdhdDZSOG9EaEp3TloyV0ZUZw?oc=5",
    "time": "2026-11-15T13:47:20+00:00",
@@ -210,7 +298,7 @@
    "lang": "en"
   },
   {
-   "title": "Kolkata | Akashvani News",
+   "title": "Kolkata-Sairang Express derails at Digaru station in Assam",
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3dIUzdyMGxXWTZ0SlFQQXNFYmluZFVNTWtWSFQ2WWVmbW9lYmhlcnFLQ0thWHYwd2ZUNHh6REJnWDQ4RjVrQkhKSFdxZjVNckhXanVEQS1DaG11REJxWG9ENUxkTVNOcWxxalFkbzNBU3lDWWNvMlhhWXFsMDV0aVlmOG5KblBjaTJ1dg?oc=5",
    "time": "2026-11-15T12:00:40+00:00",
@@ -227,7 +315,7 @@
   },
   {
    "title": "Suryakumar Yadav: মাটিতে বসে মটন-রুটি খেলেন সূর্যকুমার যাদব! কলকাতার খাবার খেয়ে বাংলায় কী বললেন বিশ্বকাপজয়ী অধিনায়ক?",
-   "source": "News18",
+   "source": "News18 Bengali",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenlocENyYmZrb0R3a3Y3WkNoOVBsS2lkblNQMVBlcUVfQWFSU1ZDS3pnY2Y4RWFaUjQ3dVFPWFc4c3daZnlQNHBGZUVySEdiTDBGNU9ZSmxDWWVMM1l4Q3FVMzVjeXpjNktkN3VaUWFRRURPRC05WkVWdUt6T1JxTUthcUxTcENiYXc4al9ESGhqb0dTbjg1TVVlY3lOVW5fTFJaT29DcEVCckZQcXBmNWx2cWw3VjFBVThWaUNNNmNqZlUx?oc=5",
    "time": "2026-11-15T11:45:00+00:00",
    "cat": "ব্যবসা",
@@ -298,14 +386,6 @@
    "lang": "en"
   },
   {
-   "title": "Kolkata man kills live-in partner's dogs over breakup, video calls her during crime",
-   "source": "India Today",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWJVaXluOEFXLXlfV2Z4U3NnMHlWcmgtalQ4OTg1ZVdZTGNCdVRTaFNuSHFXemlhQmdqS0x1QTE2MHJYNDF0bUM1WWoydldad0dybzN5OUNtS1JTWndXSHdSbFpabmwwVlNJSWZTMnk3TGFsWmRUV01yTjF6bzZjU216QVlpSXg1TnVfWEJWSk0xN09UanhQUWlmWEtUT2JZWVBLVEFzOGQwLWRCc2xfX2d3V0J4NTAySVJvSWZwWlVBaFB2LXNGOGhobk83M3PSAdQBQVVfeXFMTlZ4MlM4SGswYnE5c1RiWEdjc0lRZm0xT0djcEliM213RFA5Q0oyNWlORHk1RFptOUF0YUlna2JEMVFHTVQ4ZlcwU2JYSUpHOWFjUTZrQ3hZaUxuTFZvVFQ1SUxnOEVEMHpwWXREbFY0bExZNFFHSU9pZG9zUmM2Mm9RVGJnMmhZcFVFNXB5MEM5NFRUeV9SLTJTTmNIZWhucjRPdlI4d2dPVVJtYmlLNGo3Z3V4YkVWRDdHejJiRTFXX0h2TmdYc3p0SDNaU1lfWjI2Vmg?oc=5",
-   "time": "2026-11-15T10:40:46+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
    "title": "কলকাতায় ছটপুজো উপলক্ষে তৈরি হচ্ছে ঠেকুয়া",
    "source": "Ei Samay",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDkyTnlqOU5nUWF3cXFjdllyczc2cXpoSmVLQVU0V1Z6YXlSeXVjMkVkbE9heHFCOXNvN1JZbHRvV01EQkxkRE5HVHl5Q0xkZzlNdFRsdzVsS1ZzZTUxeDVTbWFRdjhYQVNuMlYxV1cyMFFBcnM4cnFTRk9Ka1JrTm10U2pRRXgxQjZBQ3V5dWEzWEswMXBQWjhkQ3VockNkUWl5RnN1WGtGX1hOcGlJanBTNGVpQTJ4c1HSAccBQVVfeXFMTXowX1JIelMwY2dILW9rUkZpX2hUQ3Vvbl96S0stVmR1XzZ4MDhXV19XRGpxa3l5Q01ILXRKV18zT0ZwTWlYN1hQSTBZMTExclV4Q04wajJ3RjdycFFRTHpvbHdFcUZoV05aUC1FQ0MwQmhpX1dvcTJETk90YUVabzN1NnpSWklYWTZLRi1YSGRiQ2VqRkItVl9EejJGZ2JlNzNreHIzQnE4cU10Y0dsdjNpaWhkSDNIMUdpYTBoOERzUGE1S056QQ?oc=5",
@@ -323,7 +403,7 @@
   },
   {
    "title": "CPIM: পুস্তকই হাতিয়ার... বাড়ি বাড়ি 'বই' নিয়ে প্রচারে বামেরা! পাড়ায়-পাড়ায়, ঘরে ঘরে পৌঁছে যাচ্ছেন কর্মী সমর্থক",
-   "source": "News18",
+   "source": "News18 Bengali",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEFodE1yeUNOblJfN1pqZ0NocTEzeW1QejRWYzRPWGFZeDZuWjZuaWhxOTNFcmNMT01tcUZlLTRFRGlJeDBaV1l6YWNvVmxnR2pOQzlHQUhVT3FuSHpJRTJUSDUzQmlkeG83VjZyVXVDVDZkMUNpWWIwZGNrSEg0STBQS085WXB6dUU0QnJ5cTZhUW5xdkpkOFFoVTJjOG12blFDMHR3?oc=5",
    "time": "2026-11-15T10:24:00+00:00",
    "cat": "সংস্কৃতি",
@@ -352,14 +432,6 @@
    "time": "2026-11-15T10:03:15+00:00",
    "cat": "শীর্ষ",
    "lang": "bn"
-  },
-  {
-   "title": "Adam Port made his Kolkata debut with a Saturday night musical bash at Biswa Bangla Mela Prangan Auditorium",
-   "source": "t2ONLINE",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdThtdTJLUk83cUctekMwdEdpeDlrSWxnbEEyZnJ6X3Y3aHZNZndTMVZfRjUyUHVVTWdpNEdxdzhtdndScC1RdUN1Wl9uSWdDWDkzRWtxb0wxYklLZXdGTUIwT2pnVWd0d3JNSHVYeVNjb3hIdXBxRGNKQm9uZ2xZS1p6cnliT05VVjlUTFNyTUFwc3pHbjV5VlhQU1dFekVyeUxBQTZOeFUxY20wZ2dHOUdsdzJvTFRhdGxlMGpVc3BFeGZPR3hDLXgySC05VzV6eEZUdFFFZFh4NlU4UFZGLS1mdWsxdw?oc=5",
-   "time": "2026-11-15T10:02:22+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
   },
   {
    "title": "সবিস্তারে: https://tinyurl.com/msstauzc #CycloneAkhvan #WeatherUpdate #Zee24Ghanta",
@@ -406,7 +478,7 @@
    "source": "The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnVYT0JFMXVGek9qNUkza2l1dzlqX0ZqUG5zODEzMjhCM05ETXJoNXhSTFZBcGx0aEN2Uy1oLUx5dUthQzhWdkxWeXJKRVYta21oWTBhT1ExNWlVQk53SjRwcllTLXNhLTI5UkVmbVNtMFMwYjd5cjhYWkdwMWFuMllud1NCR2h0Vkx6VUVFWjZuWk90SjZFSl83WGZPUFdwMHBTUy1rYUlkRWRXOHRTRU9tbS14Ml9SUjlGbnJ4c1NRcFNk0gHLAUFVX3lxTE5hZjE2TklJaVkxX0xFN2ptNnJrdWNwZlpDNVg3YkRMNmdWZ0VReExlNDR2TGtIQU5nY18yTVRKMGNfckpIWERsNVhJQnFlTnI4OTlzZmMxN1VrLUZ3XzR2MHF2Vm5EcGZWb2g0LWxDYWxnWnJxRXpIMVZJaUtfdWRXSENranBpd1pyRnViUUtqb0ctUTBoLVl6SjRlU09ldmdVVkRmbXY3endjMnExQkpPTzA5dE93RUx1NFZaVVpoS1N5U2FRbEZnRUFv?oc=5",
    "time": "2026-11-15T08:59:20+00:00",
-   "cat": "শীর্ষ",
+   "cat": "ব্যবসা",
    "lang": "en"
   },
   {
@@ -418,27 +490,11 @@
    "lang": "bn"
   },
   {
-   "title": "Kolkata man kills ex-partner's two pet dogs, streams horror on Facebook Live",
-   "source": "Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVNhbUN1TE5ncFZaWUt5ZlZFeHZoVUowNDdPS3MwcTVCYmF6Yldoa2JKVnFJallLblpuc19HV1Q4ZTU4Zk1ORWlsYlMtM0VrN0RhUllpSHZJSm81MVJZOWdDcFNCQ2ctX2lMSW1OakRramkzLXBWZ0NsRmwyUU8tQk9GdmtRUm5GZlVLREFSU3FOa1A4V2hPa284QWdDcUdDbDFqSl84TTFZOTJUbkVnU0FFOVR3M0dHWUhMZm50bkhjU1BRU2hQd9IBzgFBVV95cUxOVnhfT0tRLXFYa2ZQSUkwX0pxbjh5V1lsR3NDV1k2Q0dPczdRU2xHQ1RsX0dHTEhFLVI0YVN5cVAyYWZFOUR2VDBuS1MxSWxSRUtxNDYtRUZWckFfZk1oOWlIc1BVUEJLNXVpMUowTGVRYzYwUU5kLVdSMzI3SlJJU1lPZ1Z4dlk3QmE2NG1oRGhZNXJfaldNZzdkb1ZzQldpNVdUaU81TWZkS282X1FlNEtTU1FvT25CeGFRSVdYOWJ2YjZ3TDh4Q0VPZHdqQQ?oc=5",
-   "time": "2026-11-15T08:48:44+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
    "title": "At Kolkata’s Basanta Cabin, the Hungry Generation’s literary rebels take centre stage again",
    "source": "Telegraph India",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcHlyM3QxWjA4ajJ3aHh0Nk9Ha2RGTG9pY2JlQ2thbElfTU5ORTM4OXRkWlAxamRhRFZrMEdDMGhkTnhPV044VlM2cU54X2ZxZXkwdTVvNk9Cbkh0dExfNmQwdXlzVXpXMm5UOU52SnQyVVBLVExTUFVzMjl1cmJ1QURmZm0yaWEwODE3Rkw0WEs4enpXNUFyZ1NnZTQtX0d0elZxRW83SzVxU0p0MVFuZ0dSTXcxc3hZZ1ZjZFFWbGJMRkFNYU5XeWQ3Q0lfZHNIV1lzbnY4cUNuN2Noc1JqV2hOR0xJQ1Fwd0VVT3BRNUZJd0lQcnU3cDRzdjJBZHVKYWI00gGIAkFVX3lxTE5nNXRoam5DdERvbVVGV1g2R1BGS1dDcERNZHd6MktlY1otZC1CSVJXZ19nbUZkcXIza1NVVEFoSTJnNDhLeEV5UUFCYm5jTThlRHBpREExd1ZUQ1MxTk8xTG1oejN3RGh2blN3OXNPOWVOUTc5Y0RZWEJCUmRodHRpQ0xTTC1qbjZaSkZURE4tb0tOVTJNdUhCV0xjMHJacUF2amlqcGo0NDB6T3h2Z2xySFphSDMzQm1WSEZPWHJJLUthcWMwRUxrczAzU3J0YWRCVnRWSGxPVDUzUDNqcVBvS05RVzFocmV4eTR6aEo4ZERFVU5MUHVZSWNtZGMxeVBoZDdrbHJoRg?oc=5",
    "time": "2026-11-15T08:36:39+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Kolkata man arrested for killing ex-partner's 2 pet dogs | Tap to know more | Inshorts",
-   "source": "Inshorts",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHFoMTVzSnlFOTFuOEZDQjFFLVZjQnotSVBaVFFWNE1acWpXZVJhYW1BY2FqalNhczVNbFlQY2gwZWxrTE1KQ3BCclRBbjY1Y2hTdnE5UnAwNWhqdS15RVo5T1lkUE5nV2sxT0dzOFlzazV4ckhuQnR2amZDSGs4WWJTSE1LQ3JsMGJ3ZklpNjdZdC10VDZEN2pXbmN1M2920gGmAUFVX3lxTE5wOTZxNDlhNHJ0RlNpelQ5ekkxVWdHU3NLNnk3S2ljbVNDTkNUbVZFMnIzNGRDOTJZRmZkTjRnRnktUjFBdXhmN1gzN1h6QWxDU3JFZUZuR2R1SlpoN0w0bnhRWFp5QmFyVnFRUnpuOGt1OVVkQXR4YmIzQXVEdzJjYUhMckR1N2wtV2lxT0FDQUUyT0JqbU1iQWZ0c01USG12RFQtR1E?oc=5",
-   "time": "2026-11-15T08:33:20+00:00",
-   "cat": "শীর্ষ",
+   "cat": "সংস্কৃতি",
    "lang": "en"
   },
   {
@@ -502,7 +558,7 @@
    "source": "News18 Bengali",
    "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPV0pmUDN5MXF6cVFjUW92M1hicWhjbG4xNmN2UTE3TnZEOG45UVB0S090LUZGWUw5b0JRcjIwc2dheDJxUWZwMnlnWHpHMXMySUxteWh2Tnd2eFRHeVpHUzJUT2wyOUNHUjk5WVczLVU2dFFwSW5NT28xX3FiS2hTTjh3N0dqT2RqZ1FtdGNSOWVaLUhjd1JSSjMySjJMMVkxVU1BLWp6cTAwRGZKaUhzZG5mU3UxblNnUFJ3R2hGV0RaUFlOcTV3WkhIbXhIMTZaT1A5NjBfQnBwRDNKOXgzX2JRZUxLTEJNTzFJWjhoMnJFU25IM1VObnlwZTFNM2JSVk9meHNmdzZCUVhZSXFLRFpWQllIS0UzZkNzT255ZzZtUGVHb25jN2hSSUlZTU5BeUgtVVVybzlrS3Y5SGN2ZElkTnR5QlNfaUp3WmdGRWdwSkpGUFFhWWlUcDJfSzlpWmdfaUJsQ3FZMHd4VzViLXNYam0?oc=5",
    "time": "2026-11-15T07:02:00+00:00",
-   "cat": "আবহাওয়া",
+   "cat": "ব্যবসা",
    "lang": "bn"
   },
   {
@@ -586,14 +642,6 @@
    "lang": "bn"
   },
   {
-   "title": "সবিস্তারে পড়ুন https://tinyurl.com/ytw5up8a লিঙ্কে ক্লিক করে #ChhatPuja #Kolkata #ChhatPujaScurity",
-   "source": "Facebook",
-   "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPOENHd3d6ZHFSN2pPRk43TTRjazg4bmFnTDlUNUtUUlBRNVZuempKZUhfRXBRaXQxZ2ZHUklKWlU1WURHQy02X2Q5YjVwVDlCRVZyVUhvSmRCc0lNQXQ0b1hCSWlHU1hmRFI5bDIxOGN6cy1XRDZyLU9SWjBwZ0l4dWFTeDE0MElBeml1cHBRZ2FLa3ZCbG1VcmpwWS1mR3dPNEVfNFU0OGw4NTdEcEhLbndfcms4LVBjaHduRHZmNF9GS29wM2lUVTFnR3J6S2doWnNkT1JBRklTVjlUSDYzcFlqdk9ZZ2tVZjc2OGdXbHJXbmJLMllRWUZoQ2FsMTlfeGVhelYtQXZ6TVhGQXZwaU9yakRuYW5QdFhvby1RMXR1bFJpd1NEeDVGN2JpcDJlNkhBZHRVUlctS0h6WG5iaFAwVVJsUGt5dXlZOEtoelkwdnJkaFJvakhxUDUteE5tWGhvZkRDQlhEazNoOFExbVVtLVRfeUZFYWprNVduOE9JT0s0S25oU0hIOENHTTZDRFgxZFBKNHhROE41NW02U3lDeHFvNm1CdlBzYUc4SUkzRktQMlcyU1FnMktrekRhdWEzS3kzNkRKSGRGRU1wUF9aOU05RW5HSDFfMEg0MHBCdGFXcDNxVkZHYnVqVnda?oc=5",
-   "time": "2026-11-15T05:54:45+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
    "title": "Bengal Weekly Weather Alert: সোমবারই নতুন ঘূর্ণিঝড়ের সম্ভাবনা, ফের দুর্যোগ বাংলায়, কোন কোন জেলায় বৃষ্টি?",
    "source": "AajTak Bangla",
    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQZ3N3M05STkFsNUtDZ1B1cDZBS3lld0NQem1KbWRSQjBNZGhDbzlXT25kbkdERVJFQWZBbjlyMU13ZTNCYmVsZkY1YjdRWmgxVl8yOFZtOTBXaC02WVUzamtqMkdya05XSTM5ZE5peUVNcWFZRlVsTUFGRVEySlRyckVZeDRLWDhTSkJFRkdiNHl2WExEWDB6c1R5RWRjN1MyY3RVQUJJSGpOLWh1VDM1T1ZNQjdiUkVfWlY5cWw5OC13YVpCaVQtMWotNFIxRUNNenlOVlVtNFlXcURsVDBHVkE5WHB3cFlWaThUcWdYdWFDYnNWSlNsN2FPRTJhdVJMS0o4OEZ4RVRMRlNVd3hEVkNsc2JmX2NSbW81UTNnRGxvQ1FOWl840gGsAkFVX3lxTE1BUDhOdG0wSWRaTG8tdFVDdGx6cnNLeWpOSURJaFhhc01VVnRQdmpvMXNZV2tBbUpNa05NQWM1aElxMjRScE50YWpRX3JRczJNUjRWb2FXVTdZbUpSM1E3TjNNOE5TajMydVMwN2s5am5ZbW50UVlXZF84UFctWk1EaXhpVmRsOXZ2OXpqRmN5Mzk0WlRvOUEyMTl5SzZLdldfWERGckJkSTh1LThvY01zYXl2WVZHNnlXT3lteFAzc1E2eWdITmUwWG1QN0xEQ1cxejRSVTh2ZEN2aUJ3ZFpiSjBVcDdSMjNlRkFnVDNKTUt5VHRQS2NnZTdsb1Jic2l6Q2w5bVdfUU1VSS1WV21sZG90WHhFS3JneTRFMk9pUEl0RFNkYl9obkc4Sw?oc=5",
@@ -618,14 +666,6 @@
    "lang": "bn"
   },
   {
-   "title": "GSI puts Lonar meteorite crater on global geological heritage map",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaUl1N2E4LVhqZDNrQTVJZHF3UTZFZ08tQ29VaUVLbnlMNFhzYjV6QlVjeXEwbDZiUXpiX2hiNy1oRUhlVFZNMWZBTlM2aW55MkhtTHR4bzY5Zk4tWVZvMDY1VVNKQTJaSDlRM3dXekxJWWlsNU1HR1NJbjV4QzBDclIwUU1ZTmxITU85QVFiaVY4VU5Mbm0zQmljWHZrWTZ5SUZ6Um54X0lLQjVQODRJSTJ3SkpPV1NtY0FvUEJ2bUFNd0hralJBYkJ1OTNMYVVoQnMzUlNCVdIB3AFBVV95cUxPRTFJN3lSVnA3TFEtdWFESW1mdTUyVzl3czJ2MVlyaFg1NjV1c2ZtVHhvTHlWM1laMmtjLS1TUS12NHVYT29YdXVlX01DQ3NMMTVYNmpNc1J4eGx3d0REbnJfOTBEWHNYSWZNdGxEam9Eb1FEQm5BbUZQSmlOTDlCbjBHamFpN0x5bXlRUWxmQWg0dWJ0R1p4Vkc4Z1RrUVpMX1ZlX3hMUzNGRURJUXBEbjRESlVaOTNlVkJOUDJlZ3JONjRQU2xHRDdzUFBIN25ueEMwNXJuWEREZkRh?oc=5",
-   "time": "2026-11-15T05:01:00+00:00",
-   "cat": "শহর",
-   "lang": "en"
-  },
-  {
    "title": "ফের নিম্নচাপের ভ্রুকুটি বঙ্গোপসাগরে, কোন কোন জেলায় বৃষ্টির পূর্বাভাস?",
    "source": "Ei Samay",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS2hCVHhNOGFWNjBVRU04UGxITHFwMnZndFo1NnZrSi1qcDNfa05yc3JYRFFPQnMwUnZhcHUtM3dTb0VXRkdsWVBZbEdVaE85TzFtS25aNnBqSGZkbGlEeHkxVGlUbzdsWmJlTzBpTldGRTdyZWNjWkRmbU5mOXZlNjJjbXRDd1BDWU9vanFqMU0tYllVT2NuYmVIZ1U4dDJ2ZzNxNC1QMDZmRzVtejNLN09tMU8tZjNRMmtucWpiajFHNGkt0gHSAUFVX3lxTE5FWGpUaUlWYVVhYUlUMzBPZ3pHTmFaeXRMVGFBRkVkMGVPZVlhTFNHOUQ2TDFCd1h3aHJLRmJEaUxUZkF1RUIxODZNUkRDR01nTHhvMDY0OG1HZGFwc2ZxOC1COVpValNjbUxoRFM4b2VFZ2pWdFJHM0FNUE1XV2VDLVdpbVBYSU50SnZ1eVNHUVYtcjRQV2ZfVkVOV2pubG5NWjJHMFowWXNXdFZKbm00cW9NNTZLTTFVS2tBamNEUi1GdkNqMXNoTkItRVpqa1RBQQ?oc=5",
@@ -648,6 +688,14 @@
    "time": "2026-11-15T04:07:12+00:00",
    "cat": "ব্যবসা",
    "lang": "en"
+  },
+  {
+   "title": "হাজার ফুটের মধ্যে মদের দোকান নয়, আইসিডিএস কেন্দ্রও গণ্য হবে শিক্ষাপ্রতিষ্ঠান হিসেবে, জানাল হাইকোর্ট",
+   "source": "Ei Samay",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTy1vZnpmTEJGQkoySW1oNmdSdl8yWHZxWmltVlgybFZUbS1XekNqeFYzNkx5UjNLcGlMLVlReGNhMWVjaWJYSEkxMTN0TlRhblBoTXlyVlo3a0lldWF0aWw1LWkzd1VuQ25Za3h2aFpOQUVHMDk1TFhCS1RrenhackxxZmMzOThOd0dSNlg4bTBRa19VMFFJSzNtLUVPaXc3QjVzdllhMW5ZSlU5VzdjRk9KZGtrdXlINnVwOE1MN3lENDVaWUlyQWZ30gHXAUFVX3lxTFBYZFk0ZU4yT0lBdHJ0R2hJd1pPWXFBZUREeEpuYTNsRk9kRzNzcllsazF1Rzh4NHFWUHVzYXRHS0Y2Mk15czI2S1J3OHk3THFVM3hzRFJpSXFyZTc4Vm9FclJ1dXdpa0lUYUdhd0R2S1ZEelZkazlIY3dmMGI4QkE5OFZHVmdrQWUxN0NxZldSWVlNbU05U0puRnpPeUZHTWNiY1BRVVl1MXNvM0ZpWnZoUWJPdG5CcVVnLUFhLVcxUUhCUEZ1NC1ZM1dOLUFDN3ZzR3BHTFpr?oc=5",
+   "time": "2026-11-15T04:05:35+00:00",
+   "cat": "ব্যবসা",
+   "lang": "bn"
   },
   {
    "title": "Kolkata content creator earns Rs 3.06 lakh from just 5 brand deals in October, reveals why she chose fewe",
@@ -738,14 +786,6 @@
    "lang": "bn"
   },
   {
-   "title": "ছুটে আসছে ঘুর্ণিঝড়! আজ থেকেই কি বৃষ্টি শুরু বাংলায়? চলতি সপ্তাহেই জাঁকিয়ে শীত রাজ্যে",
-   "source": "Asianet News Bangla",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZWN5dW9keU0zQTduREZIelF0U05KZVZnRmxldWJqQTZnSFJ4V2dFQ1NtUVhwYTM0ODZNeFlLNC1jZUk3VlRDMTNQc21sQlFzOWtQS0ZUbVdndHphWW1wYUxzZ1NjbHpnNVRPb0NLejVxN0xFZXlLR0pZdVhDVjF0ajMtcFJBUHRNVUJDTl9nRTJkbEVQeUgzakxZMVhxRkZGZ2lzbUhiXzFtTy0wd0tUUTFFTGtFNzIzS3FBZzUzdXNld0xQTS1qUnYzNnFTR0g0VTU0UU80dTV1UHotMGdtTGdBc25SLUZmZS1ySnRqMUM1WVY1dWtEQTFsR0YzLUpaZ25MeWI4amdXZ9IBjwJBVV95cUxQTVpoOEdJcUl2cW44Tk03ZXdtb0p3TmJiYncybzA4QXFYMDBGTGg1dnI0Vi1ZYkFtdVhsek1tRDV3QVppYTYybFFYYTZvWDJxS19HNE1KQ3NxR0pxWXpsTkZSSzlLZTI3ajV1SG9TMHRNRlFiWWZ5XzVQM1RBei1XbkoweXhsRGljM0gxUFVuVEF0cWpPMFRsZzdIN1ktQmJBa1R1NjZ2WkpGaUxuYzN3UGtHenRKZjFPT0t6dlQ1d2k0RjlZX2RoTU1xbURKU2p5TGxkUGxBUVVkX0ZwNk41b194N25YU3E4c0Y3czV6cGFmaFRnbnFYajgtOHJKNGh6TXJNU3YyTDNydUJUemp3?oc=5",
-   "time": "2026-11-15T01:36:35+00:00",
-   "cat": "আবহাওয়া",
-   "lang": "bn"
-  },
-  {
    "title": "Chhath Puja 2026: ছটপুজোয় শুরু সূর্যদেবের আরাধনা, প্রস্তুত গঙ্গার বিভিন্ন ঘাটগুলি, নিষেধাজ্ঞা",
    "source": "ABP Ananda",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXl2b25GZHFPRjBfeW5LdDRyWFZqS1BvbkNaTnR1X19zWkxrNzFqekdXT2hncl9namZrTHdwdE0tWkxKNU5XYUpYMFA4emh6aEhWa1VLUFF2dWJSd2FOX0lsNVo4VW9XbzFRQVlpdnlxLWw4bUFSWVFfLWJZbkViNDVRUVUxOTBhVHpNaElKUEFGN1p6Z0dqbnZGNkJNSE1jakNiNVNEMmtfbjdVeTBqVEk5Z9IBuAFBVV95cUxOdGRiYko2clc2d0tWU0UxTzVXMnUwSHE3Wnh3Q0VzR1BONk9RMGZkTi1uN3NGdThYZlhWMjZxbGZKU0twRmRZckVnNnZ0Tnl6NjhnR3ZSUWQ2QUR3bDRadHdhVTU4M0dEYzlkS0NQeXZKV3h2M1lKdGdkajMxTUYzNExBaE05emJjcDhlcVNjRDZQV2VVVWVfa2YxU2tyVExzS3Y0dE5SWnZmRXFCTS1rWk5sN1k0VUtn?oc=5",
@@ -774,7 +814,7 @@
    "source": "The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX0xUYmdjUVpma2NfdlRlWF9uN29JbTlFMHdUd0Q0Q09XeWFvbWkxaVptNkt3MU5qeEMzSFRmS0haak5DQ192NTBNOTFCTXRsOVBwSXFHWGI2M3BVYl9QcFFVLWRMbjdFMUdxS1NrYXFWZmlib2hPeGszMk9sdEF0Yy03VE45SFN0RTJhQkNfM3d4Wkx4Mld1MGZDQi03aHBBX3JlZnAtNkxlUFdMNlZiWjdXVdIBugFBVV95cUxPTlBkWE9XS1hydmpGY1NUa1dfSnByOVFvRE5WXzdoVTlsQk5RUG0tN0szZmtLOFhKbXNBbkVKOWpCNndySXZ2TmNIWTBJdmxiV2xTamhNd2o3eWpiTjhVYm9VaU8wRUxQOWtCMFhKQ0J1RlhudlVjeDktMmVXNjZ1Z1ZpWTZKRUxPNkZydFFvOS1nQUZOMW14WjgwMXZrLTJtelQxUG16YTNKYVc3MTltczhoaWRSNkxuYkE?oc=5",
    "time": "2026-11-14T22:51:00+00:00",
-   "cat": "ব্যবসা",
+   "cat": "সংস্কৃতি",
    "lang": "en"
   },
   {
@@ -822,14 +862,6 @@
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTm8yTDlGNi1qanNySFJRWGFMLW9OR1JnQkhmYk9tN2lxeXZjUkZfcXgyRTV5T2hyTmdrdldPb0xlR2RVV0NpMzB5bS1xR05JU3otZGtuLUViNE41enlyWjBNUmNuWU56MXJwTXlmTUhwTXkwSllBRWxuaEhZQUJDNFpQN19SV0Y0cHRYV3RHWkxIOExEakE3YjJlY0lWSXpVRkJWeFQ0M2d2dXowR2lOVENn0gG3AUFVX3lxTE5GTzdaalEtWFF4LVRyc3pzRFU1ZjFKbW9TUEpCWS10NzhhamxrZFZzQnRvNUZUQzZGbF80bDNQNnJSOVRwdUZaRU43aUYtRl9DU3V4X0xnaGlxQUZvS25MRWdwLS1wZUM3ajNGREdHZjJOa19ZX0dkVWYxY0x0WE5nT1BNM3FILVJEZHhpbU51dF9IM3dHUUw1SkJXVWNiVC1Yd2tKZFNDWEU0SGFCOHBwSkhrRTV3TQ?oc=5",
    "time": "2026-11-14T20:17:00+00:00",
-   "cat": "সংস্কৃতি",
-   "lang": "en"
-  },
-  {
-   "title": "AI tools guide students’ learning",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2U3ZF80alRqNDlEQjdKZ0JjLVQxV1JtQk9pZy1Xc25lcU16N3ZIWmJ2WS1jTG1keDlvX2xIbWIxMkthWVJ4NDl3MklGNy1tV1lPWUpLVkc5WWdLOEM5Z2c3Sjlid1RRM0N2cl9tTlgzQlRWR1dJaUJTazRYX1Y5d2UtYUJLOFNTYXE5QUJhR0pVMUt3bzJJWjdLaUJ6ZWRPOXltaWp1UTVHTzDSAbABQVVfeXFMTWxSTU1fM0tEX3RXX0VPQlE0ZU1GMWY0OEtUSlV3U2FxQWIzNXdpSUgyeWNma3AwelBteDA2SGZLZkt4bzU3ZVVMVU9XQlZvaEhSM0NxT1dSdmZ4aVJHbGFWakNJY0FVakd0ZFZZNUhYd0tleHpRSTgzUTRpNXl3bjhBdUItS0VaWmFiM21BcmJqRGtUZXV3S0J6TUdHUlBOMWJzbHhfOW1DMmxHd0g4Q28?oc=5",
-   "time": "2026-11-14T20:04:00+00:00",
    "cat": "সংস্কৃতি",
    "lang": "en"
   },
@@ -1042,20 +1074,20 @@
    "lang": "bn"
   },
   {
-   "title": "\"Rassi jal gayi, par bal nahi gaya\": Sukanta Majumdar targets TMC over Abhishek Banerjee's police summons",
-   "source": "Big News Network.com",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZXo1QnVhS0VGaF81a1cwbkd0ZVJYMEdwRlo4X25XQ0NhUWV0LTNYUVc4OEhyYzNIWTIzdm8tMjMtZmVIdE1lV1VQRVlQRHBuTlJQZ012em95ajgtOWNZeVVQUEVSWFpyWDR4V2FBdjBrMjVEaDZ6VFg0SlFYdzdRSnJpaWdOZzVLemJSTDBjQnJJbkpMN2dpYU1TUTVMQXptUTctd3RadnJrLXlWRnVIMkpHY25xTm1XOXJRZ2NxMkljcUJqWHVHUXRnLTlVcGd3VkN0U25mX043STd0ZVE?oc=5",
-   "time": "2026-11-14T14:00:00+00:00",
-   "cat": "শহর",
-   "lang": "en"
-  },
-  {
    "title": "আসছে বছর আর নয়, চোরবাগান প্রসঙ্গ তুলে রাসবাড়ি ঘাটে ছটপুজোয় শর্তসাপেক্ষে অনুমতি হাই কোর্টের",
    "source": "Sangbad Pratidin",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYmRwWmp1VlU4VWZJaXRVbW9vTUp1TW1kbHA5U2tVOG5hUFF2WVZCdTVkN0xnU3o1OEJGMkFGa3l6RGJYRFltWG1pVmNDcXFieXI3cDh4S3hSXzNNSDB4al9QZ2wtYzlPRVphUlE0dnFhZHk2MmJEZWd6RnVtb3NUNUQtRm12bXR6S0pHSmV6d3E4ajZMT1h2bWNtcUQ2TFhWdnQ3a2pVZ1BUZmhPMnh0M2dReWRiX3o1bU1DTmdtNVI0MWlhUFpaWjBqR05jMGFRa1NxbFFUby0yQTZoc1BMetIB4AFBVV95cUxQYmRwWmp1VlU4VWZJaXRVbW9vTUp1TW1kbHA5U2tVOG5hUFF2WVZCdTVkN0xnU3o1OEJGMkFGa3l6RGJYRFltWG1pVmNDcXFieXI3cDh4S3hSXzNNSDB4al9QZ2wtYzlPRVphUlE0dnFhZHk2MmJEZWd6RnVtb3NUNUQtRm12bXR6S0pHSmV6d3E4ajZMT1h2bWNtcUQ2TFhWdnQ3a2pVZ1BUZmhPMnh0M2dReWRiX3o1bU1DTmdtNVI0MWlhUFpaWjBqR05jMGFRa1NxbFFUby0yQTZoc1BMeg?oc=5",
    "time": "2026-11-14T13:17:20+00:00",
    "cat": "সংস্কৃতি",
    "lang": "bn"
+  },
+  {
+   "title": "SpiceJet Adds 22 Special Flights for Durga Puja",
+   "source": "https://safariindia.com/",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtMGNXaVlqdkRhM21SLUp1VEpGUG9aWXZVVEgxMjc5ZVQ4MEhmSmJXbW84S3kyd0NVandMWUFsMnlqNkxETmFEbDlpMkx2eHJEV0FCZWQ0eFVfanZRN2JXNmhPZGt1RmtfOVZWWnA2V2ZJMjZSNjdlRVJnOHU?oc=5",
+   "time": "2026-11-14T13:07:28+00:00",
+   "cat": "সংস্কৃতি",
+   "lang": "en"
   },
   {
    "title": "More rain in store for Kolkata: Met predicts cyclone on November 19, 20",
@@ -1316,7 +1348,7 @@
   {
    "title": "বয়স ১০৭, ব্রিটিশ আমলের টালার পাইপ মেরামতি এখন চ্যালেঞ্জ পুরসভার",
    "source": "Sangbad Pratidin",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNekQyQW1vM09lRDBxdUYycjliaDNodGxhakNGQmJjWERtZy1TR0xaalJRaXYzQnBqckE5Xzd2NTB1S0libVJNM3ppUEU2TGl5dzdoOHpMR0ljT09zTm4xYzVwNG5XTXVNY0F4ejFRUlZpcnlJWVBpVUVVM1JBX1dmUnE1cFVHcllIdmI5dERlUDFwTThkUkN4Q3NmMktEWHJENUNTMmtwTDZ0bHhJRVHSAa4BQVVfeXFMTXpEMkFtbzNPZUQwcXVGMnI5YmgzaHRsYWpDRkJiY1hEbWctU0dMWmpSUWl2M0JwanJBOV83djUwdUtJYm1STTN6aVBFNkxpeXc3aDh6TEdJY09Pc05uMWM1cDRuV011TWNBeHoxUVJWaXJ5SVlQaVVFVTNSQV9XZlJxNXBVR3JZSHZiOXREZVAxcE04ZFJDeENzZjJLRFhyRDVDUzJrcEw2dGx4SUVR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSG9QeTZnY2MtUUs3ZEZWcXluX1g4bXYxVGlYUGpoZG9uLWY5ekEzb1BDelJvQTFOZHRpdU5EMjFLOEhuV2Zvbnd4YXZoTldpYlQxT1lNR0ZUZml3cnFCbk51NVo3dk84XzlKRE81WEczMVVWX1pNR3FTZzFKVUMtek5udWdMSkViNDZyemwyWFA5djZISUd4Q3p6TjlXT1Y0d0V3UVVTMy13dXlFdWpZWVB30gG6AUFVX3lxTFA3bjdVRTBNbmhkU19JZmwzTjBPRlV6S2xOeUU4TTVURUdYVk91TW9tX2txV084YTVSUVFyMV9kVkR5UDVGbHRQOTRYdk1NN0NtRWUyeVh1NWcxUnJpSXBsemJVcDVYblNYSjNVLVBnWHkzbFBHRU1lWDQ2VHNybFlDUUtlOENyZ25ZTnpJSXVUTjEySTJkNzZDS1NZZk83Vlo1NEJzX2poampfVHBmdWh5RUVPSVdxdWsyZw?oc=5",
    "time": "2026-11-14T06:22:53+00:00",
    "cat": "শহর",
    "lang": "bn"
@@ -1359,14 +1391,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPS1RxVUk5OEt1QkxON2JXbHlyRHNoQnloOUtDOGlvOWExd3NYU3V0LUQzbjRCM3Z4a3RYU21oMDNWanRRSHVpbHR1VHNvMkt2VGo0cGNsaVRQOEs0WndPbThlWGdaei1mcEZQNTVORWxJQlo3dEc0R1FXTmdvY2tJRmgzRFB6b3hOQU01MnBncjFkZ1lBdG5zTk52ZEx1clhyZDE4eF9XSHo0R1c3VjMzc2paZjUwUk5fcGRYY003TXF1OUtCeExlM0JwNElxQWJJclZ2ZGJYc0tHYUE4bUgxdGhYZEJnV1NnMHhXRFpMSGNiU0V5dmNvTTVzLVprQ2c4NGVUV1J2R0lkaVczWmhMc3RHSmxrZw?oc=5",
    "time": "2026-11-14T05:31:00+00:00",
    "cat": "ব্যবসা",
-   "lang": "bn"
-  },
-  {
-   "title": "বঙ্গোপসাগরে ফের ঘূর্ণিঝড়ের চোখরাঙানি! দক্ষিণবঙ্গে বৃষ্টি, নামবে পারদও, শীত এল বলে",
-   "source": "TheWall",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd0NlMFdfTlNZS1BJd3dqNjN1VmlVY1daRkYyTDM2UWwzOGo5LXNiMXRURkFBUTBpVXlldDhGRDlwbTVSSFdqQXFxWE5JTENYZU1icGg4OFBteDNKTnZJX2xTZi1MLVZaTkp0bWVicWNvMnBIdUE0Q0c3a3BwcHV5RE9fNWlmcWFmYnVsb1liUkdLUDJyZnE1MjFWTTZPRnlxcHh6QzNHZVNVajRDWGRVRVJ2cEVNTXRaNEVKbW43NlgzSDBYUmo3a3QzQlVzT0g1b2JkWXNkd01EZzDSAdsBQVVfeXFMTXdDZTBXX05TWUtQSXd3ajYzdVZpVWNXWkZGMkwzNlFsMzhqOS1zYjF0VEZBQVEwaVV5ZXQ4RkQ5cG01UkhXakFxcVhOSUxDWGVNYnBoODhQbXgzSk52SV9sU2YtTC1WWk5KdG1lYnFjbzJwSHVBNENHN2twcHB1eURPXzVpZnFhZmJ1bG9ZYlJHS1AycmZxNTIxVk02T0Z5cXB4ekMzR2VTVWo0Q1hkVUVSdnBFTU10WjRFSm1uNzZYM0gwWFJqN2t0M0JVc09INW9iZFlzZHdNRGcw?oc=5",
-   "time": "2026-11-14T05:27:51+00:00",
-   "cat": "আবহাওয়া",
    "lang": "bn"
   },
   {
@@ -1634,14 +1658,6 @@
    "lang": "en"
   },
   {
-   "title": "'WhatsApp video call still active': Class 12 boy dies by suicide during video call with girlfriend; girl",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOME5ielR6NFlaeFM5ZWdFRkRlZXF1R216a0RQNFVqb3FfajBKcFdmMGotN21VRWtEVldQTGx4Q04wWlN5SGRGdndpNmxsZFZMY2lreUhKSWlza0VTdERBVVdQOGhYSmdZaU9CYjhSN3lFV0pkejczdndPMUlyOEtONER3QU5wUW5qMF96LVZUMGlDWmR5V1pRSnQ4UUtqRzREamJ3MUUzNWF6cHBwb3lSYmNJeXdVcVRqU3BMOUFPUUp5cVlWbVlkaFdkb1lsRVNW0gHWAUFVX3lxTE1Fc0Q1NFBabklINEdJMHRsY25YdDQzMXByamZoX2xtNVBpaU8zSmI1YUEwY2NCcHJLZW05NlpJdllycG5JYmtiYlUtZXpqZFpraFFLc050T21GYWZBR0lGVkJ5V2hTQWNFUnNhX2FreV9YVkZMdGVHTGpnSDI1d0EtU25sRV9KeTZXdGhRamFnM0M2WExLQUVaTnZUUjhyMXJZYW5XRTdfRHpvVVBuUmlrNmRGNTdEb3pnUkdWeWVDRnNxUVk5WVR5bkhNbUtSYks0X3BMZXc?oc=5",
-   "time": "2026-11-13T18:08:00+00:00",
-   "cat": "শহর",
-   "lang": "en"
-  },
-  {
    "title": "জয়পুরের রঙিন পাথরে তৈরি ‘প্রিয়’ মূর্তি কলকাতায়, কীভাবে নির্মাণ, কত সময় লাগল?",
    "source": "Sangbad Pratidin",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWXgxOTZRbE5yVDBsMy1yTEczcUZSM3hyQ3JLRHZ1OWExTGJ3STJtYmNkeFROamFmSHJEZllKTXQ5b1FKRVVXSTlNNGFhdFFsZTkwY1ZNRTR6VTV4T05Pdjh2Vy1qX0NFVkN1RVFQeFYtTlFlaXcwRlZ5ak1qM0JYTVJ4TUZESElKTUd5Tk9tWkN1dXB6QjA2U0RuaDNxX2tOdmpTM2ZjSzMxcjBXUWhYbGNTX1cxbHpycTNEajk1ay1LamRGVVBYYmI4NF9fcS13ZGtJOTlhUTB3cW5YT2c0?oc=5",
@@ -1650,50 +1666,10 @@
    "lang": "bn"
   },
   {
-   "title": "Our govt never put any hurdle in way of people celebrating Durga Puja Suvendu",
-   "source": "The Week",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUGhjVGFuTFQ0Q3JsbS16XzJaSkc0UzVXTi1rSWFiWnVZYXNXUlZPX3I3Nkw4U1pYYjdJUE1GX0JBckU3ZF83S0JEcHBwSEN5SDVyVGd5TE9qTl9YMXVzaDFZaUdHMzVuRXBSYXdON1ZjYkFFekktRUxheFFOa0p1ZDZieHFwWVJRdlVyWmI5ak4yNThtRjZ4RGlyQlhjU2I2b1dsa1JTUnZQUWZlMVFPQWprWkIyY2FZaUk0Ri04OGE5SGtGTXpvWk1XMzg5eW1zdElyZlh6OXBRUdIB2gFBVV95cUxNUGhjVGFuTFQ0Q3JsbS16XzJaSkc0UzVXTi1rSWFiWnVZYXNXUlZPX3I3Nkw4U1pYYjdJUE1GX0JBckU3ZF83S0JEcHBwSEN5SDVyVGd5TE9qTl9YMXVzaDFZaUdHMzVuRXBSYXdON1ZjYkFFekktRUxheFFOa0p1ZDZieHFwWVJRdlVyWmI5ak4yNThtRjZ4RGlyQlhjU2I2b1dsa1JTUnZQUWZlMVFPQWprWkIyY2FZaUk0Ri04OGE5SGtGTXpvWk1XMzg5eW1zdElyZlh6OXBRUQ?oc=5",
-   "time": "2026-11-13T15:49:17+00:00",
-   "cat": "সংস্কৃতি",
-   "lang": "en"
-  },
-  {
    "title": "নবমের ছাত্র সন্দীপের তৈরি দু’ ফুটের জগদ্ধাত্রী প্রতিমা পাড়ি দিচ্ছে কলকাতা",
    "source": "Bartaman Patrika",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGUxYkd2dTFrVWVwUGExbmMwWVBmT1F1RjI5OXBMaHhaeFBVUUc3WG56Z3dwS0tqUUhWaWRBYjREWUZfTnA2MDI5bTk5M19wMmRmWlh3T1JzSkk4Wi1DWlhBUUUzLU5mWklpT0hwSUNfZVFwTEF0dFpkdUtyNExGUGVuRllacjRNaXFUU3UzMDNnVHJ3UWQxVUpNZTNLdXUxdi1LVVo3bHZhYkRaeElpTUdSY29vbGJ2YzU5bGhqdTkwckpPREV3WnBVRQ?oc=5",
    "time": "2026-11-13T15:43:57+00:00",
-   "cat": "ব্যবসা",
-   "lang": "bn"
-  },
-  {
-   "title": "৩ বছরের চ্যালেঞ্জ, রামায়ণ-এর মহাকাব্যিক সেটের নেপথ্যে দুই বাঙালি সুব্রত-অমিত",
-   "source": "Sangbad Pratidin",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM1VSMktqRERfb2U5OFV3REpHX3lxdkd5UW9SYTltS0ZtWGJkTjJ4S1FaTG9JNUtYZlBKbVoyaWJINGpOZGx0aXZuZi13VDRmX0hmU1lXOW9TdWVFQVl6aDhqbFZXaUR4ZE1yaHZHZkRaSk1sVjN1TU1laFZXU2dFaGVKa3J2a0RTeEJxZ1BqbHJJSjE5NjZWcHF4TWZheW53bkZRUFF0UVZvZEU4UENZdTNEeWpUdFBsOHlOQjJsMVVLdzlBSGtwaVh0QzlWekXSAc8BQVVfeXFMTjNVUjJLakREX29lOThVd0RKR195cXZHeVFvUmE5bUtGbVhiZE4yeEtRWkxvSTVLWGZQSm1aMmliSDRqTmRsdGl2bmYtd1Q0Zl9IZlNZVzlvU3VlRUFZemg4amxWV2lEeGRNcmh2R2ZEWkpNbFYzdU1NZWhWV1NnRWhlSmtydmtEU3hCcWdQamxySUoxOTY2VnBxeE1mYXlud25GUVBRdFFWb2RFOFBDWXUzRHlqVHRQbDh5TkIybDFVS3c5QUhrcGlYdEM5VnpF?oc=5",
-   "time": "2026-11-13T15:40:21+00:00",
-   "cat": "ব্যবসা",
-   "lang": "bn"
-  },
-  {
-   "title": "Delhi Sees No Reprieve After Diwali As AQI Near 500; Mumbai, Kolkata, Hyderabad Also Record High Levels",
-   "source": "NDTV Profit",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdDVVVGJob0xtX3NRMkNobjNrQVIxc1BkeVZET2k5emZIOXAzdVFfSnAxLXZyWDBwbWUwX2hQNU5zWUc2TjJKWWYxWlpudDRuczN3WkQ1YjdOU0hqcXlFT3lVX1BDNEtHTHo1NDN3Q284am9nVEwtUV8tOFRkQVJrbG1VUXcwd19pX3JXM0s4S1k3TE1wd18xM2YwOFczcUNlRVVuSThLbmlfeVBYNUpsWnNkellrQlVyUjBSeEE3STFnbGRrbHowTFZDYkFQaTB3N1FlRTFPaEJodzhiSGJnN3hn0gHiAUFVX3lxTFB0NVVUYmhvTG1fc1EyQ2huM2tBUjFzUGR5VkRPaTl6Zkg5cDN1UV9KcDEtdnJYMHBtZTBfaFA1TnNZRzZOMkpZZjFaWm50NG5zM3daRDViN05TSGpxeUVPeVVfUEM0S0dMejU0M3dDbzhqb2dUTC1RXy04VGRBUmtsbVVRdzB3X2lfclczSzhLWTdMTXB3XzEzZjA4VzNxQ2VFVW5JOEtuaV95UFg1Smxac2R6WWtCVXJSMFJ4QTdJMWdsZGtsejBMVkNiQVBpMHc3UWVFMU9oQmh3OGJIYmc3eGc?oc=5",
-   "time": "2026-11-13T15:37:08+00:00",
-   "cat": "ব্যবসা",
-   "lang": "en"
-  },
-  {
-   "title": "কলকাতায় হোটেলে অগ্নিকাণ্ডের মামলায় তিনজনের বিরুদ্ধে অভিযোগপত্র",
-   "source": "Bangla Tribune",
-   "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOeWtkNzJOTDM0Q2RoalltaWtLNzl1SjVfak5HZVJjdnBsNHFiY25BdDNDczQtTDBJRFZNd2VleDdIZ2FmWXNkRGJRaWp6LTVicERLWnNwMXV0ZHR1TGp5eDlZMGN4S1NjUFppdWlCQ1FqZWZQd2FSU3paWWhZRkVzYUljWmRkeGc2SV9EWWY3UlZaU1RWNl9GY1FGcWJRN0QzTkFBbWh4cW03aUhNaVY3M0ExaG9JNEZVcktHVHB0RURXQnFfWmtPaWZJUzM5bHJya2ltNjlLdEhRSW5IcTZzU2ZGTXFjSkE0dkhubS1QSThIdG1GTnk3SzMzVTZScy1iVHFsMGozbXNHRzN0ajV5SFFkRC1PY25hXzg3NjNkR2tSaW4xeDdSLVVtMWdLUXZwbC1FcmZXOURkUU83SG1ieU5PY3RQbnE2Yll6MlJmSEp6Q1AwaU1wN29CS3pnU0o5UnJxem9fSlo3d1VqTkxWOVJGcG55SkRaaWlFZEVOeGIxVGlIWUNieHZMZEpvem80Y0tfTEtrSEREMEVVeUh4bGhHQ2VldHg2RzJrZzZhc3pFVjdZVWhxcl9fSm50akFsemNLalc4bllQUkpPLXlhMk4zOE93ZVB6ZHR6d3ctLTB3UE9qaUh6aG9RdHJCc1VvQkZYRFpKX3BvVlloYkl6SmwxNVpObDE4VVI4VDY0dXFlQTJaUVN2Ml9NN3otcDlJdGszb215eURFb1RvY3U2X3pB0gGyBEFVX3lxTE55a2Q3Mk5MMzRDZGhqWW1pa0s3OXVKNV9qTkdlUmN2cGw0cWJjbkF0M0NzNC1MMElEVk13ZWV4N0hnYWZZc2REYlFpanotNWJwREtac3AxdXRkdHVManl4OVkwY3hLU2NQWml1aUJDUWplZlB3YVJTelpZaFlGRXNhSWNaZGR4ZzZJX0RZZjdSVlpTVFY2X0ZjUUZxYlE3RDNOQUFtaHhxbTdpSE1pVjczQTFob0k0RlVyS0dUcHRFRFdCcV9aa09pZklTMzlscnJraW02OUt0SFFJbkhxNnNTZkZNcWNKQTR2SG5tLVBJOEh0bUZOeTdLMzNVNlJzLWJUcWwwajNtc0dHM3RqNXlIUWRELU9jbmFfODc2M2RHa1JpbjF4N1ItVW0xZ0tRdnBsLUVyZlc5RGRRTzdIbWJ5Tk9jdFBucTZiWXoyUmZISnpDUDBpTXA3b0JLemdTSjlScnF6b19KWjd3VWpOTFY5UkZwbnlKRFppaUVkRU54YjFUaUhZQ2J4dkxkSm96bzRjS19MS2tIREQwRVV5SHhsaEdDZWV0eDZHMmtnNmFzekVWN1lVaHFyX19KbnRqQWx6Y0tqVzhuWVBSSk8teWEyTjM4T3dlUHpkdHp3dy0tMHdQT2ppSHpob1F0ckJzVW9CRlhEWkpfcG9WWWhiSXpKbDE1Wk5sMThVUjhUNjR1cWVBMlpRU3YyX003ei1wOUl0azNvbXl5REVvVG9jdTZfekE?oc=5",
-   "time": "2026-11-13T15:25:22+00:00",
-   "cat": "ব্যবসা",
-   "lang": "bn"
-  },
-  {
-   "title": "শীতের মরসুমে কলকাতায় গানের আসর! শ্রেয়া ঘোষাল থেকে দিলজীত! আর কারা? কবে ও কোথায় অনুষ্ঠান?",
-   "source": "Anandabazar Patrika",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMjl6ZEVyVWhHVWVuWGJPQzJaTEZSSGRIQ0lzWC1UNU5VQXZrTGVlNFN4Z21JMHVfYUpWMEdpOVR4T2RmZEZlcEY4VjJaZ2lTLW1BLXlHZW5uRHBEd3oyWEVJWW5oUWMxMGVnVER4T2lnOE1NZ1FpQVlGNlF2aWttenBiUUFULWxvN3llM0hkWk5VZmlGV3ZDSkVvdUNUZlFPbDk4dWc2NThCMFE5azRJdXBCd2NMOTNLS0RhbkJPWmphTHkweFI3cUwwNzByVDhjNUk0Mmc2Q2RJdGd1b2VxdndNeGpBOVhMYi1KOUJPMkXSAfABQVVfeXFMUDI5emRFclVoR1VlblhiT0MyWkxGUkhkSENJc1gtVDVOVUF2a0xlZTRTeGdtSTB1X2FKVjBHaTlUeE9kZmRGZXBGOFYyWmdpUy1tQS15R2VubkRwRHd6MlhFSVluaFFjMTBlZ1REeE9pZzhNTWdRaUFZRjZRdmlrbXpwYlFBVC1sbzd5ZTNIZFpOVWZpRld2Q0pFb3VDVGZRT2w5OHVnNjU4QjBROWs0SXVwQndjTDkzS0tEYW5CT1pqYUx5MHhSN3FMMDcwclQ4YzVJNDJnNkNkSXRndW9lcXZ3TXhqQTlYTGItSjlCTzJF?oc=5",
-   "time": "2026-11-13T15:09:52+00:00",
    "cat": "ব্যবসা",
    "lang": "bn"
   }
