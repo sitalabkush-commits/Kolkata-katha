@@ -1,14 +1,16 @@
 {
- "updated": "2026-11-15T23:06:16.787612+00:00",
- "env": {
-  "temp": 22,
-  "feels": 25,
-  "hum": 89,
-  "code": 1,
-  "aqi": 282
- },
+ "updated": "2026-11-16T00:14:41.762238+00:00",
+ "env": null,
  "brief": "",
  "items": [
+  {
+   "title": "ধর্ম-প্রশ্নে শমীকের তোপে কলেজের অধ্যক্ষ ও স্কুল",
+   "source": "Ei Samay",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTliUC1CRlUxekdjN0Z5ZE1aYmR3cWoydmhNRXdNWGVGbWl3Vy1peDNiMHR0N3NQWDJjQ2xxeHdjWDcydzM2ekNGOGdmLTVrSllFTXJEeTM3QkI1amtUb0hLWHpacU9KOTFhSE4wRjQ5dTNLUHllbm04SHQwdl8xVUVpVUpoMi00M3JLcmxCeURqMi1qM0h3ckZiVm5fMmRWdGpXc3V2dkd4OUQ4bHV6U2dFVnBhd3B4N1pRMHVnek1pTDRyaXhEVno0Vm1SSG03TElZRkxSYlpVd9IB5wFBVV95cUxOQTJSUnVjZkRzSUllekZRa0VCSnd5d1pFV0xINXZYZ0VzaG1RM1dCY2ZuZ05yS1RkR2ZsZXJJRlRKcVV2STJTTjhFaENLY1Y2M0lVMExZVlZIU2swWTdjQVpSeFNDclkwNmFSYmdxc1JFd2tzclhlT1RQanNQckNmWUhBN3Rpajd6RzkwTTNFTllmcUUyR1RuckxRTUN5NlRMbmFtNDE0NDE1dno1MURhODh0U0hVZ3dtUEt2MGVzTnByNDA5eVlkZzc1Q2VQNGxISGYzQk1kZy1oRU91SGdMODdCRWR5Wlk?oc=5",
+   "time": "2026-11-15T23:04:13+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
+  },
   {
    "title": "NBCC signs MoU with West Bengal for College Street and Tangra Chinatown redevelopment",
    "source": "Prop News Time",
@@ -122,7 +124,7 @@
    "lang": "bn"
   },
   {
-   "title": "Why Esplanade Metro Station Exposes Kolkata’s Land Bottleneck",
+   "title": "Esplanade Metro Station: Kolkata’s Land Bottleneck Explained",
    "source": "Urban Acres",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1NMYVMtcTFOVzFBVFFxcnBtX2hITXRtX3VLaEpKbndPeEdLeExHUHlVZDA4WXBWd05VSjdQNFBxRGw0OFd0VkRtN3Zpbl80cUh5RmY0RGFxazlVY2xZM1BEZjQtNGc3TUF0eGh0MWRiZmNKWWFDc1ZmNnFpeE5KNzRpSVRmMlNYejZJ?oc=5",
    "time": "2026-11-15T18:53:04+00:00",
@@ -182,14 +184,6 @@
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOelNvXzlTZzE2NXh3NlR3bzBMLVowRl8zd292Uzh6UjVLSEl4QU9TNjdiQjdaeGQ4TnQwSjQ5UUYyekdaNDI3QkhFVzJmTXUwbHhBcFRDMHYwTDdaMzJzbmhLODQxcWpIc0lXV3JjZWZZbzVmTWlmbi0tbzNYdmN4QzRuOV9OU25GTGFfQWRtcXFOX252dzdoSU9nNFFJUmJFZ2dBVzBIUnRqSE5nLVlQZVc0U2RrQVM1b0pORGtWTmtmSFBLc0pENnZn0gHPAUFVX3lxTE0ybnphZ09IbXlNRkR6VVhBWDJDZHZPY25EM09hZ2c1T3o4M3RldVZaZ3VEcTNXOW5mcFRhT2MyUUxpaFR3MG85dDhKbGRNYmdNOXEyU1VObl9KRmJMVW0tRnZ4b0JNdGdwUlFkUXlhUlpLWVBmTGlwdzF4UUFjdjBzSURjMk5yTC1MQlFFbHRod3VtN3ZEb0gyeFdRVURJNHgyNEFWZTlIN2dweTVnWGFYczNCb1JmWmxvU1VfQVpySENnUzJDdVR3XzI4dnpDTQ?oc=5",
    "time": "2026-11-15T18:42:00+00:00",
-   "cat": "শীর্ষ",
-   "lang": "en"
-  },
-  {
-   "title": "Sell off Bengal property in 8 weeks, Calcutta HC orders Mizoram govt",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZUNJeHdMRGI1RmJDemR5dWdyRXhZQmp5YUdhR2p0NFNaN2FNbHJuaWJmaTVaMWo2cHd3MTZ6UU9XWEU1VmJrVlVLVVVwOXRLNTNXTERrZzdfSDhDSkJQYWVfaXJNcTZCSXAwZW5SWGRRaUp6UF9aLVVraGJ4ckJkcG01R2JCWGIzdy1wbFFZMTlwRzY1VXJPWWZkN3diNTJwQjdrVzZXZk93dWVxLTNOZlRvaC1RRXBpbjE4NDlMXzJOWWViS1JXUmI2T3JGTlVYZ0dxWkU5a2d3akHSAeABQVVfeXFMUEc5SFBUYjdBaXZfTG44NXhRdDVyU2JRSV9yUXR5eU40Y0JQVy1tYTZ5NFA4T1FxcWJOVEpNeFNucUlwd0Z2YW1QY200OE5NUExvRXZrMWMyNTNaNzZTb21JQ3NGZENlWlN1aHBpWVJIM3UtVDEzeHJHQU9BN3FnRnFvNG84ZjFrUVRNMDJTQmdyUlNOdXUxRXFsdnd5eVU3bWZWc0NJUkVxZHBDY2Z2SWg2R0ljWU0yYWVaOVdJcWlXanp4ck51d2UtcVd6RE1Xb3lZalpMalhsaENFMVQ1T3M?oc=5",
-   "time": "2026-11-15T18:39:00+00:00",
    "cat": "শীর্ষ",
    "lang": "en"
   },
@@ -306,10 +300,10 @@
    "lang": "en"
   },
   {
-   "title": "রতনের গুলিতে জখম কনস্টেবলের চিকিৎসায় গঠিত হল মেডিক্যাল বোর্ড, এসএসকেএমে হতে পারে অস্ত্রোপচার",
-   "source": "Anandabazar Patrika",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOblRkUk1pZHl4ekhZOTF2UDhqdVFYeFJSbHdxWkRFaUFtSGg0NGRvbkpxSm1rR00zdUZJaDZCc3g5clUyQWlfb256NjluZWRfMkt3aU56WUtHZS1fdUdhbXFtQkF1ZkJQeDYtRG5idHZqYVQ1Q25MNGwxd1FxVm9rS3J2WWVTU21oSzBjTEJEX0hyR1FyME54UW5HbmpVRDRSdV9NaFIydWt2Zk5ITHN4U1lYc1pTa1VSMlctVW1YbW7SAcYBQVVfeXFMT2szczRfSzBtLTZBdWJCRlFfVmN3dFk1WGxVelFDcE5sSkEzYm1maC1QZXFaSHdkWllrQ05USmczazlHcDFwc2NzbEhlNlBNR0pXbVljYXV6aEYwQzJnbER2NHV1TlBpek1UdWhmSGg3SmJiVGlKUEdTM1Q2dmxObElLdEl1Qy1sejhISWtiUFhEV2d0bjBwamU2X3ZWN0hFQ3ZKV2MxVTNSVXJIaHktbDZVMzZReFJXbUF4bnlobzVmWWl6S0xR?oc=5",
-   "time": "2026-11-15T17:19:29+00:00",
+   "title": "জমজমাট বাগবাজার, ঢাকের তালে মেতেছে বাংলা #shorts #Bagbazar #Kolkata #Dhak #BengalFestival #NorthKolkata #Shorts #zee24ghanta",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQQ0xrbkpTXy03aFN3VUl3X0JiZVdXT0JOMjh3WXlKTXVNeFJyR1NBYzB6SEFESjNjVElCbFVYcWVzd2hBSkxhTlUtcW5remZzaWlsS1E0RXpzVHJMWnRBNl9hX25WVFM3alRyQUhIOGdTTHpkMTB6RnVWQmtWczQyTGZlNVFIU2U1T0V2RW1vLWRYMDAxYVNQRnU3czJPc1hzNG8xS1JlRVBlX3B6TTFYMGFUZkhOcDc1ekYtd0ROR01EVVVpdDFzbHNlVXBsUlhnZFVfV3FNVm1yRWRhdi1RSVIycHlGU2VLRlJadGI3UEoza2VaTkNFX2VtNndlLVVIcFVZNlVsTmlNbTFxclJjaWlDbWNxNWFRZGVhRW1OSldDOUdWczZIRTEySm8tZEhEdXZIZURDQ3FHWXlUTTNsNmtDeG83UG50bkp6bEQyQ1g0N0dWMUFFdXVYTTRvdTNiLUdaaF9GUXo4S25EYzBzNG5KVFJycldzbkJQRFA4RUNQbGpWbHZnaHp5RzBUdWtoMG96akduWDlJSHFPQkljWFpmT3RPOVJnSjNGSDdNTnVJZi03cVZwa3d4cGxPZG1pVHc1SW04NG54UWVXUGV0UlljMU1UR0tLWmZXNlpMVmF2cDBrZ0FvR2t6OS02V09wM2E1UHd2VDFhcmJZbTU2cEFJMXNLamZic3BoVG1OdWZwVVZsN1lpckVhWU5BMVF6Q3Z4cVc2LUQyY1RUZVU5dnlMTXVSdkpBZUZ4b0VIcTZzVmZF?oc=5",
+   "time": "2026-11-15T17:23:08+00:00",
    "cat": "শীর্ষ",
    "lang": "bn"
   },
@@ -366,7 +360,7 @@
    "source": "nilkantho.in",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1acVRFTWsyMTB6WG41SmVqVWNaY1BGWWpJWmF6enBpaVNBc2VoX3paNzRWVTBsSTlsb3lFeWhjQzEzMWotSGdXNWJSRXRvdw?oc=5",
    "time": "2026-11-15T15:38:01+00:00",
-   "cat": "আবহাওয়া",
+   "cat": "ব্যবসা",
    "lang": "bn"
   },
   {
@@ -390,6 +384,14 @@
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY0tnY1I0aGZXS3ZYOEdoUTBpVko2aU84cndDelVWQ0dWemNHVGMzNE8yZkFxQjRiR1BCNWh2dmpWQTBmWXdiNVRma2oyYy1VRmRuaUlpS0x4cUcyYXlJbkF5WEtkX3ZaUnJTdE03MW5jX0Z0S21jTTZvMm9nTGZuYm51eGpZNWFBaU1aZHlPcUxfTUh4b09UcWVpUlpOQ3BkSTRzOEt0bW9WZHUxLVBxMVh4bkhXY0w4RmJ1UHdyRUNBWW1idlNhN1VpMWhiRE5KRDJyU094Mm9ld9IB3wFBVV95cUxQS01BWkY4ZXFwNW1KMlJrR1ZFTGdrZW1JSlgzVmJKMlZVREtQdzdQcHY5OHlnRm5MSXYwX2kwMHFocGMtblVKYjZ1UmQta0FyU001azV1TmhkdjJBcGNHMlMzdTdsV0h2ZVFfQmtCNE8zLTZrbHIweGRWbHdEeDd0bF9DY09ESmlKUGhuV3pHV2Y3MnFOV3Y3QW1WVEpLMkVZNHltQnBuc3JfaFNtTnlMaHNTVjBLdUJyOEkzU0ZIcG5vTmg5dXN4REtFaElzT3MxWTBjTC1PV2NoVXNIaTlv?oc=5",
    "time": "2026-11-15T15:05:00+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
+   "title": "SMAT 2026 Round 2: Full list of fixtures, groups, venues, streaming info",
+   "source": "Sportstar",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXE1YW5fRFFnclVGdkpHTnd4Ymd6UzFobG5PQzFBVXF4V3Q0N1praF9rRDZrb1NpM0VlckhXUU9ZU1JLc3dRbTZKXy1kblQxQ0hCYU15NkFrR21GR1NNUlU3aUFKN1F0ZzZVRnRoX3hwejdTbnlZUkF3ekpDeHEyS3Ewa3J0QmtXMGRyTER2QnFWRC10UXNKQ3p1YWppVi1XZlpPQmw5T20zQdIBsAFBVV95cUxQN2FmYnNod1hvNHZwa0hiOVZuUWZrUlBaOEZlWkg4UWhQYVFhOEt1Wm9iVEhMQ3ladHNVWmtoWjA4M1A0RlYyQ3doNnQwNmxNdHY5TjdjdHZKenBMM1phMzdMU0lYUklIYzFCdnJ6dkZYZlVpdk5JU0hjOEpQYzJnMEo1dnVhUG53SHRaRXRwUnFsd0RhaWgxWFcxNTZaMy1kREZOTW5hUFlydGV1NFVIbg?oc=5",
+   "time": "2026-11-15T15:03:33+00:00",
    "cat": "শীর্ষ",
    "lang": "en"
   },
@@ -539,7 +541,7 @@
   },
   {
    "title": "Suryakumar Yadav: মাটিতে বসে মটন-রুটি খেলেন সূর্যকুমার যাদব! কলকাতার খাবার খেয়ে বাংলায় কী বললেন বিশ্বকাপজয়ী অধিনায়ক?",
-   "source": "News18",
+   "source": "News18 Bengali",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenlocENyYmZrb0R3a3Y3WkNoOVBsS2lkblNQMVBlcUVfQWFSU1ZDS3pnY2Y4RWFaUjQ3dVFPWFc4c3daZnlQNHBGZUVySEdiTDBGNU9ZSmxDWWVMM1l4Q3FVMzVjeXpjNktkN3VaUWFRRURPRC05WkVWdUt6T1JxTUthcUxTcENiYXc4al9ESGhqb0dTbjg1TVVlY3lOVW5fTFJaT29DcEVCckZQcXBmNWx2cWw3VjFBVThWaUNNNmNqZlUx?oc=5",
    "time": "2026-11-15T11:45:00+00:00",
    "cat": "ব্যবসা",
@@ -560,14 +562,6 @@
    "time": "2026-11-15T11:39:25+00:00",
    "cat": "আবহাওয়া",
    "lang": "en"
-  },
-  {
-   "title": "মাটিতে বসে খাসির মাংস খেলেন সূর্য! সৈয়দ মুস্তাক আলিতে ফর্মে ফিরে অন্য মেজাজে টি-টোয়েন্টি বিশ্বজয়ী অধিনায়ক",
-   "source": "Anandabazar Patrika",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQNV9DS0pGMXNHQWM2eG9XNzFPaUt3c3djbXhGd0FvSnRuSHltS0cyZ2tFZmNGanBJRnlvdjFKNmFfWEcxb0RMbGJHczBOZFVFSW1feko1d0l6RVFXVWhvVTNyZGQ5a0daVDVHa2Uza2RWUUJvb0E0RnM4Vmx5NjgyWWtpeDdOQ2VySk1KLW9fRnhoOXY4TWtyZ0pRbnlucUliaU1weUZjcWpzNzZDZnNpUm85eHd2UkI2M1I5MlRhWHNPREdramFaSU1XNmRMNW1PaUstdW1KZXpBdjQ4clJCUktzZWhDYklPXzEyVzI1MXVpM0h4RGJlS0w5ZmJyUkJmNjdmV0I4RGtlRFpVSkFTTmxnNDFDeFAwOUh4b0wxMkVQYWRWWFHSAasCQVVfeXFMUFRlOUc4c0VOa1E5YWxsQTJWZVBoSDE0VUpqTjZzX1RqZVo0TGhsVFF6Tkdza3hwN1Z3OUtKQmJGYVBXNVlRaC1Pakw1TlZIbjFkdWV6ZEZFd3Zhd0FPN3pYb3I0dF8xNkZ1d1hEX3dnaEZnQUZsZWM5QzVKVnkzaTA4cjNFNUpkRFVLSVpUSTFOdFpVVnVKRUdhU2ZRVFNWZENzeXV0NG9uMHpOOWRTbFhmSnJhSWtFbGhRZlNmVGNpQ1lrZV82d2x0cUtKQm03QlliWHFSeXl2NDRIWTNMN3dFNUpzZ1gzRWRldFdBNkRGbDd5a3dDdXlPYzI4NDBJYlp2cmFVaHROWDdORE1JTExDWUpocU1ySmk3VlFRMF9RalVIM0NtYmRNMTQ?oc=5",
-   "time": "2026-11-15T11:32:17+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
   },
   {
    "title": "Rinku Singh: প্রিয়া সরোজের সঙ্গে বিয়ে, প্রধানমন্ত্রীকে আমন্ত্রণ জানালেন রিঙ্কু সিং",
