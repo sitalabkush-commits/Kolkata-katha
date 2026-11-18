@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-18T21:47:06.987501+00:00",
+ "updated": "2026-11-18T22:46:42.179013+00:00",
  "env": {
-  "temp": 23,
-  "feels": 25,
-  "hum": 76,
+  "temp": 22,
+  "feels": 24,
+  "hum": 78,
   "code": 3,
-  "aqi": 187
+  "aqi": 186
  },
  "brief": "",
  "items": [
@@ -55,14 +55,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNak9ZTGFNS0JvS2c4T2t0RjQ4ckRyS3VXNVIzYWNwY1FNeUktVXVrcDVtYnlwbzlpQmZYb1VYdnFyX0dHTGM5SmM3VERqakpkVVJkaGUydzdfMVVaWHpaSzc5ZXpObkpWVFkya2w1M211dUhabk1JcjlNUDNLR0E0R3BPWVZuMXZkSEt3S1JzbXV6dm9jRWZpVFpta1V0SlZqa29IdE1KdUo4Z9IBqgFBVV95cUxNak9ZTGFNS0JvS2c4T2t0RjQ4ckRyS3VXNVIzYWNwY1FNeUktVXVrcDVtYnlwbzlpQmZYb1VYdnFyX0dHTGM5SmM3VERqakpkVVJkaGUydzdfMVVaWHpaSzc5ZXpObkpWVFkya2w1M211dUhabk1JcjlNUDNLR0E0R3BPWVZuMXZkSEt3S1JzbXV6dm9jRWZpVFpta1V0SlZqa29IdE1KdUo4Zw?oc=5",
    "time": "2026-11-18T19:32:53+00:00",
    "cat": "সংস্কৃতি",
-   "lang": "en"
-  },
-  {
-   "title": "Kolkata Police Act Against Parking on Tram Tracks",
-   "source": "urbanacres.in",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjJxSm1uVHh4eUJxYU5idXlxWGRhbTA5dG1MdVduNWd1VktkQVIxVG9IWVdpWjhPeGNRY182QV9iMlFVMWhCeGgwVmNBaEsyZUJURWdPU1BPcUlES0JDNlBuN1NFSmJXZktjVFlpNXNxdE5FU1cxdVlzNVpRbkVCV19HV2YxakVwbGx4QzE2NWpqOGMyeXA4eWhCTi1IQQ?oc=5",
-   "time": "2026-11-18T19:09:28+00:00",
-   "cat": "শহর",
    "lang": "en"
   },
   {
@@ -162,28 +154,12 @@
    "lang": "bn"
   },
   {
-   "title": "‘প্রয়োজন পড়লে কয়েক সেকেন্ডেই…’, কলকাতা মেডিক্যালে অশান্তিতে হুঁশিয়ারি মুখ্যমন্ত্রীর",
-   "source": "Sangbad Pratidin",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOelN5S2cxdHFPWENXanEyNlRZMVo3R3EzOUx4ZEpfclBZTnN1bGtVdzItWlhRbHVXU0hEUjdjTTZ5OWp0UWpabkZKZ0FWLTZ6TkY3S09jME9SRnptUW9OMmQxZlM0WjVuWnU5X0dUeTd6UExSVExNc0c5cE5TaEdiampKc0s3d3E4R1RQWUNLNjk4dVNDaGhXSHA4WTVTXzNTT3YyUVBmNk5iSGZ6UkREZl94NzQ?oc=5",
-   "time": "2026-11-18T18:21:43+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
-  },
-  {
    "title": "প্রয়োজন পড়লে কয়েক সেকেন্ডেই..., কলকাতা মেডিক্যালে অশান্তিতে হুঁশিয়ারি মুখ্যমন্ত্রীর",
    "source": "Sangbad Pratidin",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDlHSnY5azZpZ1NlZFV4OE1YT3k5bGRUSTBKVHNqMEtiSzBFWUtkS0tUVWg5emxTcF91ME5KN3hScmFEaElSdkJZendpdC0zY3pPQjduVFR3ZmstMVVGM3FuT0ROdkZnWmkyQTJMcGl4WGJUbUVqY0ZRMzhoQmtub3Q1RE8wdXA3eHg2aGdid1RWNUJEQ2xBWUhPeG9hd3JVNlZUeGtyYlBubVRnMzdrem1uZWg4Z9IBtgFBVV95cUxPNDlHSnY5azZpZ1NlZFV4OE1YT3k5bGRUSTBKVHNqMEtiSzBFWUtkS0tUVWg5emxTcF91ME5KN3hScmFEaElSdkJZendpdC0zY3pPQjduVFR3ZmstMVVGM3FuT0ROdkZnWmkyQTJMcGl4WGJUbUVqY0ZRMzhoQmtub3Q1RE8wdXA3eHg2aGdid1RWNUJEQ2xBWUhPeG9hd3JVNlZUeGtyYlBubVRnMzdrem1uZWg4Zw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOelN5S2cxdHFPWENXanEyNlRZMVo3R3EzOUx4ZEpfclBZTnN1bGtVdzItWlhRbHVXU0hEUjdjTTZ5OWp0UWpabkZKZ0FWLTZ6TkY3S09jME9SRnptUW9OMmQxZlM0WjVuWnU5X0dUeTd6UExSVExNc0c5cE5TaEdiampKc0s3d3E4R1RQWUNLNjk4dVNDaGhXSHA4WTVTXzNTT3YyUVBmNk5iSGZ6UkREZl94NzTSAbYBQVVfeXFMTzQ5R0p2OWs2aWdTZWRVeDhNWE95OWxkVEkwSlRzajBLYkswRVlLZEtLVFVoOXpsU3BfdTBOSjd4UnJhRGhJUnZCWXp3aXQtM2N6T0I3blRUd2ZrLTFVRjNxbk9ETnZGZ1ppMkEyTHBpeFhiVG1FamNGUTM4aEJrbm90NURPMHVwN3h4NmhnYndUVjVCRENsQVlIT3hvYXdyVTZWVHhrcmJQbm1UZzM3a3ptbmVoOGc?oc=5",
    "time": "2026-11-18T18:21:43+00:00",
-   "cat": "সংস্কৃতি",
-   "lang": "bn"
-  },
-  {
-   "title": "KMC turns to social media to boost tax collection",
-   "source": "MillenniumPost",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdWNDaWU1cGFoeEo2eWxTR3BqaDZIS1lzOG56X240T0pmZWx2ckZ6RG9KbTR1SkRoa084azNvYnpnaTlPNDY1UjBFdDBnMTVxU1JSaC1hRE11czA3aVJjLUVIV3lycVl4dFR6Umt1UVJQSHkxWjZHeGh6eWZLT3NodG1faUZWZ3NyWEZQNkFVREhZQVJsdTc3bNIBngFBVV95cUxNZHRVYUdHcjNvczZkN3ZMWmpKRkFrbi1RNFlfSTZIa2lhVnN2YU5OZWNRU3JRU1VTaUZmRlprOHJIR2RwMUxoaVBnbWpFX21YZV81RDItRXBvbmNKYVBiLXU2UE5XSXZjRXVReG92a3QtU1k0UkNQbkZvWXl5QmpVaHZ3Mm9BRkItVUR3QmRFOVJ2ajBsRWpJYkdlakUwdw?oc=5",
-   "time": "2026-11-18T18:16:19+00:00",
    "cat": "শীর্ষ",
-   "lang": "en"
+   "lang": "bn"
   },
   {
    "title": "আইপিএল থেকে ধোনি অবসর নিতেই কী প্রতিক্রিয়া জুহি-বরুণদের? ফের নজির গড়ল 'রামায়ণ'! কেরলমে কী ঘটাল রণবীরের ছবি?",
@@ -442,6 +418,14 @@
    "lang": "bn"
   },
   {
+   "title": "kolkata knight riders",
+   "source": "Cricbuzz",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxVGhnZjFLZUlwN2dyRG51UlZZckpybUVjOXlPNmRWcFZIMWhULWdyVUdWbl9tRHBNYmcxRU9XbXNYckRkUFpLUWdvTURtRVBidDIxVzVtWVQ1RlVtMGpuQnBBRzNiTGxDZzJsY3dHYklGMkV5S1RTdEhB?oc=5",
+   "time": "2026-11-18T15:43:37+00:00",
+   "cat": "শীর্ষ",
+   "lang": "en"
+  },
+  {
    "title": "Kolkata Metro: জোরে ঝাঁকুনি দিয়ে সুড়ঙ্গে দাঁড়িয়ে পড়ল মেট্রো! চরম আতঙ্কে যাত্রীরা, ঠিক কী হল?",
    "source": "TV9 Bangla",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM3d6LXMxeEdwVkNBOUV6dGJmMGFfVEZ6SjBLTW8xbTZuYjFxX0lFTVV4NVBGQkl6bldjWjhtbXFnLS1OV1FCZnN4U25RSnNvUm9ub3EtMmRVNk1zd0oySUYxWkZ4bzJqR0ZQLTB3TXRxbkFZcllZdVhSVTBWc0dqUDZ2Q1NRQ3F6al9ZYWJfSmo4OGZHS0JSVFBldGNiMWF3dFRRUzFHaGFKMWtEXy0xWkxkUGdTTjdHMk5rZkJFbGJEaG5IU3RBZVBVVTdYNWxURWtZelVSelpiUXplQWdjRmR3dThyYmFGZXfSAe8BQVVfeXFMUGlmcmlMYV9IUzYxOGxKNlpXMm1pZVRLNnNQTnFWMEVPcm9XcUppdVJqY0dlTGVDeEpNOWl6Mkw1dGo1UjNoUnkwNUpCcGNkV0FkaXM4Q1ZYUFRTTm9UUmdyVEIzbXpvalgySmd4UHV3bndJYkVJdEpqVnVPY2dpdlJVWWRPNEZoWERxWWhqZUhQTncycWdSZ28zdWlzOEt5aXYzWHNVckF5U1FTY29DcEVFenhrQmtMNTU3QnJLUzNjTHdpYkoyOGFaLXQtMEk1SEtWTVE5SDA3OFJiOE50UVNOVW5aWXdPYlBIMVVGTWs?oc=5",
@@ -504,14 +488,6 @@
    "time": "2026-11-18T14:29:09+00:00",
    "cat": "সংস্কৃতি",
    "lang": "en"
-  },
-  {
-   "title": "এক বাসেই মিলবে তিন তীর্থের সফর! বড় উদ্যোগ রাজ্য সরকারের",
-   "source": "BiswaBangla Sangbad",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWY2MnJfX3RneG5TZktkcFdROEw3UGg2QVhZeVVyZnFMLUdrQUE5d05fbWxRWjJCaGZyU2Q4Y3VxMWRFV0JNX19rUVg2VHFJZi1hNk5kS2FVeGZ2ZXJTRk5VV2hPWlZnd2VzM1hBWnk3RFozdFdCdmF1MVNMYVVUSHFGN1RibmlRdzV2LTMza1FpdFJ1eE1HM0ZHVTB4TVMxNU5nWUlmU25sVFE0ZUdJa2pSb1V4LUZmVHNKa2Nld3IwQQ?oc=5",
-   "time": "2026-11-18T14:16:27+00:00",
-   "cat": "শীর্ষ",
-   "lang": "bn"
   },
   {
    "title": "Cyclone Akvan Changes Path: Odisha, Andhra Pradesh on alert, Kolkata faces heavy rain threat",
@@ -704,6 +680,14 @@
    "time": "2026-11-18T11:26:31+00:00",
    "cat": "সংস্কৃতি",
    "lang": "en"
+  },
+  {
+   "title": "বইয়ের স্টল বসানোকে কেন্দ্র করে কলকাতায় এসএফআই-এবিভিপি সংঘর্ষ",
+   "source": "Jagarantripura.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3JFMmN2aHZRTWp4SGtKMjZfWXNkcS1rU0NGMWFNQ0tCZ2ZHNXhJYlliamE0alhfMEJoYzNYRkJ3Qk8tWHpEcmpHZXVyTnlvempQN0dOR01aX1h5eTBwU3kzNEYxbU9DNDRDa3J2X1UzSXFSWEQyNmlGT1JoVDlpZTJ4S3BWX2JURmVVSnl4aE5DQVhIeDdYenMzMFRuWGJfQW5Zd3h3?oc=5",
+   "time": "2026-11-18T11:25:55+00:00",
+   "cat": "শীর্ষ",
+   "lang": "bn"
   },
   {
    "title": "ঘূর্ণিঝড় আকভানের প্রভাব বঙ্গে! কলকাতা-সহ কোন কোন জেলায় বৃষ্টির সতর্কতা?",
@@ -1346,6 +1330,14 @@
    "lang": "en"
   },
   {
+   "title": "Kolkata Puja Pandal Stampede: Eight Medical Interns Issued Show-Cause Notices",
+   "source": "Ommcom News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYXlPZHpDR3AyMGRqbXhYbXJsV2Y0WGw4NFQybTA0eVp3UlRsY2J6WmFsSDR2M1haNnF2ZVItVHNnMUV2WXR1blVnSnpFa0VOUkNTZDBRQ2pGU1JuWHg5RWE2U0g1eFRwSm42R3BFTl9HUG9WTUEwbGtqT2ZHMjlaaGJmS3BjWUFwUzBPOHdzNURncWVmRzZuVWp3aWpXSGU1T25zbG94WHNBNVB4SVlLVw?oc=5",
+   "time": "2026-11-17T14:23:28+00:00",
+   "cat": "ব্যবসা",
+   "lang": "en"
+  },
+  {
    "title": "কম জমিতে বেশি কর্মসংস্থান, স্টার্ট-আপেই ভরসা নবান্নের ! তৈরি হচ্ছে নতুন নীতি",
    "source": "ETV Bharat",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQamF3MTlsdlRuMGJhcHpIUWJzZEZ1aTdYXzFkb3JEdWtfMWZwNzJvSUlTVEx6SnBnYkZKb0R1dkNZdkQxbjB0cHJ2bFNCajJDaTRpZTZ3S1FpT2d3SFFTN0F0UXE4TVVNQ1JHMEhiQUEyU2twajE1emlMQ1ZEYTQzNHYzaGU1UmVzczJRUlZvRUQ4bGMtWHNudjRNNjJzOHlmYkFBSHZ6YmJ3RzRzQmtjSmtPbUlyeTlsQ0NScWJvZTdOM19pbjc2MTZ6bkxhcGV3TXlMMzcyU2JjYmJ0c3lGY2RIMTZoSmJGdFVpSk5B0gHzAUFVX3lxTE9TeHlLTnZDSFVydC1QZFB2emFwODNHWndXalZZZmZGZld1VHdEUG5aMnFpUjhkaFVHc3F4N2FQbE8yZE9tZVJkeVByWUYxb0ZvNnRKNHhpZXFMSEgtTzdkSXhldUZKemJFNWt0Z3phZFZlYWRHd0NZSDRuZTNuQVVhUkVSVTQ1ZTNzSGIyS1RBdVZHMDB2WmRjV3JmbWJKTjdNdlVfVWJ1RUMyZnhrdEZsZjRod0diWncwYWdlYkFBVmxiTzNLd0RkNExpa3NYXzJGbmpudFEybFR5N1p5dk9uWEZobmFrQVozRFlXVS1YTWh1OA?oc=5",
@@ -1410,10 +1402,10 @@
    "lang": "bn"
   },
   {
-   "title": "Kolkata’s old Maidan Market to be demolished in December ahead of Esplanade Metro station construction",
-   "source": "ET Infra",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS1NLOWFJY2pMa21ReDBKUnFsbzdjUDNHdzJiSVo0UnZSUTJUcFlkQzZ1aXN1WXl5cGZXZ3FPLTV2cVFMU3dsMTBGVU1KTUl4aXByRS1xbmoySzBMak1kUHlTSXR3RnV3UnpNcVh3Zmh2MlRTOVdKMlA1bFdYaE1HSThmYUlQV1lDeDQwQ1RoMktkNE9TLThZblJ1ZW9SLW9sb3FzMVVzY0toRW5lY1BCNGVqTUNEc1hPY1BjeDB5VUExbHRObUxjYndXRFZNQ0h3M1QyRGZTUUFTc2ZDcXRHek00Z3ZueGFSUDhtalZpM3VaMWNXNVNZdW9ya3U1M1A0VkNiYUlIX2VNeGhz0gGQAkFVX3lxTE1za3dkTDgxVzBTZ0FSaWFqZWpzcFNSXzdmVDIxbFZNS05HLWxyMjN5bHNRZzBxZnFUMVNsUjJ1ZTcxTkhBNW9ORl90TlgtUnRhUC15UTRSVkJIdm9mbi12NWh5ZnVuZUlBMzVrbTlsaGpqS2ptcmtqZDhDdDNmc1hyUS1uTnlleDlfaEQ0eW4xLUxWX1NDWkVYaVJGaWdFVEQ0TGdsbmQtSjFtYkF6R3hRUC1oRnllazBvV005ZHVCWVU1RDduNm5sMWY5M05OUENId2tzaGhfdXJiTXEtT0pRQ0l3RVlmM04zbzZHaEdYX0Z6WTFyZHdld3F5RVBFcHV3MkNGLUNCa3FCSkN5LXFj?oc=5",
-   "time": "2026-11-17T12:11:15+00:00",
+   "title": "Chorbagan stampede: 8 junior docs show-caused for criticising patient transfer to pvt hospital",
+   "source": "ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORERuUHFrSEEtZEFQSElPR3UtcU0yb2VKeFlVcGpkQTROUmdabXFKQmlVTGNqWkU1aEMxMk5VeUVDYUF5Q21CNmVCYWFWZFdqZGdrT1pLTmZ6RmhDUWoxV2JmdzNPdURqVU5KRlhBRlRtRmJERUJ6NFJOdzA3WFdpUzdFX1VzTk1uNnF5T2tscFBJV252cG1WX0JaRjRkNVJ0YnRvTUQ0bldDZE5iazdpaDBaUXhHc1JoSFFXbDRsOXp3cC1Kclgw0gHMAUFVX3lxTE9CX19GYXBfR0lsZjBRbFJtd1Q2VU85TzdGNE9HcXYxb0dMZUxlRi1CR3RlaV9VU0p6N3B4ME9qZlpkSHRFVWwwYllNcWl1Y2pTaXFJVmIzc0loaUZPaVUxaDNFMldzN083dk9pNlNWeEtlUDVBbm96Q29qbG5vb1VDcHZtUHZOUzFRT1FPVUxUM2premJIenBKSFB3SXRLWHlpaGh0dFdSUFd5YzctYkNmS0tqbTNXOFFjSmo3YkdaRTRqcHJqMS12Zk56cQ?oc=5",
+   "time": "2026-11-17T12:46:58+00:00",
    "cat": "ব্যবসা",
    "lang": "en"
   },
@@ -1559,14 +1551,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQY2s3VFk0cnRVWVVFOF9ZYVhLM2wzQ2h6Y1FvZ2JESWRuUDd2Y3MyZ0pVZmhDaXU4VFh0SzNSMmE5bVhvUW9nVHFpZmJyVW8wSkJoS0lIMDNLMVlPejRISWtKYjVYb1hCdnJpaG4xVWpYbTFoa3E1RG1jQ0dqa2s5RGZnWE9oSldIb1ZhcUxlUzM4SVNMenNZdVA5Vlc1bkVadU1VcXFaaURMejBvY0ZSb0pxZS1qcXhaZ3VaVERNRWlfdVNYR1YzWTJZWXpCbmRGN2djYjZicXlLLWtlRWs3Y0RhNlhPSE8wdlZxYWhBQkVfNkhsdW1TUjFYZmhfU0QtWkktRnpVcWFDQUVaaDRKaXlVeEE3Umg2clHSAZ8CQVVfeXFMTmtiMWJYYXplaHMzbkxwakFKOEhrdGVVUGpONWtQSlI1ckplN2l2WmZGbUJ3UjBncFFfc0E1c0xkOFFCazFJUTE0RHIzWGIyVE54eDRfY0ZMUy1SZmJmQWdxZlplVGc5UWtVYXZoVnMzZERSQVBIUHRtcmV4TUpaZ0lnczdZNWV4WWpxd0hLRl9fYnlNQlNzNEttV25LaWhkaG1WaXJDQW5aOUlSVTV0Y3dZNkxpMTZ3QUVNSnU3UnhoR0Q2c0lvSGQtU1kxQS1sMGdQMlRtSDNCRzB6dGJyX2JwSUhHNEJyRldqUGpod2RVdkdUZHVrZlhYRllsWFZsenVrVXUxR3lrSHpQWmlLVDJFR0lDa1RSb25FSWRJRlU?oc=5",
    "time": "2026-11-17T08:10:15+00:00",
    "cat": "শহর",
-   "lang": "en"
-  },
-  {
-   "title": "Gold Rate Today November 17: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities",
-   "source": "BusinessLine",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbnNRTFpORFZZS05rTmlWS2hwRldNNk02VlZlLVJpWkRBOTFrU082UVc3WElnZXNPNEptelBQel9IYTBKdHBaT0plWGFVTXRrSWN2WlNzV1MtazdLbmhlejR0Y3NIaHlKeGROSk9KQThZbnhCMUdMbWdDWUxpQUEzS0tyVEF3czN3a3FPZTBRQWJXb3B1bnctOGxNVWNnblpvdnVSUHB5cjFKeHltaVljdHVsUkNCb2FpWkluNEZObHdtcktZWmVSUm9RS2EzRE5aZEw0bjBoN1FmTWhpcEt6d1RiNU1SNlJxZWF2Zy1ETF9FWFdSRG1kSnZmN2l5S1B0dldldUpXUzdod1Y4S2dTbTNPb3UtN2tzaU5NbNIBnAJBVV95cUxQbnNRTFpORFZZS05rTmlWS2hwRldNNk02VlZlLVJpWkRBOTFrU082UVc3WElnZXNPNEptelBQel9IYTBKdHBaT0plWGFVTXRrSWN2WlNzV1MtazdLbmhlejR0Y3NIaHlKeGROSk9KQThZbnhCMUdMbWdDWUxpQUEzS0tyVEF3czN3a3FPZTBRQWJXb3B1bnctOGxNVWNnblpvdnVSUHB5cjFKeHltaVljdHVsUkNCb2FpWkluNEZObHdtcktZWmVSUm9RS2EzRE5aZEw0bjBoN1FmTWhpcEt6d1RiNU1SNlJxZWF2Zy1ETF9FWFdSRG1kSnZmN2l5S1B0dldldUpXUzdod1Y4S2dTbTNPb3UtN2tzaU5NbA?oc=5",
-   "time": "2026-11-17T08:01:03+00:00",
-   "cat": "ব্যবসা",
    "lang": "en"
   },
   {
@@ -1742,14 +1726,6 @@
    "source": "Ei Samay",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLU43VEhuMXpjUW52U3A1dzhmYmlFbHZhTDZKQ3JNWjNWQzJrSENKVEpqdXg1eTZHUWpPOFVmdVZNOGdwV29XNHB5TEt4NHVRS2JSUERtdVE4cXE5LTRZTXZjUkFGVkloVmlzWlptZEFid3dha3cxQTA1M2tMYW9UR0V6SFNaRVZscW9uS09EX3VqV2FXa2xxWWo1eEJ3SEZVSjJTMkNhREgtOTcyMnM4dXl1ejU5VC1HcTZxRUJlY3FQNnRiczFNVWlma1pKMW9SX1JBN2Z4cDVoNTVkNU04UjhVTDlJWVNGTXfSAfcBQVVfeXFMUGZZbEY0c0JORlFlblNyVE9GOFRfX3VMbXV3WUxRdWxiaG9lWm11Ri1GcVZUQlI1akk4SGl3NXpBQ29hWHlrM2szY2gtZjBYXzNwTVJCTGJIb2hfRXBMd3hKRWZ6aGFpZkdySjJWMDRvSFpIalZkR0dNci0wMFBPbDZWY3VKdFR4RTEyN3NXcHZOS2NJZGdoWEJHY1pKQjFyODcyUDRPMVUxbWliNzNrODA4dXd5clpmemNuTXBNLWhTOHloS3FIQUE1dDBwX0lnZE9QdUI2REVmWW82Uzc4enlPNFZfVWoyTjI2RW1zSXRhaFZIMy04UQ?oc=5",
    "time": "2026-11-17T00:05:07+00:00",
-   "cat": "শহর",
-   "lang": "bn"
-  },
-  {
-   "title": "চালু হল বন্ধ হোটেল, রেস্তরাঁ, মিষ্টির দোকান",
-   "source": "Anandabazar Patrika",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdmkyR3pNZGlua3J0NEhkaEM2T094UHNaNVdRTldWVHQ1ZW9DUkRiUlJ2enM1WVF4ckZTNWdSV01pVVV1TmxjcG40dndvZ2c3OVR4Qm1JUG9LcjdGRm01NWoySkVLY0g5ODN3UUp3TTFTNjFLSXM0MjM2R2pyVFlxclhuUXFTTmZ0ZzdwQU41U3pzQTdTclM3NUdoSWxkRWVsbEg1T0JrV3pHNkdKeGtqQnBxRDlYbXQzcUhOdnQzS0QtU0s3X21qZmJNOGJHb1M0eHhuVGN3MkxqZ1A3Tlo1d000NVlXUlZiRHJrVXZVYWhGUVl5aDRF?oc=5",
-   "time": "2026-11-16T23:59:03+00:00",
    "cat": "শহর",
    "lang": "bn"
   }
